@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: 4e593c1568ed6c548aedf104a38131a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1503973027491271607
+    second: TaliPayingHead1_0
+  - first:
+      213: -4315348491234795531
+    second: TaliPayingHead1_1
+  - first:
+      213: -2081366096278668609
+    second: TaliPayingHead1_2
+  - first:
+      213: -8858270381674598828
+    second: TaliPayingHead1_3
+  - first:
+      213: -4816383990593874658
+    second: TaliPayingHead1_4
+  - first:
+      213: 5987756980178096701
+    second: TaliPayingHead1_5
+  - first:
+      213: 1662523737601617014
+    second: TaliPayingHead1_6
+  - first:
+      213: -9096550947775240232
+    second: TaliPayingHead1_7
+  - first:
+      213: 715208210586566751
+    second: TaliPayingHead1_8
+  - first:
+      213: -4726538730506007515
+    second: TaliPayingHead1_9
+  - first:
+      213: 1989326528071562657
+    second: TaliPayingHead1_10
+  - first:
+      213: 6550140824332468854
+    second: TaliPayingHead1_11
+  - first:
+      213: -4650052134787320368
+    second: TaliPayingHead1_12
+  - first:
+      213: 3304237974680911981
+    second: TaliPayingHead1_13
+  - first:
+      213: 8114449254609125732
+    second: TaliPayingHead1_14
+  - first:
+      213: -4263396191001596353
+    second: TaliPayingHead1_15
+  - first:
+      213: 2465609929555631562
+    second: TaliPayingHead1_16
+  - first:
+      213: -8880669957787608956
+    second: TaliPayingHead1_17
+  - first:
+      213: -2554317690871349372
+    second: TaliPayingHead1_18
+  - first:
+      213: 1373250259735275213
+    second: TaliPayingHead1_19
+  - first:
+      213: 6532770930737612462
+    second: TaliPayingHead1_20
+  - first:
+      213: -4723908985450960863
+    second: TaliPayingHead1_21
+  - first:
+      213: 397407727362322571
+    second: TaliPayingHead1_22
+  - first:
+      213: -3740996126470174623
+    second: TaliPayingHead1_23
+  - first:
+      213: -4724923360978346017
+    second: TaliPayingHead1_24
+  - first:
+      213: -52445847310229407
+    second: TaliPayingHead1_25
+  - first:
+      213: 7780376842223780569
+    second: TaliPayingHead1_26
+  - first:
+      213: 2036826552350618172
+    second: TaliPayingHead1_27
+  - first:
+      213: -3831397868120709367
+    second: TaliPayingHead1_28
+  - first:
+      213: -742111211055468023
+    second: TaliPayingHead1_29
+  - first:
+      213: -9106149801765965641
+    second: TaliPayingHead1_30
+  - first:
+      213: -6182204982371080746
+    second: TaliPayingHead1_31
+  - first:
+      213: 4134894438580095056
+    second: TaliPayingHead1_32
+  - first:
+      213: -7574517911162033095
+    second: TaliPayingHead1_33
+  - first:
+      213: -6382323723307579603
+    second: TaliPayingHead1_34
+  - first:
+      213: 19944565571973990
+    second: TaliPayingHead1_35
+  - first:
+      213: 75569261275138227
+    second: TaliPayingHead1_36
+  - first:
+      213: 3454005017316131753
+    second: TaliPayingHead1_37
+  - first:
+      213: -5912193505239228306
+    second: TaliPayingHead1_38
+  - first:
+      213: -5496460316645234593
+    second: TaliPayingHead1_39
+  - first:
+      213: 3857894011328348428
+    second: TaliPayingHead1_40
+  - first:
+      213: -8374088795265793185
+    second: TaliPayingHead1_41
+  - first:
+      213: -8275459777991312467
+    second: TaliPayingHead1_42
+  - first:
+      213: -5701749937535299811
+    second: TaliPayingHead1_43
+  - first:
+      213: 4573672821750738703
+    second: TaliPayingHead1_44
+  - first:
+      213: -4370591202354888359
+    second: TaliPayingHead1_45
+  - first:
+      213: -1176709824813598081
+    second: TaliPayingHead1_46
+  - first:
+      213: 540474490727681325
+    second: TaliPayingHead1_47
+  - first:
+      213: 6231150678237471995
+    second: TaliPayingHead1_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TaliPayingHead1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3533
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d267008f2fd410800000000000000
+      internalID: 1503973027491271607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3533
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9ee1396dcc14c0800000000000000
+      internalID: -4315348491234795531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_2
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3533
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab4cf10908d13e0800000000000000
+      internalID: -2081366096278668609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_3
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3533
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eebef550a111580800000000000000
+      internalID: -8858270381674598828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_4
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3533
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1516c26744c82db0800000000000000
+      internalID: -4816383990593874658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_5
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 3533
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3291ecbf39c81350800000000000000
+      internalID: 5987756980178096701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_6
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 3533
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c266ae788721710800000000000000
+      internalID: 1662523737601617014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2970
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72d9ccb1f82c180800000000000000
+      internalID: -9096550947775240232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2970
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508474041eece900800000000000000
+      internalID: 715208210586566751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_9
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2970
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c401f1116f76eb0800000000000000
+      internalID: -4726538730506007515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_10
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2970
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a577f7ffe18b9b10800000000000000
+      internalID: 1989326528071562657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_11
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2970
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6720f172066c6ea50800000000000000
+      internalID: 6550140824332468854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_12
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 2970
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d574fe6832b77fb0800000000000000
+      internalID: -4650052134787320368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_13
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2970
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60463e6ee20bdd20800000000000000
+      internalID: 3304237974680911981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2407
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46109e8da905c9070800000000000000
+      internalID: 8114449254609125732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2407
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea892b0cf55d4c0800000000000000
+      internalID: -4263396191001596353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_16
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2407
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd6d5ea2b973220800000000000000
+      internalID: 2465609929555631562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_17
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2407
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881696a9b581c480800000000000000
+      internalID: -8880669957787608956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_18
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2407
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ffd10f79d3d8cd0800000000000000
+      internalID: -2554317690871349372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_19
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 2407
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6eb3fd5d3ce0310800000000000000
+      internalID: 1373250259735275213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_20
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2407
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60d95ac8019aa50800000000000000
+      internalID: 6532770930737612462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1844
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286bea5ecd417eb0800000000000000
+      internalID: -4723908985450960863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1844
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803d64f830e38500800000000000000
+      internalID: 397407727362322571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_23
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1844
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16802a7f7df451cc0800000000000000
+      internalID: -3740996126470174623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_24
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1844
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd0f5ac33bd6eb0800000000000000
+      internalID: -4724923360978346017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_25
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1844
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160212d97cca54ff0800000000000000
+      internalID: -52445847310229407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_26
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1844
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28c6b048379fb60800000000000000
+      internalID: 7780376842223780569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_27
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1844
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3231f135f2444c10800000000000000
+      internalID: 2036826552350618172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907e97540f324dac0800000000000000
+      internalID: -3831397868120709367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_29
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1281
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902343119cd73b5f0800000000000000
+      internalID: -742111211055468023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_30
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1281
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0fe32700570a180800000000000000
+      internalID: -9106149801765965641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_31
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1281
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52f11c255643aa0800000000000000
+      internalID: -6182204982371080746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_32
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1281
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580e439598126930800000000000000
+      internalID: 4134894438580095056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_33
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1281
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6a506718e1e690800000000000000
+      internalID: -7574517911162033095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_34
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1281
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2704be736e6d67a0800000000000000
+      internalID: -6382323723307579603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663fd1a0a7bd64000800000000000000
+      internalID: 19944565571973990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 718
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b84e3eb7d97c0100800000000000000
+      internalID: 75569261275138227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_37
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 718
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a38b8d53471fef20800000000000000
+      internalID: 3454005017316131753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_38
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 718
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6028d4c45ba3fda0800000000000000
+      internalID: -5912193505239228306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_39
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 718
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586458a676a8b3b0800000000000000
+      internalID: -5496460316645234593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_40
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 718
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01455ec92ef98530800000000000000
+      internalID: 3857894011328348428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_41
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 718
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f538a98cb9249cb80800000000000000
+      internalID: -8374088795265793185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7bcb5d29a72d80800000000000000
+      internalID: -8275459777991312467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 155
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f4a1714a05fd0b0800000000000000
+      internalID: -5701749937535299811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_44
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 155
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0faf43f233f87f30800000000000000
+      internalID: 4573672821750738703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_45
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 155
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518035357a8853c0800000000000000
+      internalID: -4370591202354888359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_46
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 155
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7af54816ac7bafe0800000000000000
+      internalID: -1176709824813598081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_47
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 155
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dcbfd8fa6208700800000000000000
+      internalID: 540474490727681325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliPayingHead1_48
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 155
+        width: 564
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4674e178e797650800000000000000
+      internalID: 6231150678237471995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

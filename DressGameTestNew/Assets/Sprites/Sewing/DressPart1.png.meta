@@ -1,0 +1,2160 @@
+fileFormatVersion: 2
+guid: 5232973013dc07042a1c6501240be3d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4307360163386407130
+    second: DressPart1_0
+  - first:
+      213: -5089757956374493019
+    second: DressPart1_1
+  - first:
+      213: -9084712473166254243
+    second: DressPart1_2
+  - first:
+      213: -6124812859124454311
+    second: DressPart1_3
+  - first:
+      213: -530104285450862308
+    second: DressPart1_4
+  - first:
+      213: 7495939619904737155
+    second: DressPart1_5
+  - first:
+      213: -6170979544413052267
+    second: DressPart1_6
+  - first:
+      213: 5167361909173588175
+    second: DressPart1_7
+  - first:
+      213: 231589113209788024
+    second: DressPart1_8
+  - first:
+      213: 9049320890357808190
+    second: DressPart1_9
+  - first:
+      213: -28784267927435433
+    second: DressPart1_10
+  - first:
+      213: -6158919189921485809
+    second: DressPart1_11
+  - first:
+      213: 5746408265225811178
+    second: DressPart1_12
+  - first:
+      213: -1243952922095340544
+    second: DressPart1_13
+  - first:
+      213: 4371884532666758893
+    second: DressPart1_14
+  - first:
+      213: -3658827347930276089
+    second: DressPart1_15
+  - first:
+      213: 2865686773859802078
+    second: DressPart1_16
+  - first:
+      213: -2347151468851251659
+    second: DressPart1_17
+  - first:
+      213: 6156495952423450935
+    second: DressPart1_18
+  - first:
+      213: 4391828822258691869
+    second: DressPart1_19
+  - first:
+      213: 164104969629378108
+    second: DressPart1_20
+  - first:
+      213: -841933970542450079
+    second: DressPart1_21
+  - first:
+      213: -9003921016546930662
+    second: DressPart1_22
+  - first:
+      213: -1471402768500563020
+    second: DressPart1_23
+  - first:
+      213: -6941238472081030287
+    second: DressPart1_24
+  - first:
+      213: 1915346487623074577
+    second: DressPart1_25
+  - first:
+      213: 6238599671999139838
+    second: DressPart1_26
+  - first:
+      213: -771868437163480452
+    second: DressPart1_27
+  - first:
+      213: 4145298850387023004
+    second: DressPart1_28
+  - first:
+      213: 8333522662318572615
+    second: DressPart1_29
+  - first:
+      213: 3603695734720107923
+    second: DressPart1_30
+  - first:
+      213: 9111267464691368078
+    second: DressPart1_31
+  - first:
+      213: 7933428841440675280
+    second: DressPart1_32
+  - first:
+      213: 5812192064036752058
+    second: DressPart1_33
+  - first:
+      213: -1764002229998650818
+    second: DressPart1_34
+  - first:
+      213: 2511517586374709745
+    second: DressPart1_35
+  - first:
+      213: 5686058657226991993
+    second: DressPart1_36
+  - first:
+      213: 929577805334225993
+    second: DressPart1_37
+  - first:
+      213: 252218066038034502
+    second: DressPart1_38
+  - first:
+      213: -1610345555663536434
+    second: DressPart1_39
+  - first:
+      213: 9179893853571527505
+    second: DressPart1_40
+  - first:
+      213: 3643055256229782312
+    second: DressPart1_41
+  - first:
+      213: 4798826332639144022
+    second: DressPart1_42
+  - first:
+      213: 4773462892071182804
+    second: DressPart1_43
+  - first:
+      213: -4323451825743672842
+    second: DressPart1_44
+  - first:
+      213: -1074717426256717646
+    second: DressPart1_45
+  - first:
+      213: 4313614200700720541
+    second: DressPart1_46
+  - first:
+      213: -1880743033361182610
+    second: DressPart1_47
+  - first:
+      213: -1690560628945186638
+    second: DressPart1_48
+  - first:
+      213: -7413489802106262538
+    second: DressPart1_49
+  - first:
+      213: 6612382789200046553
+    second: DressPart1_50
+  - first:
+      213: -9145417302901304859
+    second: DressPart1_51
+  - first:
+      213: 3712429652724179625
+    second: DressPart1_52
+  - first:
+      213: 6374117113530384453
+    second: DressPart1_53
+  - first:
+      213: 2935472526245184799
+    second: DressPart1_54
+  - first:
+      213: 97700976265390090
+    second: DressPart1_55
+  - first:
+      213: 1600357060424829944
+    second: DressPart1_56
+  - first:
+      213: 2462227605249316573
+    second: DressPart1_57
+  - first:
+      213: -8115104536790041994
+    second: DressPart1_58
+  - first:
+      213: -8559928371651211993
+    second: DressPart1_59
+  - first:
+      213: -3584865422530475019
+    second: DressPart1_60
+  - first:
+      213: 3289224376047946978
+    second: DressPart1_61
+  - first:
+      213: 6590717631497860126
+    second: DressPart1_62
+  - first:
+      213: 8583510548694353429
+    second: DressPart1_63
+  - first:
+      213: -7855583154231326975
+    second: DressPart1_64
+  - first:
+      213: -6668597075625472394
+    second: DressPart1_65
+  - first:
+      213: 149548214674283643
+    second: DressPart1_66
+  - first:
+      213: 2064351753852392534
+    second: DressPart1_67
+  - first:
+      213: 7008460356330658602
+    second: DressPart1_68
+  - first:
+      213: -4063728389415551132
+    second: DressPart1_69
+  - first:
+      213: -2599649847456885483
+    second: DressPart1_70
+  - first:
+      213: -9219571059711281220
+    second: DressPart1_71
+  - first:
+      213: 6292141956737322168
+    second: DressPart1_72
+  - first:
+      213: 4929438785474587805
+    second: DressPart1_73
+  - first:
+      213: -5764294703741542947
+    second: DressPart1_74
+  - first:
+      213: -3355043555341397087
+    second: DressPart1_75
+  - first:
+      213: -7415543995800772225
+    second: DressPart1_76
+  - first:
+      213: -4936316963881691537
+    second: DressPart1_77
+  - first:
+      213: -8885522241899773150
+    second: DressPart1_78
+  - first:
+      213: -1168259293106698522
+    second: DressPart1_79
+  - first:
+      213: -6674519305251549494
+    second: DressPart1_80
+  - first:
+      213: 3863322042726661831
+    second: DressPart1_81
+  - first:
+      213: -3424850955491827735
+    second: DressPart1_82
+  - first:
+      213: 9117980090541300623
+    second: DressPart1_83
+  - first:
+      213: -6347772078914529983
+    second: DressPart1_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DressPart1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274fa5b0ce2934c0800000000000000
+      internalID: -4307360163386407130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88499fa1c8d59b0800000000000000
+      internalID: -5089757956374493019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6d56732e9ce180800000000000000
+      internalID: -9084712473166254243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_3
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6420c72b400ba0800000000000000
+      internalID: -6124812859124454311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110ac306f0b4a8f0800000000000000
+      internalID: -530104285450862308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_5
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fc23e7e5de60860800000000000000
+      internalID: 7495939619904737155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_6
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592ee03bcc64c5aa0800000000000000
+      internalID: -6170979544413052267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_7
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc01d2e474826b740800000000000000
+      internalID: 5167361909173588175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_8
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87697ba4215c63300800000000000000
+      internalID: 231589113209788024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_9
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7c488765a59d70800000000000000
+      internalID: 9049320890357808190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_10
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 3637
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c01f5cdcb99ff0800000000000000
+      internalID: -28784267927435433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ca46cc0af178aa0800000000000000
+      internalID: -6158919189921485809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae437271fd75fbf40800000000000000
+      internalID: 5746408265225811178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_13
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004b23978679cbee0800000000000000
+      internalID: -1243952922095340544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_14
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de670a8b1dd0cac30800000000000000
+      internalID: 4371884532666758893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_15
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f912099eb393dc0800000000000000
+      internalID: -3658827347930276089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_16
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd27110f6f4c720800000000000000
+      internalID: 2865686773859802078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_17
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b511cc2e3d6fd0800000000000000
+      internalID: -2347151468851251659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_18
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73974514374407550800000000000000
+      internalID: 6156495952423450935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_19
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2d018b09e2fc30800000000000000
+      internalID: 4391828822258691869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_20
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a2a4b994074200800000000000000
+      internalID: 164104969629378108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_21
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 3178
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aab79b389d054f0800000000000000
+      internalID: -841933970542450079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10db0f4a85ab0380800000000000000
+      internalID: -9003921016546930662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36ff55af6849be0800000000000000
+      internalID: -1471402768500563020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_24
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c55ac264cbaf90800000000000000
+      internalID: -6941238472081030287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_25
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113c0988b7da49a10800000000000000
+      internalID: 1915346487623074577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_26
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff80612955f39650800000000000000
+      internalID: 6238599671999139838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_27
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ae885feb5c945f0800000000000000
+      internalID: -771868437163480452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_28
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c945729775f078930800000000000000
+      internalID: 4145298850387023004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_29
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7448a2f55be96a370800000000000000
+      internalID: 8333522662318572615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_30
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39515927d26e20230800000000000000
+      internalID: 3603695734720107923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_31
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c08e4c79b17e70800000000000000
+      internalID: 9111267464691368078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_32
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2719
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d509e88f73391e60800000000000000
+      internalID: 7933428841440675280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba414f43ed09a050800000000000000
+      internalID: 5812192064036752058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afee161510587e0800000000000000
+      internalID: -1764002229998650818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_35
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d20f20f3bad220800000000000000
+      internalID: 2511517586374709745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_36
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ac040930f8ee40800000000000000
+      internalID: 5686058657226991993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_37
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944a80eb61686ec00800000000000000
+      internalID: 929577805334225993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_38
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401228aefe008300800000000000000
+      internalID: 252218066038034502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_39
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebb05cf37e6a9e0800000000000000
+      internalID: -1610345555663536434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_40
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1533ce992d8856f70800000000000000
+      internalID: 9179893853571527505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_41
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82322bc247bbe8230800000000000000
+      internalID: 3643055256229782312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_42
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582fbfcf1bd89240800000000000000
+      internalID: 4798826332639144022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_43
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2260
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1696e953fbe3240800000000000000
+      internalID: 4773462892071182804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9c80b98730004c0800000000000000
+      internalID: -4323451825743672842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8db06e136d511f0800000000000000
+      internalID: -1074717426256717646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_46
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d8d2d2490ddb30800000000000000
+      internalID: 4313614200700720541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_47
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6057befc2246e5e0800000000000000
+      internalID: -1880743033361182610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_48
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b01670a01ce988e0800000000000000
+      internalID: -1690560628945186638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_49
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fba977ad4efd1990800000000000000
+      internalID: -7413489802106262538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_50
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ec25ec17e3cb50800000000000000
+      internalID: 6612382789200046553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_51
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15bd1ea63f41180800000000000000
+      internalID: -9145417302901304859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_52
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a260409913358330800000000000000
+      internalID: 3712429652724179625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_53
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54087b44eb9657850800000000000000
+      internalID: 6374117113530384453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_54
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 1801
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1543c6b5b4ecb820800000000000000
+      internalID: 2935472526245184799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e180358a1b5100800000000000000
+      internalID: 97700976265390090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_56
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb0964744c953610800000000000000
+      internalID: 1600357060424829944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_57
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6db0726f69b2220800000000000000
+      internalID: 2462227605249316573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_58
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af7716b6b516f80800000000000000
+      internalID: -8115104536790041994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_59
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d01f89f76053980800000000000000
+      internalID: -8559928371651211993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_60
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb8d7244efff3ec0800000000000000
+      internalID: -3584865422530475019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_61
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecc4e8942ca5ad20800000000000000
+      internalID: 3289224376047946978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_62
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14755844cee67b50800000000000000
+      internalID: 6590717631497860126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_63
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516cebcdd51ce1770800000000000000
+      internalID: 8583510548694353429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_64
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107cf7cedbc5bf290800000000000000
+      internalID: -7855583154231326975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_65
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 1342
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e822d9a426473a0800000000000000
+      internalID: -6668597075625472394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c54741f4d431200800000000000000
+      internalID: 149548214674283643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_67
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65493d39bfc06ac10800000000000000
+      internalID: 2064351753852392534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_68
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b1f79cf8d034160800000000000000
+      internalID: 7008460356330658602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_69
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f37357f8cba97c0800000000000000
+      internalID: -4063728389415551132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_70
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151fedbc303cebd0800000000000000
+      internalID: -2599649847456885483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_71
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ff64f7f08d0080800000000000000
+      internalID: -9219571059711281220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_72
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc8afb5cd225750800000000000000
+      internalID: 6292141956737322168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_73
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cee364572e86440800000000000000
+      internalID: 4929438785474587805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_74
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddd1dae18c1100b0800000000000000
+      internalID: -5764294703741542947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_75
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a399e589ad7071d0800000000000000
+      internalID: -3355043555341397087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_76
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 883
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a30a6602b61990800000000000000
+      internalID: -7415543995800772225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d81500edae7bb0800000000000000
+      internalID: -4936316963881691537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_78
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2234bb7399840b480800000000000000
+      internalID: -8885522241899773150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_79
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e683d4dc5289cfe0800000000000000
+      internalID: -1168259293106698522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_80
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace8ef31e085f53a0800000000000000
+      internalID: -6674519305251549494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_81
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb8a9dde64d9530800000000000000
+      internalID: 3863322042726661831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_82
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef904d933c7870d0800000000000000
+      internalID: -3424850955491827735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_83
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b5ccd4592998e70800000000000000
+      internalID: 9117980090541300623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DressPart1_84
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 424
+        width: 371
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14518291dee28e7a0800000000000000
+      internalID: -6347772078914529983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

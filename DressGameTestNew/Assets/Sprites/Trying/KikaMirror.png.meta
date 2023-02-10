@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: c468d131059820a41b0030e7ab0c4e6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3823049438389776439
+    second: KikaMirror_0
+  - first:
+      213: 4740941397904659504
+    second: KikaMirror_1
+  - first:
+      213: 7357991583317099634
+    second: KikaMirror_2
+  - first:
+      213: -1345611789434950489
+    second: KikaMirror_3
+  - first:
+      213: -8858505086568494210
+    second: KikaMirror_4
+  - first:
+      213: 4555953684398484463
+    second: KikaMirror_5
+  - first:
+      213: -6981710659539873358
+    second: KikaMirror_6
+  - first:
+      213: -8841168956656514619
+    second: KikaMirror_7
+  - first:
+      213: -8578750302235052043
+    second: KikaMirror_8
+  - first:
+      213: 3062400798879294076
+    second: KikaMirror_9
+  - first:
+      213: 6804289046805024651
+    second: KikaMirror_10
+  - first:
+      213: -5403130211255232868
+    second: KikaMirror_11
+  - first:
+      213: -8093706078293875369
+    second: KikaMirror_12
+  - first:
+      213: 5913244687885890252
+    second: KikaMirror_13
+  - first:
+      213: 644756032039880549
+    second: KikaMirror_14
+  - first:
+      213: -5114679982179301586
+    second: KikaMirror_15
+  - first:
+      213: -6171892150220130041
+    second: KikaMirror_16
+  - first:
+      213: 4880118547853534137
+    second: KikaMirror_17
+  - first:
+      213: 754514650924017796
+    second: KikaMirror_18
+  - first:
+      213: -7580218811833898734
+    second: KikaMirror_19
+  - first:
+      213: -7957958540528597621
+    second: KikaMirror_20
+  - first:
+      213: -6507362078458272527
+    second: KikaMirror_21
+  - first:
+      213: 8275114648480611882
+    second: KikaMirror_22
+  - first:
+      213: 8866601088680619649
+    second: KikaMirror_23
+  - first:
+      213: -6332214300585052972
+    second: KikaMirror_24
+  - first:
+      213: 2304645923213278854
+    second: KikaMirror_25
+  - first:
+      213: -3723258058008362031
+    second: KikaMirror_26
+  - first:
+      213: -4275720321556384337
+    second: KikaMirror_27
+  - first:
+      213: -5760031650499383265
+    second: KikaMirror_28
+  - first:
+      213: -7683354870357360354
+    second: KikaMirror_29
+  - first:
+      213: -3955744852442225580
+    second: KikaMirror_30
+  - first:
+      213: -1277119405302140021
+    second: KikaMirror_31
+  - first:
+      213: -6186600886787242372
+    second: KikaMirror_32
+  - first:
+      213: 2611510300521489768
+    second: KikaMirror_33
+  - first:
+      213: -1458355348665083731
+    second: KikaMirror_34
+  - first:
+      213: -5300465442707333159
+    second: KikaMirror_35
+  - first:
+      213: 3000804296704699965
+    second: KikaMirror_36
+  - first:
+      213: -8813367924888706157
+    second: KikaMirror_37
+  - first:
+      213: -2519117727516234002
+    second: KikaMirror_38
+  - first:
+      213: -2343426280529471684
+    second: KikaMirror_39
+  - first:
+      213: -6051349634756665796
+    second: KikaMirror_40
+  - first:
+      213: 9147057145018625706
+    second: KikaMirror_41
+  - first:
+      213: 2263689742260748112
+    second: KikaMirror_42
+  - first:
+      213: -6113034935773034207
+    second: KikaMirror_43
+  - first:
+      213: -3239794786052154462
+    second: KikaMirror_44
+  - first:
+      213: -4304158679889187019
+    second: KikaMirror_45
+  - first:
+      213: 7999303499502284034
+    second: KikaMirror_46
+  - first:
+      213: 4614792714066232505
+    second: KikaMirror_47
+  - first:
+      213: -6059184021688177832
+    second: KikaMirror_48
+  - first:
+      213: 9179100118010425343
+    second: KikaMirror_49
+  - first:
+      213: -3754033351512521419
+    second: KikaMirror_50
+  - first:
+      213: 2398768830159692452
+    second: KikaMirror_51
+  - first:
+      213: 743813432901101298
+    second: KikaMirror_52
+  - first:
+      213: -1992869099103257353
+    second: KikaMirror_53
+  - first:
+      213: -1788760742048240773
+    second: KikaMirror_54
+  - first:
+      213: -5745079458201736878
+    second: KikaMirror_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KikaMirror_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf450a8accc1fac0800000000000000
+      internalID: -3823049438389776439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341d0335153bc140800000000000000
+      internalID: 4740941397904659504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740ee75c56dc1660800000000000000
+      internalID: 7357991583317099634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace625f43d635de0800000000000000
+      internalID: -1345611789434950489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b0812ee84401580800000000000000
+      internalID: -8858505086568494210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb24bbccbff93f30800000000000000
+      internalID: 4555953684398484463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b15195552bfb1f90800000000000000
+      internalID: -6981710659539873358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9074b2dabdd4580800000000000000
+      internalID: -8841168956656514619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3671
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f731826d0822f880800000000000000
+      internalID: -8578750302235052043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a2112d45df7a20800000000000000
+      internalID: 3062400798879294076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f05ef56d0bd6e50800000000000000
+      internalID: 6804289046805024651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9653fa23b93405b0800000000000000
+      internalID: -5403130211255232868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_12
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755afde34316daf80800000000000000
+      internalID: -8093706078293875369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_13
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27763c6b0101250800000000000000
+      internalID: 5913244687885890252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_14
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670780f132a2f800800000000000000
+      internalID: 644756032039880549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_15
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27c66aa7a10509b0800000000000000
+      internalID: -5114679982179301586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_16
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097b1a1ac8095aa0800000000000000
+      internalID: -6171892150220130041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_17
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3246
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ea9a96f9a9b340800000000000000
+      internalID: 4880118547853534137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4886722d313987a00800000000000000
+      internalID: 754514650924017796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21928e00727adc690800000000000000
+      internalID: -7580218811833898734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85c186ded6af8190800000000000000
+      internalID: -7957958540528597621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_21
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a5a8caa431b5a0800000000000000
+      internalID: -6507362078458272527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_22
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e715aedec17d270800000000000000
+      internalID: 8275114648480611882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_23
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e66ef76be7c0b70800000000000000
+      internalID: 8866601088680619649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_24
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4baf3a4a47f18a0800000000000000
+      internalID: -6332214300585052972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_25
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efd22b14fbbff10800000000000000
+      internalID: 2304645923213278854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_26
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2821
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d30d4dd584545cc0800000000000000
+      internalID: -3723258058008362031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa576b2750799a4c0800000000000000
+      internalID: -4275720321556384337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103af85bb14010b0800000000000000
+      internalID: -5760031650499383265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11051d147d3f5590800000000000000
+      internalID: -7683354870357360354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_30
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e910e30f5a19c0800000000000000
+      internalID: -3955744852442225580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_31
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b833537daa2c64ee0800000000000000
+      internalID: -1277119405302140021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_32
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c760eef7547c42aa0800000000000000
+      internalID: -6186600886787242372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_33
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656bdd28c2fd3420800000000000000
+      internalID: 2611510300521489768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_34
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8d68e7981e2cbe0800000000000000
+      internalID: -1458355348665083731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_35
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2396
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df123f43c6f076b0800000000000000
+      internalID: -5300465442707333159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eac81eb9ff4a920800000000000000
+      internalID: 3000804296704699965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ef2a4190a0b580800000000000000
+      internalID: -8813367924888706157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_38
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee610016cb4a0dd0800000000000000
+      internalID: -2519117727516234002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_39
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d9bfb63a7a7fd0800000000000000
+      internalID: -2343426280529471684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_40
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e93a09199450ca0800000000000000
+      internalID: -6051349634756665796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_41
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea80d9200e0fe70800000000000000
+      internalID: 9147057145018625706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_42
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fb529b3dd3a6f10800000000000000
+      internalID: 2263689742260748112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_43
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12902b93d132a2ba0800000000000000
+      internalID: -6113034935773034207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_44
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1971
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abd238aecfe903d0800000000000000
+      internalID: -3239794786052154462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f6a4c2c7e8444c0800000000000000
+      internalID: -4304158679889187019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6f52962c330f60800000000000000
+      internalID: 7999303499502284034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_47
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b48af1f5890b0040800000000000000
+      internalID: 4614792714066232505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_48
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bad863c3479eba0800000000000000
+      internalID: -6059184021688177832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_49
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffe1c3ace6b26f70800000000000000
+      internalID: 9179100118010425343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_50
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53580287e8ef6ebc0800000000000000
+      internalID: -3754033351512521419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_51
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a2f3ba832a4120800000000000000
+      internalID: 2398768830159692452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_52
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6eb37506e825a00800000000000000
+      internalID: 743813432901101298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_53
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1546
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcf810fc18e754e0800000000000000
+      internalID: -1992869099103257353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1121
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bec06159b0d27e0800000000000000
+      internalID: -1788760742048240773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaMirror_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1121
+        width: 455
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259ed77eba06540b0800000000000000
+      internalID: -5745079458201736878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

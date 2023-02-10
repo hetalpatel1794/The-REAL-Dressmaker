@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: f47a88f6281571545bf7068016433a52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5696179989627446367
+    second: MimiRuka1_0
+  - first:
+      213: 3432256801461968574
+    second: MimiRuka1_1
+  - first:
+      213: 6359995928932450071
+    second: MimiRuka1_2
+  - first:
+      213: -746846681588889784
+    second: MimiRuka1_3
+  - first:
+      213: -104995058952845260
+    second: MimiRuka1_4
+  - first:
+      213: -1171049836307591792
+    second: MimiRuka1_5
+  - first:
+      213: -6773755439317325112
+    second: MimiRuka1_6
+  - first:
+      213: -7617511737160269335
+    second: MimiRuka1_7
+  - first:
+      213: 1900360016059574663
+    second: MimiRuka1_8
+  - first:
+      213: 6917986374434014023
+    second: MimiRuka1_9
+  - first:
+      213: 1754741262060417080
+    second: MimiRuka1_10
+  - first:
+      213: -8099507843329844882
+    second: MimiRuka1_11
+  - first:
+      213: -3254972178376013505
+    second: MimiRuka1_12
+  - first:
+      213: 3782480193015487483
+    second: MimiRuka1_13
+  - first:
+      213: -4889690384399243680
+    second: MimiRuka1_14
+  - first:
+      213: -1991873815381575823
+    second: MimiRuka1_15
+  - first:
+      213: 7877000889995339168
+    second: MimiRuka1_16
+  - first:
+      213: -8930374719898596127
+    second: MimiRuka1_17
+  - first:
+      213: 3797351399493280459
+    second: MimiRuka1_18
+  - first:
+      213: 4152018517488945821
+    second: MimiRuka1_19
+  - first:
+      213: -2320159126192251615
+    second: MimiRuka1_20
+  - first:
+      213: 9164217712847948531
+    second: MimiRuka1_21
+  - first:
+      213: -5400282928012973234
+    second: MimiRuka1_22
+  - first:
+      213: 5067324188862797053
+    second: MimiRuka1_23
+  - first:
+      213: 1540300799214378259
+    second: MimiRuka1_24
+  - first:
+      213: 288782919696984041
+    second: MimiRuka1_25
+  - first:
+      213: 4175310305965291147
+    second: MimiRuka1_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MimiRuka1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab5195aa7a13f0b0800000000000000
+      internalID: -5696179989627446367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 800
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe1f054063d1af20800000000000000
+      internalID: 3432256801461968574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 800
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff2f4c99e334850800000000000000
+      internalID: 6359995928932450071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 800
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847073a66eaa2a5f0800000000000000
+      internalID: -746846681588889784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 800
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c1f7dc8bfa8ef0800000000000000
+      internalID: -104995058952845260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 800
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4b9cd0689fbfe0800000000000000
+      internalID: -1171049836307591792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 800
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caee1c1159cef1a0800000000000000
+      internalID: -6773755439317325112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e181323f69294690800000000000000
+      internalID: -7617511737160269335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 576
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7892696bd5f6f5a10800000000000000
+      internalID: 1900360016059574663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 576
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743c12954ff910060800000000000000
+      internalID: 6917986374434014023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f4dd71e71a5810800000000000000
+      internalID: 1754741262060417080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 576
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6995de8784c89f80800000000000000
+      internalID: -8099507843329844882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 576
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394e12ac0404d2d0800000000000000
+      internalID: -3254972178376013505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 576
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb93a2f1b11e7430800000000000000
+      internalID: 3782480193015487483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0666d388084542cb0800000000000000
+      internalID: -4889690384399243680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 352
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17777cc71517b54e0800000000000000
+      internalID: -1991873815381575823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 352
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5ab97439ab05d60800000000000000
+      internalID: 7877000889995339168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 352
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecc055e18fe01480800000000000000
+      internalID: -8930374719898596127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 352
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc221268af6e2b430800000000000000
+      internalID: 3797351399493280459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_19
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 352
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac5c3e7deee9930800000000000000
+      internalID: 4152018517488945821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_20
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 352
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d1ee441932dcfd0800000000000000
+      internalID: -2320159126192251615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa05aaa477dd2f70800000000000000
+      internalID: 9164217712847948531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 128
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b2e25f9475e05b0800000000000000
+      internalID: -5400282928012973234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 128
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df459ee7080c25640800000000000000
+      internalID: 5067324188862797053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d5c608a6f306510800000000000000
+      internalID: 1540300799214378259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 128
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e72db11986f10400800000000000000
+      internalID: 288782919696984041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka1_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 128
+        width: 134
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b61ef99ea1f930800000000000000
+      internalID: 4175310305965291147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 057b8e76f304cf64a9d02f6618df8456
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5571517966715804574
+    second: KonacOdmotavanje1_0
+  - first:
+      213: 8402615614457271075
+    second: KonacOdmotavanje1_1
+  - first:
+      213: 8022690569166530198
+    second: KonacOdmotavanje1_2
+  - first:
+      213: -4533289238192297888
+    second: KonacOdmotavanje1_3
+  - first:
+      213: 1975413413753865163
+    second: KonacOdmotavanje1_4
+  - first:
+      213: 7986845274732632845
+    second: KonacOdmotavanje1_5
+  - first:
+      213: -6337597276150117473
+    second: KonacOdmotavanje1_6
+  - first:
+      213: -1087408899087360059
+    second: KonacOdmotavanje1_7
+  - first:
+      213: -4286411054107781301
+    second: KonacOdmotavanje1_8
+  - first:
+      213: -2841674852906920554
+    second: KonacOdmotavanje1_9
+  - first:
+      213: 3656344149439514235
+    second: KonacOdmotavanje1_10
+  - first:
+      213: -7750967069691750921
+    second: KonacOdmotavanje1_11
+  - first:
+      213: 2441485502687781030
+    second: KonacOdmotavanje1_12
+  - first:
+      213: -4993669047168715638
+    second: KonacOdmotavanje1_13
+  - first:
+      213: 7522834416401103328
+    second: KonacOdmotavanje1_14
+  - first:
+      213: -928293221487646130
+    second: KonacOdmotavanje1_15
+  - first:
+      213: -1671612030925836378
+    second: KonacOdmotavanje1_16
+  - first:
+      213: -7270987302311185587
+    second: KonacOdmotavanje1_17
+  - first:
+      213: -3169889750349960960
+    second: KonacOdmotavanje1_18
+  - first:
+      213: -9084538796212734874
+    second: KonacOdmotavanje1_19
+  - first:
+      213: 9190727344106602449
+    second: KonacOdmotavanje1_20
+  - first:
+      213: 4758200118575130024
+    second: KonacOdmotavanje1_21
+  - first:
+      213: 3834326853202540264
+    second: KonacOdmotavanje1_22
+  - first:
+      213: 4430204448649186238
+    second: KonacOdmotavanje1_23
+  - first:
+      213: -51402914507429929
+    second: KonacOdmotavanje1_24
+  - first:
+      213: 288370711273436089
+    second: KonacOdmotavanje1_25
+  - first:
+      213: -8768410371183975921
+    second: KonacOdmotavanje1_26
+  - first:
+      213: 7538328723425240473
+    second: KonacOdmotavanje1_27
+  - first:
+      213: 8170165831894739696
+    second: KonacOdmotavanje1_28
+  - first:
+      213: 3601871677598653662
+    second: KonacOdmotavanje1_29
+  - first:
+      213: 8984059078551351259
+    second: KonacOdmotavanje1_30
+  - first:
+      213: 1612231192024184442
+    second: KonacOdmotavanje1_31
+  - first:
+      213: -6261113319909357394
+    second: KonacOdmotavanje1_32
+  - first:
+      213: 3367690755678533636
+    second: KonacOdmotavanje1_33
+  - first:
+      213: 7303511712013201046
+    second: KonacOdmotavanje1_34
+  - first:
+      213: 2949775210463865940
+    second: KonacOdmotavanje1_35
+  - first:
+      213: -6356027289429915047
+    second: KonacOdmotavanje1_36
+  - first:
+      213: -1108229690385296422
+    second: KonacOdmotavanje1_37
+  - first:
+      213: 6538460632095257342
+    second: KonacOdmotavanje1_38
+  - first:
+      213: -2628817782151980590
+    second: KonacOdmotavanje1_39
+  - first:
+      213: -1037839842842623444
+    second: KonacOdmotavanje1_40
+  - first:
+      213: 8140388521942750583
+    second: KonacOdmotavanje1_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b5dc15212025d40800000000000000
+      internalID: 5571517966715804574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32350e3e1661c9470800000000000000
+      internalID: 8402615614457271075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962c0e0192565f60800000000000000
+      internalID: 8022690569166530198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_3
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068627dc4758611c0800000000000000
+      internalID: -4533289238192297888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_4
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3475b98041a6b10800000000000000
+      internalID: 1975413413753865163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_5
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b12741679f6de60800000000000000
+      internalID: 7986845274732632845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_6
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bc699fad45c08a0800000000000000
+      internalID: -6337597276150117473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_7
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3591
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf9c4c1e5fb8e0f0800000000000000
+      internalID: -1087408899087360059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47199e4bdb9384c0800000000000000
+      internalID: -4286411054107781301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6959251f6c75098d0800000000000000
+      internalID: -2841674852906920554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b768bebb1a1fdb230800000000000000
+      internalID: 3656344149439514235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_11
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d54934880f6490800000000000000
+      internalID: -7750967069691750921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_12
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a8ff0126e1e120800000000000000
+      internalID: 2441485502687781030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_13
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8435ad857ce2bab0800000000000000
+      internalID: -4993669047168715638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_14
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9bba54b0a766860800000000000000
+      internalID: 7522834416401103328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_15
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3086
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a63ddbb3a0e13f0800000000000000
+      internalID: -928293221487646130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af6566e6bd3dc8e0800000000000000
+      internalID: -1671612030925836378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43bd576293481b90800000000000000
+      internalID: -7270987302311185587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092d3d111a4204d0800000000000000
+      internalID: -3169889750349960960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643c77c81c3de180800000000000000
+      internalID: -9084538796212734874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_20
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df71fc23d50c8f70800000000000000
+      internalID: 9190727344106602449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_21
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a564ed3cc5880240800000000000000
+      internalID: 4758200118575130024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_22
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f0e535f3463530800000000000000
+      internalID: 3834326853202540264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_23
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2581
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb071c497f3b7d30800000000000000
+      internalID: 4430204448649186238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76d545251694ff0800000000000000
+      internalID: -51402914507429929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3741152af700400800000000000000
+      internalID: 288370711273436089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_26
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026ab47939505680800000000000000
+      internalID: -8768410371183975921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_27
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a2efb8068d9860800000000000000
+      internalID: 7538328723425240473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_28
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faae166982426170800000000000000
+      internalID: 8170165831894739696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_29
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcdecd053b6cf130800000000000000
+      internalID: 3601871677598653662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_30
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2d22e12acdac70800000000000000
+      internalID: 8984059078551351259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_31
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2076
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76f7682abbcf5610800000000000000
+      internalID: 1612231192024184442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8065cbb9e0c19a0800000000000000
+      internalID: -6261113319909357394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408f59546e07cbe20800000000000000
+      internalID: 3367690755678533636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_34
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea377d4394b5560800000000000000
+      internalID: 7303511712013201046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_35
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca3f2ece4bfe820800000000000000
+      internalID: 2949775210463865940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_36
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a47de1bdadac7a0800000000000000
+      internalID: -6356027289429915047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_37
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad31b0fd7f6ce90f0800000000000000
+      internalID: -1108229690385296422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_38
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f9e97d474dba50800000000000000
+      internalID: 6538460632095257342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_39
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1571
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d99bb720948bd0800000000000000
+      internalID: -2628817782151980590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c224e91692ad891f0800000000000000
+      internalID: -1037839842842623444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KonacOdmotavanje1_41
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1066
+        width: 456
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77590182b3878f070800000000000000
+      internalID: 8140388521942750583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

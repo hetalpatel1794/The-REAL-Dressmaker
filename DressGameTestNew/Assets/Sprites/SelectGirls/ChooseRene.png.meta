@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 9bd47f1e40f231044bceda68adcddd80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 644852571025341557
+    second: ChooseRene_0
+  - first:
+      213: -9103098171013757113
+    second: ChooseRene_1
+  - first:
+      213: 2391610140119235547
+    second: ChooseRene_2
+  - first:
+      213: 4172963772540748071
+    second: ChooseRene_3
+  - first:
+      213: -2218452218980084939
+    second: ChooseRene_4
+  - first:
+      213: 2091628416842325301
+    second: ChooseRene_5
+  - first:
+      213: 5467673465544669912
+    second: ChooseRene_6
+  - first:
+      213: 6341957879665904232
+    second: ChooseRene_7
+  - first:
+      213: -8461347787277875422
+    second: ChooseRene_8
+  - first:
+      213: -8724048036665928195
+    second: ChooseRene_9
+  - first:
+      213: 1999999778177507788
+    second: ChooseRene_10
+  - first:
+      213: 2109785758325676409
+    second: ChooseRene_11
+  - first:
+      213: 8047400881348126838
+    second: ChooseRene_12
+  - first:
+      213: -1496742027762491931
+    second: ChooseRene_13
+  - first:
+      213: 6235617285761782881
+    second: ChooseRene_14
+  - first:
+      213: -4960408491460656917
+    second: ChooseRene_15
+  - first:
+      213: 2541964732158533312
+    second: ChooseRene_16
+  - first:
+      213: -4584017340102661964
+    second: ChooseRene_17
+  - first:
+      213: 8660113365679754174
+    second: ChooseRene_18
+  - first:
+      213: 2794884855098957069
+    second: ChooseRene_19
+  - first:
+      213: 8964631777738496279
+    second: ChooseRene_20
+  - first:
+      213: -174221399508612355
+    second: ChooseRene_21
+  - first:
+      213: -8004757505005326431
+    second: ChooseRene_22
+  - first:
+      213: -1507399324415383031
+    second: ChooseRene_23
+  - first:
+      213: 6155323348502586231
+    second: ChooseRene_24
+  - first:
+      213: 8002722929014103354
+    second: ChooseRene_25
+  - first:
+      213: 7483149098367193883
+    second: ChooseRene_26
+  - first:
+      213: -5277765982055125959
+    second: ChooseRene_27
+  - first:
+      213: -7539503239369023540
+    second: ChooseRene_28
+  - first:
+      213: 8733985120370034329
+    second: ChooseRene_29
+  - first:
+      213: 1746507987142104291
+    second: ChooseRene_30
+  - first:
+      213: -2674224730805382276
+    second: ChooseRene_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChooseRene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c767c2ff9f2f800800000000000000
+      internalID: 644852571025341557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7478739917c4ba180800000000000000
+      internalID: -9103098171013757113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb770b40c4b03120800000000000000
+      internalID: 2391610140119235547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7218dda117859e930800000000000000
+      internalID: 4172963772540748071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d380f5797631e0800000000000000
+      internalID: -2218452218980084939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_5
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ddff396f4f60d10800000000000000
+      internalID: 2091628416842325301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_6
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da7e954c0411eb40800000000000000
+      internalID: 5467673465544669912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_7
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac9f52719230850800000000000000
+      internalID: 6341957879665904232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_8
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227c3428401439a80800000000000000
+      internalID: -8461347787277875422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_9
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5551b5884fde680800000000000000
+      internalID: -8724048036665928195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_10
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc16129a33d61cb10800000000000000
+      internalID: 1999999778177507788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_11
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9791e2518f6774d10800000000000000
+      internalID: 2109785758325676409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678abe1f67c1eaf60800000000000000
+      internalID: 8047400881348126838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed91da4e018a3be0800000000000000
+      internalID: -1496742027762491931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_14
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164dd1932ec598650800000000000000
+      internalID: 6235617285761782881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_15
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be008a522c6192bb0800000000000000
+      internalID: -4960408491460656917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_16
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce51ebb47fd64320800000000000000
+      internalID: 2541964732158533312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_17
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b823fe248c4260c0800000000000000
+      internalID: -4584017340102661964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_18
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb44fb0937ee2870800000000000000
+      internalID: 8660113365679754174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_19
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dda40c7fc69c620800000000000000
+      internalID: 2794884855098957069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_20
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719184eea15c86c70800000000000000
+      internalID: 8964631777738496279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_21
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa840a6f8a059df0800000000000000
+      internalID: -174221399508612355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_22
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afe301d57369e090800000000000000
+      internalID: -8004757505005326431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_23
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aae8d0d44a41be0800000000000000
+      internalID: -1507399324415383031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732a2129f91c6550800000000000000
+      internalID: 6155323348502586231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d52cb8a126f0f60800000000000000
+      internalID: 8002722929014103354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b131671257c79d760800000000000000
+      internalID: 7483149098367193883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca6f75dcb91c6b0800000000000000
+      internalID: -5277765982055125959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_28
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf9082ffbd4e5790800000000000000
+      internalID: -7539503239369023540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_29
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996043d3139553970800000000000000
+      internalID: 8733985120370034329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_30
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dcfac2c7dc3810800000000000000
+      internalID: 1746507987142104291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseRene_31
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73d7c6a6ce33ead0800000000000000
+      internalID: -2674224730805382276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

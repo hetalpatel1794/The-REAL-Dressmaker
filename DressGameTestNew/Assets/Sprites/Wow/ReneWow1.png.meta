@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: e862ce0210c984747a17d0b3b31b3b67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2206148930223580866
+    second: ReneWow1_0
+  - first:
+      213: -1864511048278502856
+    second: ReneWow1_1
+  - first:
+      213: -2298440563555965531
+    second: ReneWow1_2
+  - first:
+      213: 5273824511177705676
+    second: ReneWow1_3
+  - first:
+      213: -3849260837958829455
+    second: ReneWow1_4
+  - first:
+      213: 1424149556129460339
+    second: ReneWow1_5
+  - first:
+      213: 2251402447271073146
+    second: ReneWow1_6
+  - first:
+      213: -1368221377059775919
+    second: ReneWow1_7
+  - first:
+      213: 1880516740546036314
+    second: ReneWow1_8
+  - first:
+      213: 2585036548430873629
+    second: ReneWow1_9
+  - first:
+      213: -3709542637425537468
+    second: ReneWow1_10
+  - first:
+      213: -889435453962693941
+    second: ReneWow1_11
+  - first:
+      213: -3333641259919049026
+    second: ReneWow1_12
+  - first:
+      213: -4411655180577722859
+    second: ReneWow1_13
+  - first:
+      213: 9002315569801674145
+    second: ReneWow1_14
+  - first:
+      213: 4120315236428861336
+    second: ReneWow1_15
+  - first:
+      213: -5012894967494254790
+    second: ReneWow1_16
+  - first:
+      213: -1676333750358509158
+    second: ReneWow1_17
+  - first:
+      213: -9017743790122013315
+    second: ReneWow1_18
+  - first:
+      213: -3902720713132657357
+    second: ReneWow1_19
+  - first:
+      213: -2896471123445763749
+    second: ReneWow1_20
+  - first:
+      213: -505409392497063221
+    second: ReneWow1_21
+  - first:
+      213: -366580320550792800
+    second: ReneWow1_22
+  - first:
+      213: 5762118336569383016
+    second: ReneWow1_23
+  - first:
+      213: 992284768079580157
+    second: ReneWow1_24
+  - first:
+      213: -3237343993954549233
+    second: ReneWow1_25
+  - first:
+      213: 5519259776497028082
+    second: ReneWow1_26
+  - first:
+      213: -576363106881352686
+    second: ReneWow1_27
+  - first:
+      213: -693047679068579608
+    second: ReneWow1_28
+  - first:
+      213: -636028823614297612
+    second: ReneWow1_29
+  - first:
+      213: -8867415359860558362
+    second: ReneWow1_30
+  - first:
+      213: -1382548994991070227
+    second: ReneWow1_31
+  - first:
+      213: -5832873312292653176
+    second: ReneWow1_32
+  - first:
+      213: 6529039134112007888
+    second: ReneWow1_33
+  - first:
+      213: 8970027969434819158
+    second: ReneWow1_34
+  - first:
+      213: 700828750947980173
+    second: ReneWow1_35
+  - first:
+      213: -7807777579962911317
+    second: ReneWow1_36
+  - first:
+      213: -8309481266674037968
+    second: ReneWow1_37
+  - first:
+      213: 4452867621301442503
+    second: ReneWow1_38
+  - first:
+      213: 9141632851831872322
+    second: ReneWow1_39
+  - first:
+      213: -4716653610576046298
+    second: ReneWow1_40
+  - first:
+      213: 4948870679005793185
+    second: ReneWow1_41
+  - first:
+      213: 8460935447423026962
+    second: ReneWow1_42
+  - first:
+      213: 4811124966791879379
+    second: ReneWow1_43
+  - first:
+      213: 8998835188002936529
+    second: ReneWow1_44
+  - first:
+      213: 992186717559930239
+    second: ReneWow1_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReneWow1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a59b63c0dd9e10800000000000000
+      internalID: 2206148930223580866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8329197841def16e0800000000000000
+      internalID: -1864511048278502856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5e5ef2c7c4a10e0800000000000000
+      internalID: -2298440563555965531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ce747373603940800000000000000
+      internalID: 5273824511177705676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a34a189ada49ac0800000000000000
+      internalID: -3849260837958829455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_5
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707020d97893c310800000000000000
+      internalID: 1424149556129460339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_6
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75990ce8969e3f10800000000000000
+      internalID: 2251402447271073146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_7
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a914e18e9130de0800000000000000
+      internalID: -1368221377059775919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_8
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520c6a1300f81a10800000000000000
+      internalID: 1880516740546036314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_9
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 3446
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14cf907b05efd320800000000000000
+      internalID: 2585036548430873629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec51110ae058cc0800000000000000
+      internalID: -3709542637425537468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc25ae3ca2718a3f0800000000000000
+      internalID: -889435453962693941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe70fdbfe68cb1d0800000000000000
+      internalID: -3333641259919049026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e272abcf6a6c2c0800000000000000
+      internalID: -4411655180577722859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad3ffd7056aeec70800000000000000
+      internalID: 9002315569801674145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_15
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fc8fd80ec4e2930800000000000000
+      internalID: 4120315236428861336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_16
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5926269e9e6ab0800000000000000
+      internalID: -5012894967494254790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_17
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99f1ece5577cb8e0800000000000000
+      internalID: -1676333750358509158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_18
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dea4a0dc98ad280800000000000000
+      internalID: -9017743790122013315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_19
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2796
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353b2c5030c6d9c0800000000000000
+      internalID: -3902720713132657357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b6d00cdaadc7d0800000000000000
+      internalID: -2896471123445763749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca0116d5dc6cf8f0800000000000000
+      internalID: -505409392497063221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1dbe30425a9eaf0800000000000000
+      internalID: -366580320550792800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_23
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8689bfc191827ff40800000000000000
+      internalID: 5762118336569383016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb0a6d3dbd45cd00800000000000000
+      internalID: 992284768079580157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_25
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0248982ac4a213d0800000000000000
+      internalID: -3237343993954549233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_26
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb05314689589c40800000000000000
+      internalID: 5519259776497028082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_27
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c42b8dec85008f0800000000000000
+      internalID: -576363106881352686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_28
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e855bcceccc166f0800000000000000
+      internalID: -693047679068579608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_29
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2146
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96f8d972f5c27f0800000000000000
+      internalID: -636028823614297612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e53ba736bc90f480800000000000000
+      internalID: -8867415359860558362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_31
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ebfc930330dce0800000000000000
+      internalID: -1382548994991070227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b0f850a87d0fa0800000000000000
+      internalID: -5832873312292653176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_33
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ce59008ecb9a50800000000000000
+      internalID: 6529039134112007888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_34
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1b77b9e0fb7c70800000000000000
+      internalID: 8970027969434819158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_35
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8392ac2908d9b900800000000000000
+      internalID: 700828750947980173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_36
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53d0d88a335a390800000000000000
+      internalID: -7807777579962911317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_37
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b812040daceac80800000000000000
+      internalID: -8309481266674037968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_38
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d28f5283cbcd30800000000000000
+      internalID: 4452867621301442503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_39
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1496
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bda70f4aa9dde70800000000000000
+      internalID: 9141632851831872322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271d05f7841b8eb0800000000000000
+      internalID: -4716653610576046298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_41
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 846
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab8c7d89abeda440800000000000000
+      internalID: 4948870679005793185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_42
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 846
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217092326f74b6570800000000000000
+      internalID: 8460935447423026962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_43
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 846
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da94a7baac84c240800000000000000
+      internalID: 4811124966791879379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_44
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 846
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d65335fce842ec70800000000000000
+      internalID: 8998835188002936529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneWow1_45
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 846
+        width: 408
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d35031094f4cd00800000000000000
+      internalID: 992186717559930239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

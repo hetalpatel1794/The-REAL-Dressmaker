@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 70c5b884ee977744d9d704d52f5c6351
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4899914023723950800
+    second: KikaHeadPaying1_0
+  - first:
+      213: 870193493939016452
+    second: KikaHeadPaying1_1
+  - first:
+      213: 2855660033127404932
+    second: KikaHeadPaying1_2
+  - first:
+      213: 6085045644577603649
+    second: KikaHeadPaying1_3
+  - first:
+      213: -2724572395926199379
+    second: KikaHeadPaying1_4
+  - first:
+      213: -3959157432498318298
+    second: KikaHeadPaying1_5
+  - first:
+      213: 6843113919574855194
+    second: KikaHeadPaying1_6
+  - first:
+      213: -5079315921911035461
+    second: KikaHeadPaying1_7
+  - first:
+      213: 1897285416518887134
+    second: KikaHeadPaying1_8
+  - first:
+      213: 4961402108910866613
+    second: KikaHeadPaying1_9
+  - first:
+      213: -5664466682009010405
+    second: KikaHeadPaying1_10
+  - first:
+      213: -6776168291804206753
+    second: KikaHeadPaying1_11
+  - first:
+      213: 1970672873362858898
+    second: KikaHeadPaying1_12
+  - first:
+      213: 1042584094516986939
+    second: KikaHeadPaying1_13
+  - first:
+      213: -5272155027044186781
+    second: KikaHeadPaying1_14
+  - first:
+      213: 1888074698756441520
+    second: KikaHeadPaying1_15
+  - first:
+      213: 386394540709761835
+    second: KikaHeadPaying1_16
+  - first:
+      213: -3343249571725187832
+    second: KikaHeadPaying1_17
+  - first:
+      213: 7014532258974225764
+    second: KikaHeadPaying1_18
+  - first:
+      213: -8249584411491249858
+    second: KikaHeadPaying1_19
+  - first:
+      213: 396878324775039495
+    second: KikaHeadPaying1_20
+  - first:
+      213: 7659229349127166364
+    second: KikaHeadPaying1_21
+  - first:
+      213: 3099084110222815594
+    second: KikaHeadPaying1_22
+  - first:
+      213: 4071328373834638594
+    second: KikaHeadPaying1_23
+  - first:
+      213: -95720136285753678
+    second: KikaHeadPaying1_24
+  - first:
+      213: -6314411801169554822
+    second: KikaHeadPaying1_25
+  - first:
+      213: 4316432684494126066
+    second: KikaHeadPaying1_26
+  - first:
+      213: -8228817997660281355
+    second: KikaHeadPaying1_27
+  - first:
+      213: -8847880850694744671
+    second: KikaHeadPaying1_28
+  - first:
+      213: -4664355179761550715
+    second: KikaHeadPaying1_29
+  - first:
+      213: 6529334478042389977
+    second: KikaHeadPaying1_30
+  - first:
+      213: 249125076156960479
+    second: KikaHeadPaying1_31
+  - first:
+      213: 8908999991311001649
+    second: KikaHeadPaying1_32
+  - first:
+      213: 1662241551346568130
+    second: KikaHeadPaying1_33
+  - first:
+      213: 1332559226283279904
+    second: KikaHeadPaying1_34
+  - first:
+      213: 8573754233564933834
+    second: KikaHeadPaying1_35
+  - first:
+      213: -8608017567879508093
+    second: KikaHeadPaying1_36
+  - first:
+      213: -2635611049140322679
+    second: KikaHeadPaying1_37
+  - first:
+      213: 4188964995231854309
+    second: KikaHeadPaying1_38
+  - first:
+      213: -8781476473847049037
+    second: KikaHeadPaying1_39
+  - first:
+      213: -8440301994843384420
+    second: KikaHeadPaying1_40
+  - first:
+      213: -5980942256869146706
+    second: KikaHeadPaying1_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KikaHeadPaying1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3529
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d9af10822000cb0800000000000000
+      internalID: -4899914023723950800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3529
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403571c4f5c831c00800000000000000
+      internalID: 870193493939016452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_2
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3529
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d6d19ba751a720800000000000000
+      internalID: 2855660033127404932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_3
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3529
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140061716cc627450800000000000000
+      internalID: 6085045644577603649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_4
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3529
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ebff57df503ad0800000000000000
+      internalID: -2724572395926199379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_5
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3529
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624171aaa4f3e09c0800000000000000
+      internalID: -3959157432498318298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2962
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4acd7adf97fe50800000000000000
+      internalID: 6843113919574855194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_7
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2962
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c1849415a289b0800000000000000
+      internalID: -5079315921911035461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_8
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2962
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed62329b803845a10800000000000000
+      internalID: 1897285416518887134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_9
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2962
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b091817ee07ad440800000000000000
+      internalID: 4961402108910866613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_10
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 2962
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f31d87095c361b0800000000000000
+      internalID: -5664466682009010405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_11
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2962
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59aebc17d636f1a0800000000000000
+      internalID: -6776168291804206753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2395
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293aa49898c395b10800000000000000
+      internalID: 1970672873362858898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2395
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34482ac5b0087e00800000000000000
+      internalID: 1042584094516986939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_14
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2395
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cd3c9fea85d6b0800000000000000
+      internalID: -5272155027044186781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2395
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5c7c06fe9c33a10800000000000000
+      internalID: 1888074698756441520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_16
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 2395
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d72e99cfbc5500800000000000000
+      internalID: 386394540709761835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_17
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2395
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e7d15a346a91d0800000000000000
+      internalID: -3343249571725187832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1828
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4655da9ccef985160800000000000000
+      internalID: 7014532258974225764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1828
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31d6789fa6938d80800000000000000
+      internalID: -8249584411491249858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_20
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1828
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b44fcbbef18500800000000000000
+      internalID: 396878324775039495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_21
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1828
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9998ff338c0b4a60800000000000000
+      internalID: 7659229349127166364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_22
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1828
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6173ee1498220b20800000000000000
+      internalID: 3099084110222815594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_23
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1828
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e16ec593408830800000000000000
+      internalID: 4071328373834638594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1261
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bee5de0b0febaef0800000000000000
+      internalID: -95720136285753678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_25
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1261
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7211c90ce3be58a0800000000000000
+      internalID: -6314411801169554822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_26
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1261
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb782838ac07eb30800000000000000
+      internalID: 4316432684494126066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_27
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1261
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f52e1811ad5dcd80800000000000000
+      internalID: -8228817997660281355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_28
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1261
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5db5f8e33063580800000000000000
+      internalID: -8847880850694744671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_29
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1261
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a3f044da1e44fb0800000000000000
+      internalID: -4664355179761550715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd5d672d1bdc9a50800000000000000
+      internalID: 6529334478042389977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_31
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 694
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4af4dfe1157300800000000000000
+      internalID: 249125076156960479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_32
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 694
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ec0a4a4023ab70800000000000000
+      internalID: 8908999991311001649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_33
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 694
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb08ee42e7711710800000000000000
+      internalID: 1662241551346568130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_34
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 694
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c8cc5e833e7210800000000000000
+      internalID: 1332559226283279904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_35
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 694
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea32bbc081cf670800000000000000
+      internalID: 8573754233564933834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f483611ad2a8880800000000000000
+      internalID: -8608017567879508093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_37
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 127
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e75e107bd6c6bd0800000000000000
+      internalID: -2635611049140322679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_38
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 127
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee27551871322a30800000000000000
+      internalID: 4188964995231854309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_39
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 127
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b495ec5cade12680800000000000000
+      internalID: -8781476473847049037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_40
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 127
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d658ed060eda80800000000000000
+      internalID: -8440301994843384420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikaHeadPaying1_41
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 127
+        width: 628
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaff03da4bc6ffca0800000000000000
+      internalID: -5980942256869146706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

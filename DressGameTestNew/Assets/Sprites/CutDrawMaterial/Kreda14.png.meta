@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 7dc2f4c98c3c5af479f5d4e5e66dfc5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2025018679356382039
+    second: Kreda14_0
+  - first:
+      213: -6577337313435681366
+    second: Kreda14_1
+  - first:
+      213: -3159722626160893150
+    second: Kreda14_2
+  - first:
+      213: -3893988028049723262
+    second: Kreda14_3
+  - first:
+      213: 4452258025808115429
+    second: Kreda14_4
+  - first:
+      213: 8506070704456637458
+    second: Kreda14_5
+  - first:
+      213: -3145303505023824799
+    second: Kreda14_6
+  - first:
+      213: 5270726863992762237
+    second: Kreda14_7
+  - first:
+      213: -4809986107508947330
+    second: Kreda14_8
+  - first:
+      213: -1345036676838534795
+    second: Kreda14_9
+  - first:
+      213: 4755059773477813590
+    second: Kreda14_10
+  - first:
+      213: -2854953545563228013
+    second: Kreda14_11
+  - first:
+      213: -6266056109270875818
+    second: Kreda14_12
+  - first:
+      213: 2756421166663348405
+    second: Kreda14_13
+  - first:
+      213: 5057169961437322779
+    second: Kreda14_14
+  - first:
+      213: 4116533870387728513
+    second: Kreda14_15
+  - first:
+      213: 8980845874407392919
+    second: Kreda14_16
+  - first:
+      213: -3407209667018388486
+    second: Kreda14_17
+  - first:
+      213: -2779956490131983329
+    second: Kreda14_18
+  - first:
+      213: -5572872270666223721
+    second: Kreda14_19
+  - first:
+      213: 4707405930557929940
+    second: Kreda14_20
+  - first:
+      213: -1812436984384807165
+    second: Kreda14_21
+  - first:
+      213: 3248359877890766016
+    second: Kreda14_22
+  - first:
+      213: -6012099263244981361
+    second: Kreda14_23
+  - first:
+      213: -4697802922350105628
+    second: Kreda14_24
+  - first:
+      213: -3134142237279336743
+    second: Kreda14_25
+  - first:
+      213: -2217811260786586252
+    second: Kreda14_26
+  - first:
+      213: 4736874440485110459
+    second: Kreda14_27
+  - first:
+      213: 7245730289064005113
+    second: Kreda14_28
+  - first:
+      213: 8862212918955789117
+    second: Kreda14_29
+  - first:
+      213: -4150557225700383102
+    second: Kreda14_30
+  - first:
+      213: 889801206609816628
+    second: Kreda14_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kreda14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ae697d30b5e3e0800000000000000
+      internalID: -2025018679356382039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7eb8cf8a98b4a0800000000000000
+      internalID: -6577337313435681366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2236aee23096624d0800000000000000
+      internalID: -3159722626160893150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f87c0586c5f9c0800000000000000
+      internalID: -3893988028049723262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6bcacd51999cd30800000000000000
+      internalID: 4452258025808115429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_5
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9e751d32ab0670800000000000000
+      internalID: 8506070704456637458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_6
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c83407023a954d0800000000000000
+      internalID: -3145303505023824799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_7
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3471
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa5644822652940800000000000000
+      internalID: 5270726863992762237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e768d5f9e1f7f3db0800000000000000
+      internalID: -4809986107508947330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571da2bc448755de0800000000000000
+      internalID: -1345036676838534795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df4ebabad5df140800000000000000
+      internalID: 4755059773477813590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398367260ea2168d0800000000000000
+      internalID: -2854953545563228013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_12
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6514e38ea2f7a09a0800000000000000
+      internalID: -6266056109270875818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_13
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0365a6276c04620800000000000000
+      internalID: 2756421166663348405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_14
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e5f30394dae2640800000000000000
+      internalID: 5057169961437322779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_15
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2846
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180135aaebdd02930800000000000000
+      internalID: 4116533870387728513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c59e7dbf52ac70800000000000000
+      internalID: 8980845874407392919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb871a2cd827b0d0800000000000000
+      internalID: -3407209667018388486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1434a21d4c9b69d0800000000000000
+      internalID: -2779956490131983329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa058323e29a2b0800000000000000
+      internalID: -5572872270666223721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9f870c0c0145140800000000000000
+      internalID: 4707405930557929940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_21
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f96f75a2ee8d6e0800000000000000
+      internalID: -1812436984384807165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_22
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c47f40391e741d20800000000000000
+      internalID: 3248359877890766016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_23
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2221
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b25e3d29bb09ca0800000000000000
+      internalID: -6012099263244981361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba784d12d0eceb0800000000000000
+      internalID: -4697802922350105628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ca679d3a4184d0800000000000000
+      internalID: -3134142237279336743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_26
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d44f5a860c831e0800000000000000
+      internalID: -2217811260786586252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_27
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb20eb2e432ccb140800000000000000
+      internalID: 4736874440485110459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_28
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc2f1fe410e8460800000000000000
+      internalID: 7245730289064005113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_29
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bcc3e12b7ecfa70800000000000000
+      internalID: 8862212918955789117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_30
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a23e91324666c0800000000000000
+      internalID: -4150557225700383102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kreda14_31
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 1596
+        width: 510
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c21b8ab75395c00800000000000000
+      internalID: 889801206609816628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

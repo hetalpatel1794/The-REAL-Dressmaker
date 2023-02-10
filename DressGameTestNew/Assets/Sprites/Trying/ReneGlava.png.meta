@@ -1,0 +1,1632 @@
+fileFormatVersion: 2
+guid: 9eb1e0ec09af80341a0f4d8f74373525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7897873906751109240
+    second: ReneGlava_0
+  - first:
+      213: 2910412224432403899
+    second: ReneGlava_1
+  - first:
+      213: -5933439925294945031
+    second: ReneGlava_2
+  - first:
+      213: 1760478769677311886
+    second: ReneGlava_3
+  - first:
+      213: -7815361322203392724
+    second: ReneGlava_4
+  - first:
+      213: 2142277276457637495
+    second: ReneGlava_5
+  - first:
+      213: 2174043413280923775
+    second: ReneGlava_6
+  - first:
+      213: 3766129457126945342
+    second: ReneGlava_7
+  - first:
+      213: -1529158029662847211
+    second: ReneGlava_8
+  - first:
+      213: -7537166796046062984
+    second: ReneGlava_9
+  - first:
+      213: -1400979866992388818
+    second: ReneGlava_10
+  - first:
+      213: 1665800784565326605
+    second: ReneGlava_11
+  - first:
+      213: -6969808871673960442
+    second: ReneGlava_12
+  - first:
+      213: -635930405595309318
+    second: ReneGlava_13
+  - first:
+      213: -5298035986785817681
+    second: ReneGlava_14
+  - first:
+      213: 1251174947265655058
+    second: ReneGlava_15
+  - first:
+      213: -6034435442669639197
+    second: ReneGlava_16
+  - first:
+      213: 3984403529605794900
+    second: ReneGlava_17
+  - first:
+      213: -4884206910380153525
+    second: ReneGlava_18
+  - first:
+      213: -5232822901177843159
+    second: ReneGlava_19
+  - first:
+      213: -3952387547510116151
+    second: ReneGlava_20
+  - first:
+      213: -7274960156269734073
+    second: ReneGlava_21
+  - first:
+      213: 2296693067977858999
+    second: ReneGlava_22
+  - first:
+      213: 4348223868555254102
+    second: ReneGlava_23
+  - first:
+      213: 5333570106834811776
+    second: ReneGlava_24
+  - first:
+      213: 8161604077080351194
+    second: ReneGlava_25
+  - first:
+      213: 224942772834876517
+    second: ReneGlava_26
+  - first:
+      213: 6127810843386408516
+    second: ReneGlava_27
+  - first:
+      213: -6597302401677609982
+    second: ReneGlava_28
+  - first:
+      213: 564714274566533044
+    second: ReneGlava_29
+  - first:
+      213: 9029192882393496090
+    second: ReneGlava_30
+  - first:
+      213: 8716769686809587274
+    second: ReneGlava_31
+  - first:
+      213: 8592897156103652744
+    second: ReneGlava_32
+  - first:
+      213: -2311132147107983584
+    second: ReneGlava_33
+  - first:
+      213: 1980852045673804880
+    second: ReneGlava_34
+  - first:
+      213: 7763822360272997173
+    second: ReneGlava_35
+  - first:
+      213: -1489610343081091664
+    second: ReneGlava_36
+  - first:
+      213: 180110046366645878
+    second: ReneGlava_37
+  - first:
+      213: -768500838602648873
+    second: ReneGlava_38
+  - first:
+      213: -3624760916207398785
+    second: ReneGlava_39
+  - first:
+      213: 6565710867583996297
+    second: ReneGlava_40
+  - first:
+      213: -4304848039074128724
+    second: ReneGlava_41
+  - first:
+      213: 7855622223096688655
+    second: ReneGlava_42
+  - first:
+      213: -8632668363984720438
+    second: ReneGlava_43
+  - first:
+      213: 3818938107478931518
+    second: ReneGlava_44
+  - first:
+      213: 3079706089614572496
+    second: ReneGlava_45
+  - first:
+      213: 7705770689265554185
+    second: ReneGlava_46
+  - first:
+      213: -3531216872127341137
+    second: ReneGlava_47
+  - first:
+      213: 8466738519868500699
+    second: ReneGlava_48
+  - first:
+      213: -5719506022805499963
+    second: ReneGlava_49
+  - first:
+      213: -7486010449159658024
+    second: ReneGlava_50
+  - first:
+      213: 931566207995753809
+    second: ReneGlava_51
+  - first:
+      213: -6078585564390975919
+    second: ReneGlava_52
+  - first:
+      213: -7813739333296583126
+    second: ReneGlava_53
+  - first:
+      213: -6045142927826776152
+    second: ReneGlava_54
+  - first:
+      213: -6086811752850593193
+    second: ReneGlava_55
+  - first:
+      213: -963214830280135133
+    second: ReneGlava_56
+  - first:
+      213: 518434658016647071
+    second: ReneGlava_57
+  - first:
+      213: 2189471228802887729
+    second: ReneGlava_58
+  - first:
+      213: -5000578918822409737
+    second: ReneGlava_59
+  - first:
+      213: 3765349851487130422
+    second: ReneGlava_60
+  - first:
+      213: 8600575160473574475
+    second: ReneGlava_61
+  - first:
+      213: 2105466886357243564
+    second: ReneGlava_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReneGlava_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887064bc68d156290800000000000000
+      internalID: -7897873906751109240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57f338f7cd36820800000000000000
+      internalID: 2910412224432403899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcacac13df28ada0800000000000000
+      internalID: -5933439925294945031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_3
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f9b351d1a7e6810800000000000000
+      internalID: 1760478769677311886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_4
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c255db6f8424a8390800000000000000
+      internalID: -7815361322203392724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_5
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77616a925d5eabd10800000000000000
+      internalID: 2142277276457637495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_6
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7023ee37f0cb2e10800000000000000
+      internalID: 2174043413280923775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_7
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32bf2699caf34430800000000000000
+      internalID: 3766129457126945342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_8
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7284bfd657cae0800000000000000
+      internalID: -1529158029662847211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_9
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3618
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2ecc8bba966790800000000000000
+      internalID: -7537166796046062984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d172db38be8ce0800000000000000
+      internalID: -1400979866992388818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03559edcfc1e1710800000000000000
+      internalID: 1665800784565326605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e18342c3464f90800000000000000
+      internalID: -6969808871673960442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_13
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa1f985aa8bc27f0800000000000000
+      internalID: -635930405595309318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_14
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab256817589976b0800000000000000
+      internalID: -5298035986785817681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_15
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21133ab4cf01d5110800000000000000
+      internalID: 1251174947265655058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_16
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e926abcfe0614ca0800000000000000
+      internalID: -6034435442669639197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_17
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c47ff56e17b4730800000000000000
+      internalID: 3984403529605794900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_18
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45684151bfc73cb0800000000000000
+      internalID: -4884206910380153525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_19
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3140
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92204cacb474167b0800000000000000
+      internalID: -5232822901177843159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c07bf7577c4629c0800000000000000
+      internalID: -3952387547510116151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471c6248462a0b90800000000000000
+      internalID: -7274960156269734073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_22
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1cea4d2e7fdf10800000000000000
+      internalID: 2296693067977858999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_23
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595c11129ef75c30800000000000000
+      internalID: 4348223868555254102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_24
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf782f0c5a40a40800000000000000
+      internalID: 5333570106834811776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_25
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad111c38aa7d34170800000000000000
+      internalID: 8161604077080351194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_26
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3d9592482f1300800000000000000
+      internalID: 224942772834876517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_27
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e65dade7b5a0550800000000000000
+      internalID: 6127810843386408516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_28
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204bc207b6ca174a0800000000000000
+      internalID: -6597302401677609982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_29
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2662
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf612704a446d700800000000000000
+      internalID: 564714274566533044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1abc8b76132e4d70800000000000000
+      internalID: 9029192882393496090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ead23c8df28f870800000000000000
+      internalID: 8716769686809587274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_32
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c505bf6a104770800000000000000
+      internalID: 8592897156103652744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_33
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f84ae9e853defd0800000000000000
+      internalID: -2311132147107983584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_34
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0543ef6c0766d7b10800000000000000
+      internalID: 1980852045673804880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_35
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8e4b5d43aebb60800000000000000
+      internalID: 7763822360272997173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_36
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd57e60947d35be0800000000000000
+      internalID: -1489610343081091664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_37
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb9260221ef7200800000000000000
+      internalID: 180110046366645878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_38
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2df791f8cb555f0800000000000000
+      internalID: -768500838602648873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_39
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2184
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701db9c62342bdc0800000000000000
+      internalID: -3624760916207398785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98114485f371e1b50800000000000000
+      internalID: 6565710867583996297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac13fa348b1244c0800000000000000
+      internalID: -4304848039074128724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_42
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b7518ac6c40d60800000000000000
+      internalID: 7855622223096688655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_43
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd20fc5cd9923880800000000000000
+      internalID: -8632668363984720438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_44
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38fb73a9f79ff430800000000000000
+      internalID: 3818938107478931518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_45
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db751c1f505dba20800000000000000
+      internalID: 3079706089614572496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_46
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035a4e6d9560fa60800000000000000
+      internalID: 7705770689265554185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_47
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faddbf7c6f89efec0800000000000000
+      internalID: -3531216872127341137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_48
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae0ea33d5ef7570800000000000000
+      internalID: 8466738519868500699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_49
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1706
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf88f3539b30a0b0800000000000000
+      internalID: -5719506022805499963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e9f8b8295c1890800000000000000
+      internalID: -7486010449159658024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_51
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1553850d7869dec00800000000000000
+      internalID: 931566207995753809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_52
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15698a982a684aba0800000000000000
+      internalID: -6078585564390975919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_53
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0c5fa975009390800000000000000
+      internalID: -7813739333296583126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_54
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8b6229865b1ca0800000000000000
+      internalID: -6045142927826776152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_55
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aeaa8c5fc478ba0800000000000000
+      internalID: -6086811752850593193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_56
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea3c61739f1a2f0800000000000000
+      internalID: -963214830280135133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_57
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97555e1399d13700800000000000000
+      internalID: 518434658016647071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_58
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130fbb67b70926e10800000000000000
+      internalID: 2189471228802887729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_59
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1228
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98840b7ff5a9ab0800000000000000
+      internalID: -5000578918822409737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d5f08db5314430800000000000000
+      internalID: 3765349851487130422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_61
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 750
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c53186a816b5770800000000000000
+      internalID: 8600575160473574475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReneGlava_62
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 750
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6dba75afe183d10800000000000000
+      internalID: 2105466886357243564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 1cfbc3e24d027964c9d163a65f0dc1e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2087640261161887783
+    second: ChooseTali_0
+  - first:
+      213: 4857959422663765406
+    second: ChooseTali_1
+  - first:
+      213: 2774453638923935525
+    second: ChooseTali_2
+  - first:
+      213: 6806558434883359901
+    second: ChooseTali_3
+  - first:
+      213: -2075427425833124349
+    second: ChooseTali_4
+  - first:
+      213: -1224347107694552532
+    second: ChooseTali_5
+  - first:
+      213: -2947391122618052842
+    second: ChooseTali_6
+  - first:
+      213: -6325456844037584020
+    second: ChooseTali_7
+  - first:
+      213: 6724345874126333710
+    second: ChooseTali_8
+  - first:
+      213: 4457591596956373041
+    second: ChooseTali_9
+  - first:
+      213: 5618577769490090057
+    second: ChooseTali_10
+  - first:
+      213: -8877121100154749099
+    second: ChooseTali_11
+  - first:
+      213: -6585268273523595634
+    second: ChooseTali_12
+  - first:
+      213: -2471375428509967456
+    second: ChooseTali_13
+  - first:
+      213: 8169037120391651387
+    second: ChooseTali_14
+  - first:
+      213: -6340795930850448899
+    second: ChooseTali_15
+  - first:
+      213: -7006073527708622809
+    second: ChooseTali_16
+  - first:
+      213: -8832624698700589550
+    second: ChooseTali_17
+  - first:
+      213: 2434207449805681554
+    second: ChooseTali_18
+  - first:
+      213: -8318751445322297912
+    second: ChooseTali_19
+  - first:
+      213: 2423569030290464009
+    second: ChooseTali_20
+  - first:
+      213: 4064794913251924549
+    second: ChooseTali_21
+  - first:
+      213: -7210285230434873698
+    second: ChooseTali_22
+  - first:
+      213: 2882711399689932826
+    second: ChooseTali_23
+  - first:
+      213: -1352300417611463816
+    second: ChooseTali_24
+  - first:
+      213: -6901366487091862709
+    second: ChooseTali_25
+  - first:
+      213: -5349772643526183925
+    second: ChooseTali_26
+  - first:
+      213: -220324551592010245
+    second: ChooseTali_27
+  - first:
+      213: 3394194798320662708
+    second: ChooseTali_28
+  - first:
+      213: 2816280089505272551
+    second: ChooseTali_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChooseTali_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ab59b1c9c8fc10800000000000000
+      internalID: 2087640261161887783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da2293b50fa6340800000000000000
+      internalID: 4857959422663765406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd9d982e6d08620800000000000000
+      internalID: 2774453638923935525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94592675d0c57e50800000000000000
+      internalID: 6806558434883359901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30efc1690c99233e0800000000000000
+      internalID: -2075427425833124349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_5
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ad61cdace320fe0800000000000000
+      internalID: -1224347107694552532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_6
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0632d363c817d0800000000000000
+      internalID: -2947391122618052842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_7
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b831993867738a0800000000000000
+      internalID: -6325456844037584020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_8
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07e92602fca15d50800000000000000
+      internalID: 6724345874126333710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_9
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d95aa0fb8cdd30800000000000000
+      internalID: 4457591596956373041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_10
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9480d5d76b239fd40800000000000000
+      internalID: 5618577769490090057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_11
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1448
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb62574612ec480800000000000000
+      internalID: -8877121100154749099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e9fd356d6c94a0800000000000000
+      internalID: -6585268273523595634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd8054429e3bdd0800000000000000
+      internalID: -2471375428509967456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_14
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ace5caff3e5170800000000000000
+      internalID: 8169037120391651387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_15
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9aa6422b7f008a0800000000000000
+      internalID: -6340795930850448899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_16
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e8ae0f3d65ce90800000000000000
+      internalID: -7006073527708622809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_17
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161c9f32a63c6580800000000000000
+      internalID: -8832624698700589550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_18
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f64357ca08c120800000000000000
+      internalID: 2434207449805681554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_19
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd0cc692abdd8c80800000000000000
+      internalID: -8318751445322297912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_20
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd913413f32a120800000000000000
+      internalID: 2423569030290464009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_21
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1239ff6d096830800000000000000
+      internalID: 4064794913251924549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_22
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0faed8cbefeb90800000000000000
+      internalID: -7210285230434873698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_23
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 848
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10dc78aeb2710820800000000000000
+      internalID: 2882711399689932826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87308aa5fe9ab3de0800000000000000
+      internalID: -1352300417611463816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43aa18bebb6930a0800000000000000
+      internalID: -6901366487091862709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04f481002ac1c5b0800000000000000
+      internalID: -5349772643526183925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd9f07dcff31fcf0800000000000000
+      internalID: -220324551592010245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_28
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b1649f2a9a1f20800000000000000
+      internalID: 3394194798320662708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseTali_29
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 248
+        width: 334
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e297f2f1df651720800000000000000
+      internalID: 2816280089505272551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

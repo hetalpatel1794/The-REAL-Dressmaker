@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 37d1a48907f8a1f4c8b9ce0f69604e3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5344813853195729338
+    second: Racun_0
+  - first:
+      213: -2944223562625453198
+    second: Racun_1
+  - first:
+      213: 4551512540377594484
+    second: Racun_2
+  - first:
+      213: 5323869259972002719
+    second: Racun_3
+  - first:
+      213: -8431540421326115788
+    second: Racun_4
+  - first:
+      213: -4979366478778774601
+    second: Racun_5
+  - first:
+      213: 8312143638809677284
+    second: Racun_6
+  - first:
+      213: -8224019051678980719
+    second: Racun_7
+  - first:
+      213: 2222375495122944486
+    second: Racun_8
+  - first:
+      213: -7112921940724815502
+    second: Racun_9
+  - first:
+      213: -3293496298278599153
+    second: Racun_10
+  - first:
+      213: 5212592143159578979
+    second: Racun_11
+  - first:
+      213: 5245180547760575269
+    second: Racun_12
+  - first:
+      213: 423636404170855349
+    second: Racun_13
+  - first:
+      213: -3174962683660865447
+    second: Racun_14
+  - first:
+      213: -7669052803393729039
+    second: Racun_15
+  - first:
+      213: 3557554539240408354
+    second: Racun_16
+  - first:
+      213: -5884372286114690570
+    second: Racun_17
+  - first:
+      213: 6442834568995982996
+    second: Racun_18
+  - first:
+      213: -1120933934286156657
+    second: Racun_19
+  - first:
+      213: -4715656306493687825
+    second: Racun_20
+  - first:
+      213: 5391934596167572601
+    second: Racun_21
+  - first:
+      213: 2018833385631269856
+    second: Racun_22
+  - first:
+      213: -6619117119425026038
+    second: Racun_23
+  - first:
+      213: -884540532280359371
+    second: Racun_24
+  - first:
+      213: 9196000155881162660
+    second: Racun_25
+  - first:
+      213: 8342365230684150428
+    second: Racun_26
+  - first:
+      213: 5343907753150072730
+    second: Racun_27
+  - first:
+      213: 1068478904211598184
+    second: Racun_28
+  - first:
+      213: -6275239396637966334
+    second: Racun_29
+  - first:
+      213: 8350308767956023386
+    second: Racun_30
+  - first:
+      213: 3833242869436511880
+    second: Racun_31
+  - first:
+      213: -2622470798789997486
+    second: Racun_32
+  - first:
+      213: -2931584826311276591
+    second: Racun_33
+  - first:
+      213: 2407872958932905070
+    second: Racun_34
+  - first:
+      213: 3072859807967068442
+    second: Racun_35
+  - first:
+      213: 5642767599689497542
+    second: Racun_36
+  - first:
+      213: -109689130588475276
+    second: Racun_37
+  - first:
+      213: 4689587515246814767
+    second: Racun_38
+  - first:
+      213: -1927540941543376475
+    second: Racun_39
+  - first:
+      213: 2422091303434919343
+    second: Racun_40
+  - first:
+      213: -1565933807038511180
+    second: Racun_41
+  - first:
+      213: 7980333317201955326
+    second: Racun_42
+  - first:
+      213: 4372450706444217999
+    second: Racun_43
+  - first:
+      213: -1689175128982376909
+    second: Racun_44
+  - first:
+      213: 3638741194006833037
+    second: Racun_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Racun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468ea95e1863d5b0800000000000000
+      internalID: -5344813853195729338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273ff5ad4440427d0800000000000000
+      internalID: -2944223562625453198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a31ff5a883a2f30800000000000000
+      internalID: 4551512540377594484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c04782ee22e940800000000000000
+      internalID: 5323869259972002719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_4
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6285b8a62dfa80800000000000000
+      internalID: -8431540421326115788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_5
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb47e1c19cb5eab0800000000000000
+      internalID: -4979366478778774601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_6
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed0641999aaa5370800000000000000
+      internalID: 8312143638809677284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_7
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19521a6ce3a6edd80800000000000000
+      internalID: -8224019051678980719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_8
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 3724
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e10658fcb677de10800000000000000
+      internalID: 2222375495122944486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e3084e23d94d90800000000000000
+      internalID: -7112921940724815502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064a0001962b42d0800000000000000
+      internalID: -3293496298278599153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_11
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d40ccfe8d65840800000000000000
+      internalID: 5212592143159578979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523de040bef9ac840800000000000000
+      internalID: 5245180547760575269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_13
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b31788a01f01e500800000000000000
+      internalID: 423636404170855349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_14
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f549c24440f3d0800000000000000
+      internalID: -3174962683660865447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_15
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdc0029b1d029590800000000000000
+      internalID: -7669052803393729039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_16
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c0843109fe5130800000000000000
+      internalID: 3557554539240408354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_17
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 3352
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f90bff1592865ea0800000000000000
+      internalID: -5884372286114690570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ecc97a7eb896950800000000000000
+      internalID: 6442834568995982996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c41369684a170f0800000000000000
+      internalID: -1120933934286156657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7fc98e29f9e8eb0800000000000000
+      internalID: -4715656306493687825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_21
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c15b092fff3da40800000000000000
+      internalID: 5391934596167572601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_22
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3404b9446540c10800000000000000
+      internalID: 2018833385631269856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_23
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e6f9ac0c2424a0800000000000000
+      internalID: -6619117119425026038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_24
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368ef7821b79b3f0800000000000000
+      internalID: -884540532280359371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_25
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7cbb55b61ce9f70800000000000000
+      internalID: 9196000155881162660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_26
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 2980
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a9f714af806c370800000000000000
+      internalID: 8342365230684150428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9747fac9cf592a40800000000000000
+      internalID: 5343907753150072730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be78ff6eff3de00800000000000000
+      internalID: 1068478904211598184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008bd2340fd9e8a0800000000000000
+      internalID: -6275239396637966334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_30
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5839d6259142e370800000000000000
+      internalID: 8350308767956023386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_31
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ff82941a623530800000000000000
+      internalID: 3833242869436511880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_32
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c8944f3bc1b9bd0800000000000000
+      internalID: -2622470798789997486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_33
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78ac6f12be057d0800000000000000
+      internalID: -2931584826311276591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_34
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce67dd2bb7a6120800000000000000
+      internalID: 2407872958932905070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_35
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 2608
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c372f6bdf4aa20800000000000000
+      internalID: 3072859807967068442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb73993c332f4e40800000000000000
+      internalID: 5642767599689497542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707d8f115e4a7ef0800000000000000
+      internalID: -109689130588475276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_38
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a465aff2c41140800000000000000
+      internalID: 4689587515246814767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_39
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f849e9bfff35e0800000000000000
+      internalID: -1927540941543376475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_40
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad1dca253ffc9120800000000000000
+      internalID: 2422091303434919343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_41
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c1b9cf7fa44ae0800000000000000
+      internalID: -1565933807038511180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_42
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef98901ded6dfbe60800000000000000
+      internalID: 7980333317201955326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_43
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e638350c01eac30800000000000000
+      internalID: 4372450706444217999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_44
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 2236
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ea4997b28de88e0800000000000000
+      internalID: -1689175128982376909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racun_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1864
+        width: 428
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ab5a46d76f7230800000000000000
+      internalID: 3638741194006833037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

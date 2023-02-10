@@ -1,0 +1,1512 @@
+fileFormatVersion: 2
+guid: 5a4ca145b6511244d98f498b0655fde6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4859487146799202157
+    second: TaliHead_0
+  - first:
+      213: 2819316488415032906
+    second: TaliHead_1
+  - first:
+      213: 6304167445869422316
+    second: TaliHead_2
+  - first:
+      213: 6512852677129517413
+    second: TaliHead_3
+  - first:
+      213: 8383247454984184385
+    second: TaliHead_4
+  - first:
+      213: -8314747040435627383
+    second: TaliHead_5
+  - first:
+      213: -6234859967072512233
+    second: TaliHead_6
+  - first:
+      213: -4382233519728492608
+    second: TaliHead_7
+  - first:
+      213: -851336478803507360
+    second: TaliHead_8
+  - first:
+      213: 2561802316719995822
+    second: TaliHead_9
+  - first:
+      213: -458356020470749882
+    second: TaliHead_10
+  - first:
+      213: 4291328274309191601
+    second: TaliHead_11
+  - first:
+      213: 7762979898847400702
+    second: TaliHead_12
+  - first:
+      213: 1938390264861394919
+    second: TaliHead_13
+  - first:
+      213: 8422397511280155411
+    second: TaliHead_14
+  - first:
+      213: 3948353735353531127
+    second: TaliHead_15
+  - first:
+      213: 8697491396468001707
+    second: TaliHead_16
+  - first:
+      213: -634192491257738805
+    second: TaliHead_17
+  - first:
+      213: -1250219788721851488
+    second: TaliHead_18
+  - first:
+      213: -7184922955795754023
+    second: TaliHead_19
+  - first:
+      213: -745678299449646535
+    second: TaliHead_20
+  - first:
+      213: 2113767821351219923
+    second: TaliHead_21
+  - first:
+      213: -602865703874145991
+    second: TaliHead_22
+  - first:
+      213: 1430533296629623352
+    second: TaliHead_23
+  - first:
+      213: 8784925337696253823
+    second: TaliHead_24
+  - first:
+      213: 5174003394690195301
+    second: TaliHead_25
+  - first:
+      213: 5894919656078943055
+    second: TaliHead_26
+  - first:
+      213: 734777493146547733
+    second: TaliHead_27
+  - first:
+      213: 7921960862965464601
+    second: TaliHead_28
+  - first:
+      213: -3204050689794645789
+    second: TaliHead_29
+  - first:
+      213: -1272210481734529335
+    second: TaliHead_30
+  - first:
+      213: 9171257862635250476
+    second: TaliHead_31
+  - first:
+      213: -1616297011887180913
+    second: TaliHead_32
+  - first:
+      213: -688284509763191865
+    second: TaliHead_33
+  - first:
+      213: 4240725525785126868
+    second: TaliHead_34
+  - first:
+      213: 6719161728823083811
+    second: TaliHead_35
+  - first:
+      213: -6521226112688928709
+    second: TaliHead_36
+  - first:
+      213: 8859380564216884776
+    second: TaliHead_37
+  - first:
+      213: 7588023949557900205
+    second: TaliHead_38
+  - first:
+      213: -794399987040995545
+    second: TaliHead_39
+  - first:
+      213: -3387694504849071849
+    second: TaliHead_40
+  - first:
+      213: -4351752290155590645
+    second: TaliHead_41
+  - first:
+      213: 7636496329021154020
+    second: TaliHead_42
+  - first:
+      213: 8562725669473348439
+    second: TaliHead_43
+  - first:
+      213: -7784571676088080765
+    second: TaliHead_44
+  - first:
+      213: 1648156052197465926
+    second: TaliHead_45
+  - first:
+      213: -4831131427149386988
+    second: TaliHead_46
+  - first:
+      213: 5367813702691794961
+    second: TaliHead_47
+  - first:
+      213: 4420034898881300953
+    second: TaliHead_48
+  - first:
+      213: -6345310363131801892
+    second: TaliHead_49
+  - first:
+      213: -3382172098876443636
+    second: TaliHead_50
+  - first:
+      213: 2972069995406418577
+    second: TaliHead_51
+  - first:
+      213: 530879380611583123
+    second: TaliHead_52
+  - first:
+      213: 5800263265509323400
+    second: TaliHead_53
+  - first:
+      213: 3042376093331305697
+    second: TaliHead_54
+  - first:
+      213: -2092609527042911073
+    second: TaliHead_55
+  - first:
+      213: -3084139688638472666
+    second: TaliHead_56
+  - first:
+      213: 6762246486161112965
+    second: TaliHead_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TaliHead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffa8730dd507340800000000000000
+      internalID: 4859487146799202157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a463169a869302720800000000000000
+      internalID: 2819316488415032906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e0af14e6ec7750800000000000000
+      internalID: 6304167445869422316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_3
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b1c6d00d426a50800000000000000
+      internalID: 6512852677129517413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_4
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142a78ad427475470800000000000000
+      internalID: 8383247454984184385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_5
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9a91ce951c9c80800000000000000
+      internalID: -8314747040435627383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_6
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d656c4e35979a0800000000000000
+      internalID: -6234859967072512233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_7
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff5c5f4dd2f23c0800000000000000
+      internalID: -4382233519728492608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_8
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 3663
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c59cabf17f24f0800000000000000
+      internalID: -851336478803507360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab3ed052a95d8320800000000000000
+      internalID: 2561802316719995822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ed2bb0a793a9f0800000000000000
+      internalID: -458356020470749882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b71acc345cdd8b30800000000000000
+      internalID: 4291328274309191601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_12
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21c458615abbb60800000000000000
+      internalID: 7762979898847400702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e783250dab86ea10800000000000000
+      internalID: 1938390264861394919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_14
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bdcf8a9ed52e470800000000000000
+      internalID: 8422397511280155411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_15
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa75539dce5bc630800000000000000
+      internalID: 3948353735353531127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_16
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babcd730852b3b870800000000000000
+      internalID: 8697491396468001707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_17
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 3230
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9cc5f0a45e237f0800000000000000
+      internalID: -634192491257738805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f112e9b356aee0800000000000000
+      internalID: -1250219788721851488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d39e3993a60a4c90800000000000000
+      internalID: -7184922955795754023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_20
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93226949981d6a5f0800000000000000
+      internalID: -745678299449646535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_21
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27a4162ac955d10800000000000000
+      internalID: 2113767821351219923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_22
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d05126d032a7f0800000000000000
+      internalID: -602865703874145991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_23
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a2af834764ad310800000000000000
+      internalID: 1430533296629623352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_24
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b6b3dc035ae970800000000000000
+      internalID: 8784925337696253823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_25
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f9c27aca0cdc740800000000000000
+      internalID: 5174003394690195301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_26
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2797
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ad00d136fec150800000000000000
+      internalID: 5894919656078943055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516b3fbac34723a00800000000000000
+      internalID: 734777493146547733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7a99be6570fd60800000000000000
+      internalID: 7921960862965464601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_29
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e1789fdce883d0800000000000000
+      internalID: -3204050689794645789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_30
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4facae43385ee0800000000000000
+      internalID: -1272210481734529335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_31
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23e1e54f6ad64f70800000000000000
+      internalID: 9171257862635250476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_32
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8370f26e62c199e0800000000000000
+      internalID: -1616297011887180913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_33
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb392392e8b276f0800000000000000
+      internalID: -688284509763191865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_34
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7aa5ab5651ada30800000000000000
+      internalID: 4240725525785126868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_35
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2364
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32346e22ef14f3d50800000000000000
+      internalID: 6719161728823083811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38cc25c663ff75a0800000000000000
+      internalID: -6521226112688928709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_37
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea5242fa7d2fa70800000000000000
+      internalID: 8859380564216884776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_38
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32e8c34931e4960800000000000000
+      internalID: 7588023949557900205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_39
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b8d2bb69b9f4f0800000000000000
+      internalID: -794399987040995545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_40
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711adeeebcd7cf0d0800000000000000
+      internalID: -3387694504849071849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_41
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c88c249587b93c0800000000000000
+      internalID: -4351752290155590645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_42
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e261eb83f84af960800000000000000
+      internalID: 7636496329021154020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_43
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75be31e01a9e4d670800000000000000
+      internalID: 8562725669473348439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_44
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1931
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386e3361e45a7f390800000000000000
+      internalID: -7784571676088080765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd3a9723d6fd610800000000000000
+      internalID: 1648156052197465926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_46
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be88d309f54fcb0800000000000000
+      internalID: -4831131427149386988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_47
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1103b696f1e4e7a40800000000000000
+      internalID: 5367813702691794961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_48
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d946aa725e175d30800000000000000
+      internalID: 4420034898881300953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_49
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde8ce7f7dde0f7a0800000000000000
+      internalID: -6345310363131801892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_50
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047b35456c1011d0800000000000000
+      internalID: -3382172098876443636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_51
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ebc30ae9ee3920800000000000000
+      internalID: 2972069995406418577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_52
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ccee3ebff0e5700800000000000000
+      internalID: 530879380611583123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_53
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1498
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823e6875bcae7050800000000000000
+      internalID: 5800263265509323400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4372c00f0b83a20800000000000000
+      internalID: 3042376093331305697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_55
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1065
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945207e8be85f2e0800000000000000
+      internalID: -2092609527042911073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_56
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1065
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e150d2b4fe235d0800000000000000
+      internalID: -3084139688638472666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliHead_57
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1065
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f344be95358dd50800000000000000
+      internalID: 6762246486161112965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

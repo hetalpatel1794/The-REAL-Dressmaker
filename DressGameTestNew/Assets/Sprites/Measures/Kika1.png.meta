@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 97d81bce3b0e459449ab90101dd3ddec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7277553581983822804
+    second: Kika1_0
+  - first:
+      213: 5054719198926006135
+    second: Kika1_1
+  - first:
+      213: -1801968059923384837
+    second: Kika1_2
+  - first:
+      213: 6800879468705573742
+    second: Kika1_3
+  - first:
+      213: 5592256222362698250
+    second: Kika1_4
+  - first:
+      213: 3234279337505638338
+    second: Kika1_5
+  - first:
+      213: -4645698527393078073
+    second: Kika1_6
+  - first:
+      213: 3945673299005056724
+    second: Kika1_7
+  - first:
+      213: -2832311589030114641
+    second: Kika1_8
+  - first:
+      213: 605107538573403769
+    second: Kika1_9
+  - first:
+      213: -5226441561467923608
+    second: Kika1_10
+  - first:
+      213: 4515269125935354267
+    second: Kika1_11
+  - first:
+      213: 3314693358661297236
+    second: Kika1_12
+  - first:
+      213: 1607020929644951152
+    second: Kika1_13
+  - first:
+      213: 3860656294530440063
+    second: Kika1_14
+  - first:
+      213: 2781443438926259306
+    second: Kika1_15
+  - first:
+      213: 9075172992652532191
+    second: Kika1_16
+  - first:
+      213: 2584438803929260706
+    second: Kika1_17
+  - first:
+      213: 3577126172132095264
+    second: Kika1_18
+  - first:
+      213: -4713680433862857117
+    second: Kika1_19
+  - first:
+      213: 8482369117147639626
+    second: Kika1_20
+  - first:
+      213: 8787469804198378431
+    second: Kika1_21
+  - first:
+      213: 6389144224224170053
+    second: Kika1_22
+  - first:
+      213: 200656130965980229
+    second: Kika1_23
+  - first:
+      213: -2969547300706381533
+    second: Kika1_24
+  - first:
+      213: -4453500182699545385
+    second: Kika1_25
+  - first:
+      213: -1980161790924210594
+    second: Kika1_26
+  - first:
+      213: 8665072522556549994
+    second: Kika1_27
+  - first:
+      213: 554404795459642884
+    second: Kika1_28
+  - first:
+      213: -5691056190805950265
+    second: Kika1_29
+  - first:
+      213: 5781909944989475329
+    second: Kika1_30
+  - first:
+      213: 7643497026958454046
+    second: Kika1_31
+  - first:
+      213: -6488520832068143469
+    second: Kika1_32
+  - first:
+      213: -7222018199314267413
+    second: Kika1_33
+  - first:
+      213: -5232741139578734898
+    second: Kika1_34
+  - first:
+      213: -8796997055553190450
+    second: Kika1_35
+  - first:
+      213: -5948767811324168356
+    second: Kika1_36
+  - first:
+      213: -249784838722661464
+    second: Kika1_37
+  - first:
+      213: 7508638776170681986
+    second: Kika1_38
+  - first:
+      213: 5071265063287131196
+    second: Kika1_39
+  - first:
+      213: -1862448038238792706
+    second: Kika1_40
+  - first:
+      213: -831843670605848704
+    second: Kika1_41
+  - first:
+      213: -7523982495832710536
+    second: Kika1_42
+  - first:
+      213: -358653370067339917
+    second: Kika1_43
+  - first:
+      213: 2961542509654945965
+    second: Kika1_44
+  - first:
+      213: 361006722910940205
+    second: Kika1_45
+  - first:
+      213: -4360902086019580397
+    second: Kika1_46
+  - first:
+      213: -489788503584905705
+    second: Kika1_47
+  - first:
+      213: -717561483549540409
+    second: Kika1_48
+  - first:
+      213: -5708096585372586199
+    second: Kika1_49
+  - first:
+      213: 2029928432438136823
+    second: Kika1_50
+  - first:
+      213: 7822898380113818370
+    second: Kika1_51
+  - first:
+      213: 5717109399789177904
+    second: Kika1_52
+  - first:
+      213: -4439745837924768164
+    second: Kika1_53
+  - first:
+      213: 4375089315325563121
+    second: Kika1_54
+  - first:
+      213: -9076271603303432693
+    second: Kika1_55
+  - first:
+      213: 7701997764977168063
+    second: Kika1_56
+  - first:
+      213: -3605518849244671308
+    second: Kika1_57
+  - first:
+      213: 810830097799360427
+    second: Kika1_58
+  - first:
+      213: 8791260301162581671
+    second: Kika1_59
+  - first:
+      213: -1019881651200428925
+    second: Kika1_60
+  - first:
+      213: 2984181511584006199
+    second: Kika1_61
+  - first:
+      213: -7838307119150946752
+    second: Kika1_62
+  - first:
+      213: -2286901007007587249
+    second: Kika1_63
+  - first:
+      213: 722781296722329863
+    second: Kika1_64
+  - first:
+      213: 6799052065201176023
+    second: Kika1_65
+  - first:
+      213: -9065987175995498097
+    second: Kika1_66
+  - first:
+      213: -125030397448105650
+    second: Kika1_67
+  - first:
+      213: -8308219395555061612
+    second: Kika1_68
+  - first:
+      213: 4007970749180207422
+    second: Kika1_69
+  - first:
+      213: 5318810709841644089
+    second: Kika1_70
+  - first:
+      213: -5119811744372163575
+    second: Kika1_71
+  - first:
+      213: 4225345280291180429
+    second: Kika1_72
+  - first:
+      213: 389358240064420204
+    second: Kika1_73
+  - first:
+      213: -4524489428896520887
+    second: Kika1_74
+  - first:
+      213: 1032377052716565224
+    second: Kika1_75
+  - first:
+      213: -6587099451963277702
+    second: Kika1_76
+  - first:
+      213: 898855071097762819
+    second: Kika1_77
+  - first:
+      213: 2512455935166812824
+    second: Kika1_78
+  - first:
+      213: -6886730519374208450
+    second: Kika1_79
+  - first:
+      213: 6720025285061983262
+    second: Kika1_80
+  - first:
+      213: 3245127664422234986
+    second: Kika1_81
+  - first:
+      213: 3996256489570800900
+    second: Kika1_82
+  - first:
+      213: 5213565605052271181
+    second: Kika1_83
+  - first:
+      213: 6903509503472013498
+    second: Kika1_84
+  - first:
+      213: -928672934819025829
+    second: Kika1_85
+  - first:
+      213: 4713955462521296255
+    second: Kika1_86
+  - first:
+      213: 4774051922647733966
+    second: Kika1_87
+  - first:
+      213: 256219413897534000
+    second: Kika1_88
+  - first:
+      213: -1018744164762972735
+    second: Kika1_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kika1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8bf7439fe00b90800000000000000
+      internalID: -7277553581983822804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e4539458f52640800000000000000
+      internalID: 5054719198926006135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5baa3c89f1ef6e0800000000000000
+      internalID: -1801968059923384837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b617c18d3916e50800000000000000
+      internalID: 6800879468705573742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0285eab76fab9d40800000000000000
+      internalID: 5592256222362698250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_5
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7c868ebe772ec20800000000000000
+      internalID: 3234279337505638338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42e25adc9278fb0800000000000000
+      internalID: -4645698527393078073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a0fad5f8d1c630800000000000000
+      internalID: 3945673299005056724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa43a2bd9b91b8d0800000000000000
+      internalID: -2832311589030114641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_9
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976249fa916c56800800000000000000
+      internalID: 605107538573403769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863dd593713f777b0800000000000000
+      internalID: -5226441561467923608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915aacd85579ae30800000000000000
+      internalID: 4515269125935354267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4546a563c08200e20800000000000000
+      internalID: 3314693358661297236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fa1a65094d4610800000000000000
+      internalID: 1607020929644951152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bdc5bf17ec39530800000000000000
+      internalID: 3860656294530440063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a646a0c221ca99620800000000000000
+      internalID: 2781443438926259306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_16
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d54621cd71fd70800000000000000
+      internalID: 9075172992652532191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_17
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a260f33665cdd320800000000000000
+      internalID: 2584438803929260706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025bfa61d4184a130800000000000000
+      internalID: 3577126172132095264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_19
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e25ea9e94a59eb0800000000000000
+      internalID: -4713680433862857117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f245145cd67b570800000000000000
+      internalID: 8482369117147639626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb37b99a3d53f970800000000000000
+      internalID: 8787469804198378431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540de9f12dccaa850800000000000000
+      internalID: 6389144224224170053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444b3020bfd8c200800000000000000
+      internalID: 200656130965980229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3211dad967c0ac6d0800000000000000
+      internalID: -2969547300706381533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_25
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc6e03fd2df132c0800000000000000
+      internalID: -4453500182699545385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e392ea75d0584e0800000000000000
+      internalID: -1980161790924210594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_27
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b2bfbbc85804870800000000000000
+      internalID: 8665072522556549994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406252f5934a1b700800000000000000
+      internalID: 554404795459642884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_29
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c049360c8e4501b0800000000000000
+      internalID: -5691056190805950265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102656a06787d3050800000000000000
+      internalID: 5781909944989475329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dec9d8c08231a60800000000000000
+      internalID: 7643497026958454046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3963bde4ea424f5a0800000000000000
+      internalID: -6488520832068143469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2877c26bc36cb90800000000000000
+      internalID: -7222018199314267413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec636d568a19167b0800000000000000
+      internalID: -5232741139578734898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_35
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5489559c9cae580800000000000000
+      internalID: -8796997055553190450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_36
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57beba813bb17da0800000000000000
+      internalID: -5948767811324168356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_37
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a358a93306988cf0800000000000000
+      internalID: -249784838722661464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28690683f2b043860800000000000000
+      internalID: 7508638776170681986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_39
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c0413d4b0c06640800000000000000
+      internalID: 5071265063287131196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3572c70614726e0800000000000000
+      internalID: -1862448038238792706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f91e0c692b474f0800000000000000
+      internalID: -831843670605848704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87262a7a8c1759790800000000000000
+      internalID: -7523982495832710536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b3aff8aec50bf0800000000000000
+      internalID: -358653370067339917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b33bb833891920800000000000000
+      internalID: 2961542509654945965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_45
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c62a8a3bd820500800000000000000
+      internalID: 361006722910940205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_46
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31efa8668a6fa73c0800000000000000
+      internalID: -4360902086019580397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_47
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71660c473fbe339f0800000000000000
+      internalID: -489788503584905705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff68ce1a5ba06f0800000000000000
+      internalID: -717561483549540409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_49
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2f3df564c8c0b0800000000000000
+      internalID: -5708096585372586199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc0fe7721cb2c10800000000000000
+      internalID: 2029928432438136823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203b9a411a4809c60800000000000000
+      internalID: 7822898380113818370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_52
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0b7465b0475f40800000000000000
+      internalID: 5717109399789177904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_53
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a975eeaad262c0800000000000000
+      internalID: -4439745837924768164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_54
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f056945d8077bc30800000000000000
+      internalID: 4375089315325563121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_55
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3220a01b9a0280800000000000000
+      internalID: -9076271603303432693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_56
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe015a092ef2ea60800000000000000
+      internalID: 7701997764977168063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_57
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2dbcf95bf96fdc0800000000000000
+      internalID: -3605518849244671308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_58
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa6809da5a04b00800000000000000
+      internalID: 810830097799360427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_59
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0ac27aa4d00a70800000000000000
+      internalID: 8791260301162581671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3847243ba07a8d1f0800000000000000
+      internalID: -1019881651200428925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_61
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c04f1641f96920800000000000000
+      internalID: 2984181511584006199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_62
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a79a443db83390800000000000000
+      internalID: -7838307119150946752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_63
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4464d096ab4340e0800000000000000
+      internalID: -2286901007007587249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_64
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7014e6982c5d70a00800000000000000
+      internalID: 722781296722329863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_65
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb3b394d51b5e50800000000000000
+      internalID: 6799052065201176023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_66
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81aa8472b42f2280800000000000000
+      internalID: -9065987175995498097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_67
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41daf5148dc34ef0800000000000000
+      internalID: -125030397448105650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_68
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4901ee38a7643bc80800000000000000
+      internalID: -8308219395555061612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_69
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ea07492c2f9730800000000000000
+      internalID: 4007970749180207422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a87ab092630d940800000000000000
+      internalID: 5318810709841644089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_71
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf2db2856c2f8b0800000000000000
+      internalID: -5119811744372163575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f0125452173aa30800000000000000
+      internalID: 4225345280291180429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_73
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c693965a147476500800000000000000
+      internalID: 389358240064420204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_74
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ec9016d8c531c0800000000000000
+      internalID: -4524489428896520887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_75
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e28f6da57db35e00800000000000000
+      internalID: 1032377052716565224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_76
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7efe89c2fbe594a0800000000000000
+      internalID: -6587099451963277702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_77
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3043751ccef597c00800000000000000
+      internalID: 898855071097762819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_78
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89290798c590ed220800000000000000
+      internalID: 2512455935166812824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_79
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32ebd0841b6d60a0800000000000000
+      internalID: -6886730519374208450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c33cd7463524d50800000000000000
+      internalID: 6720025285061983262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_81
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b2ea8da62090d20800000000000000
+      internalID: 3245127664422234986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_82
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405973caa1e857730800000000000000
+      internalID: 3996256489570800900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_83
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac55e8b4e4a5840800000000000000
+      internalID: 5213565605052271181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_84
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09bf921513ecf50800000000000000
+      internalID: 6903509503472013498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_85
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca797d2e0bc13f0800000000000000
+      internalID: -928672934819025829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_86
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75189e74855b6140800000000000000
+      internalID: 4713955462521296255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_87
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec650bcfde6d04240800000000000000
+      internalID: 4774051922647733966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_88
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03adbed03364e8300800000000000000
+      internalID: 256219413897534000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kika1_89
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0d466491bcd1f0800000000000000
+      internalID: -1018744164762972735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

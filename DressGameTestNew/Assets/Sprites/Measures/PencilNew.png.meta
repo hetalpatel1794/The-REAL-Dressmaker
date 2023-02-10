@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: 42f371c710140eb46bed4bbc1c83a693
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6117367921977847800
+    second: PencilNew_0
+  - first:
+      213: -6835503799525657364
+    second: PencilNew_1
+  - first:
+      213: 8052354614780973593
+    second: PencilNew_2
+  - first:
+      213: -8260199894655108287
+    second: PencilNew_3
+  - first:
+      213: 4399987846903010000
+    second: PencilNew_4
+  - first:
+      213: 8882936245532219369
+    second: PencilNew_5
+  - first:
+      213: -6287464356397182078
+    second: PencilNew_6
+  - first:
+      213: 6766104982772965748
+    second: PencilNew_7
+  - first:
+      213: -4498961315152835327
+    second: PencilNew_8
+  - first:
+      213: -382487421807917008
+    second: PencilNew_9
+  - first:
+      213: 5021223649396675832
+    second: PencilNew_10
+  - first:
+      213: -2463638405266385116
+    second: PencilNew_11
+  - first:
+      213: -1544476933511245693
+    second: PencilNew_12
+  - first:
+      213: -8463790146665328231
+    second: PencilNew_13
+  - first:
+      213: -657016825663445706
+    second: PencilNew_14
+  - first:
+      213: -6946629718574502814
+    second: PencilNew_15
+  - first:
+      213: -849445640967979214
+    second: PencilNew_16
+  - first:
+      213: 662422947677967101
+    second: PencilNew_17
+  - first:
+      213: 1075948837697302515
+    second: PencilNew_18
+  - first:
+      213: 5177919294051942473
+    second: PencilNew_19
+  - first:
+      213: -4435977436823226825
+    second: PencilNew_20
+  - first:
+      213: -5556534871606246151
+    second: PencilNew_21
+  - first:
+      213: 6996115218902027266
+    second: PencilNew_22
+  - first:
+      213: 4571352193712682441
+    second: PencilNew_23
+  - first:
+      213: 4060391765820510694
+    second: PencilNew_24
+  - first:
+      213: 5005212124696299328
+    second: PencilNew_25
+  - first:
+      213: 4388273951167485338
+    second: PencilNew_26
+  - first:
+      213: -4265195571954927177
+    second: PencilNew_27
+  - first:
+      213: 2388856818151484273
+    second: PencilNew_28
+  - first:
+      213: -6906266144453359726
+    second: PencilNew_29
+  - first:
+      213: -7829596341590208317
+    second: PencilNew_30
+  - first:
+      213: 4747289737218363831
+    second: PencilNew_31
+  - first:
+      213: 2584206363259322856
+    second: PencilNew_32
+  - first:
+      213: -1375939929343342880
+    second: PencilNew_33
+  - first:
+      213: 3472848396892281759
+    second: PencilNew_34
+  - first:
+      213: -4881987915670883871
+    second: PencilNew_35
+  - first:
+      213: -2068434868642240556
+    second: PencilNew_36
+  - first:
+      213: -4374446857644912240
+    second: PencilNew_37
+  - first:
+      213: 2376744183619547422
+    second: PencilNew_38
+  - first:
+      213: -2206864952302882241
+    second: PencilNew_39
+  - first:
+      213: -7864790362796811891
+    second: PencilNew_40
+  - first:
+      213: -2502206487964341811
+    second: PencilNew_41
+  - first:
+      213: 4346609177722615824
+    second: PencilNew_42
+  - first:
+      213: 1394526424600361437
+    second: PencilNew_43
+  - first:
+      213: 269467317697770302
+    second: PencilNew_44
+  - first:
+      213: -4097472099452095715
+    second: PencilNew_45
+  - first:
+      213: -4286290840177513681
+    second: PencilNew_46
+  - first:
+      213: -5219456067151135655
+    second: PencilNew_47
+  - first:
+      213: -8380775288059206589
+    second: PencilNew_48
+  - first:
+      213: 6841387153532340738
+    second: PencilNew_49
+  - first:
+      213: 5454974748064958183
+    second: PencilNew_50
+  - first:
+      213: -7188352489688275043
+    second: PencilNew_51
+  - first:
+      213: 3299174590665743822
+    second: PencilNew_52
+  - first:
+      213: -9105060740148299572
+    second: PencilNew_53
+  - first:
+      213: 5551467246632097008
+    second: PencilNew_54
+  - first:
+      213: 7580355077465374076
+    second: PencilNew_55
+  - first:
+      213: 3734912354055966639
+    second: PencilNew_56
+  - first:
+      213: 6433356266225983694
+    second: PencilNew_57
+  - first:
+      213: 2536621326706290824
+    second: PencilNew_58
+  - first:
+      213: -8763316940861733648
+    second: PencilNew_59
+  - first:
+      213: 6537876550170923828
+    second: PencilNew_60
+  - first:
+      213: -4234837839601386716
+    second: PencilNew_61
+  - first:
+      213: 3154197465999344989
+    second: PencilNew_62
+  - first:
+      213: 2909720104758820435
+    second: PencilNew_63
+  - first:
+      213: 3822621694709743978
+    second: PencilNew_64
+  - first:
+      213: -9175038113018002795
+    second: PencilNew_65
+  - first:
+      213: 5014211791417357290
+    second: PencilNew_66
+  - first:
+      213: -1271121264525045028
+    second: PencilNew_67
+  - first:
+      213: -4895001406137864048
+    second: PencilNew_68
+  - first:
+      213: 5556638178761845857
+    second: PencilNew_69
+  - first:
+      213: 2312790421812486376
+    second: PencilNew_70
+  - first:
+      213: 4881309004708180415
+    second: PencilNew_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PencilNew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8001422494eba1ba0800000000000000
+      internalID: -6117367921977847800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4b078a2896321a0800000000000000
+      internalID: -6835503799525657364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125f73ebd5bfbf60800000000000000
+      internalID: 8052354614780973593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bfc51d5ffdd5d80800000000000000
+      internalID: -8260199894655108287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_4
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d290b672a5ef0d30800000000000000
+      internalID: 4399987846903010000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7d3659377864b70800000000000000
+      internalID: 8882936245532219369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_6
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2831403fa707eb8a0800000000000000
+      internalID: -6287464356397182078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_7
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ee2b22a806ed50800000000000000
+      internalID: 6766104982772965748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_8
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d4718358a7091c0800000000000000
+      internalID: -4498961315152835327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_9
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038851467b121baf0800000000000000
+      internalID: -382487421807917008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_10
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f454183e48fea540800000000000000
+      internalID: 5021223649396675832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_11
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427561f5ce56fcdd0800000000000000
+      internalID: -2463638405266385116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_12
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 3642
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3801746796ae09ae0800000000000000
+      internalID: -1544476933511245693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991df8664b39a8a80800000000000000
+      internalID: -8463790146665328231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63520e69daec1e6f0800000000000000
+      internalID: -657016825663445706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce136631d989f90800000000000000
+      internalID: -6946629718574502814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_16
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f791aa0b92634f0800000000000000
+      internalID: -849445640967979214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_17
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df299674926613900800000000000000
+      internalID: 662422947677967101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_18
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff217b64c98eee00800000000000000
+      internalID: 1075948837697302515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_19
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9408b950a2aabd740800000000000000
+      internalID: 5177919294051942473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_20
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736f086260e3072c0800000000000000
+      internalID: -4435977436823226825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_21
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4c6db59f833e2b0800000000000000
+      internalID: -5556534871606246151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_22
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c0c5e79b1371160800000000000000
+      internalID: 6996115218902027266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_23
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57271a994b07f30800000000000000
+      internalID: 4571352193712682441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_24
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e117a25cc8695830800000000000000
+      internalID: 4060391765820510694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_25
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 3188
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047400e98e5167540800000000000000
+      internalID: 5005212124696299328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95107498e746ec30800000000000000
+      internalID: 4388273951167485338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9be0ca93bfec4c0800000000000000
+      internalID: -4265195571954927177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b60319e9ce62120800000000000000
+      internalID: 2388856818151484273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_29
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970d8758830820a0800000000000000
+      internalID: -6906266144453359726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_30
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c051dc3c9fa75390800000000000000
+      internalID: -7829596341590208317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_31
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b112c02dd2c1e140800000000000000
+      internalID: 4747289737218363831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_32
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e14064eef1fcd320800000000000000
+      internalID: 2584206363259322856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_33
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c63f9ceda7ece0800000000000000
+      internalID: -1375939929343342880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_34
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9c8f8739023030800000000000000
+      internalID: 3472848396892281759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_35
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1ffa84bd1bf3cb0800000000000000
+      internalID: -4881987915670883871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_36
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d72c8d22717b43e0800000000000000
+      internalID: -2068434868642240556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_37
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091504182c7da43c0800000000000000
+      internalID: -4374446857644912240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_38
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 2734
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e117e921e34ebf020800000000000000
+      internalID: 2376744183619547422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f323ab2b404af51e0800000000000000
+      internalID: -2206864952302882241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d899490a5d6aad290800000000000000
+      internalID: -7864790362796811891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_41
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9253ad470664dd0800000000000000
+      internalID: -2502206487964341811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_42
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018fb9f8402425c30800000000000000
+      internalID: 4346609177722615824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_43
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd93338056a5a5310800000000000000
+      internalID: 1394526424600361437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_44
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33f3f509175db300800000000000000
+      internalID: 269467317697770302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_45
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13751bb5dad227c0800000000000000
+      internalID: -4097472099452095715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_46
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b653bc0390484c0800000000000000
+      internalID: -4286290840177513681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_47
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf2bc5c54c097b0800000000000000
+      internalID: -5219456067151135655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_48
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ebdc574181bb80800000000000000
+      internalID: -8380775288059206589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_49
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a47317e5d71fe50800000000000000
+      internalID: 6841387153532340738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_50
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64325b1a6f3bb40800000000000000
+      internalID: 5454974748064958183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_51
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 2280
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97e5d30f77dd3c90800000000000000
+      internalID: -7188352489688275043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd50a87fc509cd20800000000000000
+      internalID: 3299174590665743822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8fa1d5f7354a180800000000000000
+      internalID: -9105060740148299572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_54
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d8b14c06ca0d40800000000000000
+      internalID: 5551467246632097008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_55
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df6afc7c4d23960800000000000000
+      internalID: 7580355077465374076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_56
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf49b26ff215d330800000000000000
+      internalID: 3734912354055966639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_57
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0eee1507fd74950800000000000000
+      internalID: 6433356266225983694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_58
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880320438a3e33320800000000000000
+      internalID: 2536621326706290824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_59
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f406cd1ca1726680800000000000000
+      internalID: -8763316940861733648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_60
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335b4e45143bba50800000000000000
+      internalID: 6537876550170923828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_61
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3d290c65da35c0800000000000000
+      internalID: -4234837839601386716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_62
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55045832e5f5cb20800000000000000
+      internalID: 3154197465999344989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_63
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e36f7d407616820800000000000000
+      internalID: 2909720104758820435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_64
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 1826
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6140ef9d2eac0530800000000000000
+      internalID: 3822621694709743978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59244e89277bba080800000000000000
+      internalID: -9175038113018002795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1372
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b100de0f069540800000000000000
+      internalID: 5014211791417357290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_67
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1372
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21a81d1f11c5ee0800000000000000
+      internalID: -1271121264525045028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_68
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1372
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0907d1ce726711cb0800000000000000
+      internalID: -4895001406137864048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_69
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1372
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2976bbf42d1d40800000000000000
+      internalID: 5556638178761845857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_70
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1372
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02f0c82aea81020800000000000000
+      internalID: 2312790421812486376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PencilNew_71
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1372
+        width: 294
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1fb807da4edb340800000000000000
+      internalID: 4881309004708180415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

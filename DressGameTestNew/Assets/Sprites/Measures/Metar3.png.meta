@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: e63fc154707245843b34497a1c7cd4d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -793113735411477911
+    second: Metar3_0
+  - first:
+      213: 4449909081758340353
+    second: Metar3_1
+  - first:
+      213: -4055219370936016177
+    second: Metar3_2
+  - first:
+      213: 185774836375541343
+    second: Metar3_3
+  - first:
+      213: 8835147929599961301
+    second: Metar3_4
+  - first:
+      213: 3334236825511230514
+    second: Metar3_5
+  - first:
+      213: -1385751435685689024
+    second: Metar3_6
+  - first:
+      213: 9211404016793369797
+    second: Metar3_7
+  - first:
+      213: -735167940565930171
+    second: Metar3_8
+  - first:
+      213: 1897629346057690870
+    second: Metar3_9
+  - first:
+      213: 7452171868525274830
+    second: Metar3_10
+  - first:
+      213: -3227558874195631946
+    second: Metar3_11
+  - first:
+      213: 8340146229042481003
+    second: Metar3_12
+  - first:
+      213: 7622935870137340456
+    second: Metar3_13
+  - first:
+      213: -5110449133103900289
+    second: Metar3_14
+  - first:
+      213: 3104541395733747352
+    second: Metar3_15
+  - first:
+      213: -3275305245766136139
+    second: Metar3_16
+  - first:
+      213: -1171838445142807676
+    second: Metar3_17
+  - first:
+      213: 6863408962451329502
+    second: Metar3_18
+  - first:
+      213: 1598282324232635163
+    second: Metar3_19
+  - first:
+      213: -8812823843011005425
+    second: Metar3_20
+  - first:
+      213: -6038602162798809673
+    second: Metar3_21
+  - first:
+      213: 8813311067843961667
+    second: Metar3_22
+  - first:
+      213: -6776098419104643937
+    second: Metar3_23
+  - first:
+      213: -1459817542263200376
+    second: Metar3_24
+  - first:
+      213: -3122340036183659521
+    second: Metar3_25
+  - first:
+      213: -6856233182303446809
+    second: Metar3_26
+  - first:
+      213: -2496405140454730370
+    second: Metar3_27
+  - first:
+      213: -5377676851871881841
+    second: Metar3_28
+  - first:
+      213: -1096835100220974127
+    second: Metar3_29
+  - first:
+      213: 6298781162076041047
+    second: Metar3_30
+  - first:
+      213: 2317920873232185717
+    second: Metar3_31
+  - first:
+      213: -2041761212211092100
+    second: Metar3_32
+  - first:
+      213: -5798479991095116552
+    second: Metar3_33
+  - first:
+      213: -804202711666139493
+    second: Metar3_34
+  - first:
+      213: 6280948597101902901
+    second: Metar3_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Metar3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d05e724b4ef4f0800000000000000
+      internalID: -793113735411477911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 945
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1059df4bbb041cd30800000000000000
+      internalID: 4449909081758340353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 945
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc26315b777f8b7c0800000000000000
+      internalID: -4055219370936016177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56de5aba31049200800000000000000
+      internalID: 185774836375541343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 866
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d865d93b30cc9a70800000000000000
+      internalID: 8835147929599961301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_5
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 866
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7f9d2ab6954e20800000000000000
+      internalID: 3334236825511230514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04987f84962d4cce0800000000000000
+      internalID: -1385751435685689024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 787
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc339f262b75df70800000000000000
+      internalID: 9211404016793369797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_8
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 787
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fef4437a82cc5f0800000000000000
+      internalID: -735167940565930171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe102f06dbb55a10800000000000000
+      internalID: 1897629346057690870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 708
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ab94c4de6b6760800000000000000
+      internalID: 7452171868525274830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_11
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 708
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e8e3ed486533d0800000000000000
+      internalID: -3227558874195631946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6704ecaec62eb370800000000000000
+      internalID: 8340146229042481003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 629
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8229e1d29cb1ac960800000000000000
+      internalID: 7622935870137340456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_14
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 629
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7993aaf6990419b0800000000000000
+      internalID: -5110449133103900289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896943b63fb851b20800000000000000
+      internalID: 3104541395733747352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 550
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec2277b37cb82d0800000000000000
+      internalID: -3275305245766136139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_17
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 550
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bed1f842bccbfe0800000000000000
+      internalID: -1171838445142807676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d423661abf3f50800000000000000
+      internalID: 6863408962451329502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 471
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130caa4e4d3e2610800000000000000
+      internalID: 1598282324232635163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_20
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 471
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f047c39386f82b580800000000000000
+      internalID: -8812823843011005425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda87aa353923ca0800000000000000
+      internalID: -6038602162798809673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 392
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343abd5a8bb2f4a70800000000000000
+      internalID: 8813311067843961667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_23
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 392
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948e2e936676f1a0800000000000000
+      internalID: -6776098419104643937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885a4840eafadbbe0800000000000000
+      internalID: -1459817542263200376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 313
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbea4ba7483ba4d0800000000000000
+      internalID: -3122340036183659521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_26
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 313
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89e8f1f34c9d0a0800000000000000
+      internalID: -6856233182303446809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e759cb350ccfa5dd0800000000000000
+      internalID: -2496405140454730370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_28
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 234
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e5573567ae55b0800000000000000
+      internalID: -5377676851871881841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_29
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 234
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db1622a94247c0f0800000000000000
+      internalID: -1096835100220974127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe6733814c96750800000000000000
+      internalID: 6298781162076041047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_31
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 155
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b77ad0c8ea2020800000000000000
+      internalID: 2317920873232185717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_32
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 155
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75acf5cef43aa3e0800000000000000
+      internalID: -2041761212211092100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb0957b29a78fa0800000000000000
+      internalID: -5798479991095116552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_34
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 76
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9edbb305e5e6d4f0800000000000000
+      internalID: -804202711666139493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metar3_35
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 76
+        width: 627
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3fbe98796a2750800000000000000
+      internalID: 6280948597101902901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

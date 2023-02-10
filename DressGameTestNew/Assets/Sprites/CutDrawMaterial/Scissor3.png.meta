@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 5e68cd07612031d43b3e2c9e24f3cc21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6173611546212387424
+    second: Scissor3_0
+  - first:
+      213: 3384739429090160314
+    second: Scissor3_1
+  - first:
+      213: -5219263357329011355
+    second: Scissor3_2
+  - first:
+      213: -8630731015931247667
+    second: Scissor3_3
+  - first:
+      213: 403037344987024306
+    second: Scissor3_4
+  - first:
+      213: -5433133885927913384
+    second: Scissor3_5
+  - first:
+      213: 3188052846988254386
+    second: Scissor3_6
+  - first:
+      213: -9071452253979186175
+    second: Scissor3_7
+  - first:
+      213: 8310186250825877488
+    second: Scissor3_8
+  - first:
+      213: -1537424363886788622
+    second: Scissor3_9
+  - first:
+      213: 3343586439886108360
+    second: Scissor3_10
+  - first:
+      213: -2315883772417910243
+    second: Scissor3_11
+  - first:
+      213: -1710378488711583022
+    second: Scissor3_12
+  - first:
+      213: 5423753783177279751
+    second: Scissor3_13
+  - first:
+      213: -406589912157353694
+    second: Scissor3_14
+  - first:
+      213: -5917861019200523555
+    second: Scissor3_15
+  - first:
+      213: 8365665866747693986
+    second: Scissor3_16
+  - first:
+      213: -4631044331308158103
+    second: Scissor3_17
+  - first:
+      213: 1558566073265109405
+    second: Scissor3_18
+  - first:
+      213: 1790694781922264629
+    second: Scissor3_19
+  - first:
+      213: 6331365164235916311
+    second: Scissor3_20
+  - first:
+      213: 709264195068973578
+    second: Scissor3_21
+  - first:
+      213: -8952792610196713707
+    second: Scissor3_22
+  - first:
+      213: -6820854529277688603
+    second: Scissor3_23
+  - first:
+      213: 4109689199263231382
+    second: Scissor3_24
+  - first:
+      213: -1188497128231609145
+    second: Scissor3_25
+  - first:
+      213: -6854538688295276845
+    second: Scissor3_26
+  - first:
+      213: 1933507501497348245
+    second: Scissor3_27
+  - first:
+      213: 2153714178296685347
+    second: Scissor3_28
+  - first:
+      213: -1196557938930722913
+    second: Scissor3_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scissor3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b2c6020de25aa0800000000000000
+      internalID: -6173611546212387424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6d20e39209fe20800000000000000
+      internalID: 3384739429090160314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d013d11a37197b0800000000000000
+      internalID: -5219263357329011355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c87b5edb793880800000000000000
+      internalID: -8630731015931247667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb0b237450e79500800000000000000
+      internalID: 403037344987024306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_5
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85801284481a994b0800000000000000
+      internalID: -5433133885927913384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_6
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc58ed5c2d3e3c20800000000000000
+      internalID: 3188052846988254386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_7
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3419
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c67a4dc3abb1280800000000000000
+      internalID: -9071452253979186175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7cfc9ad56b35370800000000000000
+      internalID: 8310186250825877488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff3f79cfa8f9aae0800000000000000
+      internalID: -1537424363886788622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67939e62ec66e20800000000000000
+      internalID: 3343586439886108360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a50f3aaf35cdfd0800000000000000
+      internalID: -2315883772417910243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_12
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da60e493d38348e0800000000000000
+      internalID: -1710378488711583022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_13
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709767b545b054b40800000000000000
+      internalID: 5423753783177279751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_14
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2298a9c01a08b5af0800000000000000
+      internalID: -406589912157353694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_15
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2742
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2fb68d1c88fdda0800000000000000
+      internalID: -5917861019200523555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab4b1958c0d81470800000000000000
+      internalID: 8365665866747693986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637a4d87b93bbfb0800000000000000
+      internalID: -4631044331308158103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9931f3069321a510800000000000000
+      internalID: 1558566073265109405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5364f99aa63d9d810800000000000000
+      internalID: 1790694781922264629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714809562178dd750800000000000000
+      internalID: 6331365164235916311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_21
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a025dfe0700d7d900800000000000000
+      internalID: 709264195068973578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_22
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f8b711e8a41c380800000000000000
+      internalID: -8952792610196713707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_23
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2065
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40acda1f47751a0800000000000000
+      internalID: -6820854529277688603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d285b7d8c880930800000000000000
+      internalID: 4109689199263231382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1388
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccde27a82c918fe0800000000000000
+      internalID: -1188497128231609145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_26
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1388
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deecf04169cfd0a0800000000000000
+      internalID: -6854538688295276845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_27
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1388
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5907d4514d235da10800000000000000
+      internalID: 1933507501497348245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_28
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1388
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323a81162a783ed10800000000000000
+      internalID: 2153714178296685347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scissor3_29
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1388
+        width: 510
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f975cd8e4e8f46fe0800000000000000
+      internalID: -1196557938930722913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 7d607058dfdffb948bddd9786a0ce01f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3915797348088189633
+    second: Slova_0
+  - first:
+      213: -4855611737478129789
+    second: Slova_1
+  - first:
+      213: 6731747007627024803
+    second: Slova_2
+  - first:
+      213: -917975969614679737
+    second: Slova_3
+  - first:
+      213: -7241909778124167187
+    second: Slova_4
+  - first:
+      213: -7915830857769124685
+    second: Slova_5
+  - first:
+      213: 5898487963231855953
+    second: Slova_6
+  - first:
+      213: -232739427186379345
+    second: Slova_7
+  - first:
+      213: -6718432977853386202
+    second: Slova_8
+  - first:
+      213: -3133007264471923753
+    second: Slova_9
+  - first:
+      213: -8978553319734723862
+    second: Slova_10
+  - first:
+      213: -8959821002513690072
+    second: Slova_11
+  - first:
+      213: 7346314445873809915
+    second: Slova_12
+  - first:
+      213: 229050120616428212
+    second: Slova_13
+  - first:
+      213: -7102465198838682856
+    second: Slova_14
+  - first:
+      213: 5067329584549762511
+    second: Slova_15
+  - first:
+      213: 8185921424259905157
+    second: Slova_16
+  - first:
+      213: -4718888287986757271
+    second: Slova_17
+  - first:
+      213: -3054514584388993508
+    second: Slova_18
+  - first:
+      213: -7791454027446441905
+    second: Slova_19
+  - first:
+      213: -7386637156019659194
+    second: Slova_20
+  - first:
+      213: 7691435071499175461
+    second: Slova_21
+  - first:
+      213: 5417192243263657631
+    second: Slova_22
+  - first:
+      213: 2632651207350582822
+    second: Slova_23
+  - first:
+      213: -4914717384163635117
+    second: Slova_24
+  - first:
+      213: -9034933859254464948
+    second: Slova_25
+  - first:
+      213: 7435082942091866053
+    second: Slova_26
+  - first:
+      213: -237737232713281119
+    second: Slova_27
+  - first:
+      213: 4039343151116067363
+    second: Slova_28
+  - first:
+      213: 5003652525468683405
+    second: Slova_29
+  - first:
+      213: 7245831967137536161
+    second: Slova_30
+  - first:
+      213: -4177267199332126623
+    second: Slova_31
+  - first:
+      213: -2063946751949011354
+    second: Slova_32
+  - first:
+      213: 1689944945455232666
+    second: Slova_33
+  - first:
+      213: 8745339032808759335
+    second: Slova_34
+  - first:
+      213: -4146690391407601377
+    second: Slova_35
+  - first:
+      213: 7597778273231547304
+    second: Slova_36
+  - first:
+      213: 6145545659038910195
+    second: Slova_37
+  - first:
+      213: 965661286253814022
+    second: Slova_38
+  - first:
+      213: -6724355713631190738
+    second: Slova_39
+  - first:
+      213: -1612682601930169750
+    second: Slova_40
+  - first:
+      213: -6854462767165315189
+    second: Slova_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slova_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29639f0f4b75630800000000000000
+      internalID: 3915797348088189633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 901
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871664d9d66d9cb0800000000000000
+      internalID: -4855611737478129789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 901
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95863bc38fb6d50800000000000000
+      internalID: 6731747007627024803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 901
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b5c228b1b243f0800000000000000
+      internalID: -917975969614679737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 901
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72b731d619f7b90800000000000000
+      internalID: -7241909778124167187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 901
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc789456c1552290800000000000000
+      internalID: -7915830857769124685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 901
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1552a501d83abd150800000000000000
+      internalID: 5898487963231855953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f35d59b425ccf0800000000000000
+      internalID: -232739427186379345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 778
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62277cb6dc453c2a0800000000000000
+      internalID: -6718432977853386202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 778
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3ce6a0e725584d0800000000000000
+      internalID: -3133007264471923753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 778
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeabe4c7355c56380800000000000000
+      internalID: -8978553319734723862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 778
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8225616f44258a380800000000000000
+      internalID: -8959821002513690072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 778
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf901aae01a53f560800000000000000
+      internalID: 7346314445873809915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 778
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24a130fdfbd2300800000000000000
+      internalID: 229050120616428212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b65a93889fe6d90800000000000000
+      internalID: -7102465198838682856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 655
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc59ae6c865c25640800000000000000
+      internalID: 5067329584549762511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 655
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586754c1a2c3a9170800000000000000
+      internalID: 8185921424259905157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 655
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9615cc39a14238eb0800000000000000
+      internalID: -4718888287986757271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 655
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e7e344b2f2c95d0800000000000000
+      internalID: -3054514584388993508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 655
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a44ac7d13fd390800000000000000
+      internalID: -7791454027446441905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 655
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1fb684a46d7990800000000000000
+      internalID: -7386637156019659194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52680b152777dba60800000000000000
+      internalID: 7691435071499175461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 532
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f965bbbc4abbd2b40800000000000000
+      internalID: 5417192243263657631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 532
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e72af135e098420800000000000000
+      internalID: 2632651207350582822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 532
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505d71149a6bcbb0800000000000000
+      internalID: -4914717384163635117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 532
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e0dfd26877d9280800000000000000
+      internalID: -9034933859254464948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 532
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa3f60b88be2760800000000000000
+      internalID: 7435082942091866053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 532
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19d361f3363bcf0800000000000000
+      internalID: -237737232713281119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3222e20d131ae0830800000000000000
+      internalID: 4039343151116067363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 409
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0c00267b807540800000000000000
+      internalID: 5003652525468683405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 409
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a81767b8cd5e8460800000000000000
+      internalID: 7245831967137536161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 409
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160fae34d9d5706c0800000000000000
+      internalID: -4177267199332126623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 409
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66602c64d536b53e0800000000000000
+      internalID: -2063946751949011354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 409
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9673d369f3e37710800000000000000
+      internalID: 1689944945455232666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 409
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720aceaf38fad5970800000000000000
+      internalID: 8745339032808759335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19df922f0ff376c0800000000000000
+      internalID: -4146690391407601377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 286
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aba522b51bb07960800000000000000
+      internalID: 7597778273231547304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 286
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f645f5673d594550800000000000000
+      internalID: 6145545659038910195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 286
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6016184d2d7b66d00800000000000000
+      internalID: 965661286253814022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 286
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2105a90b1a4ea2a0800000000000000
+      internalID: -6724355713631190738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 286
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ef78c7b99e99e0800000000000000
+      internalID: -1612682601930169750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slova_41
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 286
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8768f40e6e00e0a0800000000000000
+      internalID: -6854462767165315189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

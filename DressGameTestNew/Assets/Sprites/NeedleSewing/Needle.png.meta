@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 3a3b90cc5b7840045b8495d7a5a26b17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -993183575786483884
+    second: Needle_0
+  - first:
+      213: 6436633562445504556
+    second: Needle_1
+  - first:
+      213: 58658877804784617
+    second: Needle_2
+  - first:
+      213: 3216202184139589300
+    second: Needle_3
+  - first:
+      213: -3066376122992018819
+    second: Needle_4
+  - first:
+      213: 7585728985056259919
+    second: Needle_5
+  - first:
+      213: -2752999733321170155
+    second: Needle_6
+  - first:
+      213: 5454552156950824373
+    second: Needle_7
+  - first:
+      213: 8136808054692277046
+    second: Needle_8
+  - first:
+      213: 7397715009517224016
+    second: Needle_9
+  - first:
+      213: 8359679939776594293
+    second: Needle_10
+  - first:
+      213: -5213314866650873753
+    second: Needle_11
+  - first:
+      213: -2356439694244788880
+    second: Needle_12
+  - first:
+      213: -6979471452866767861
+    second: Needle_13
+  - first:
+      213: 8951752280635565772
+    second: Needle_14
+  - first:
+      213: 2165912432413986221
+    second: Needle_15
+  - first:
+      213: -4514454252613150580
+    second: Needle_16
+  - first:
+      213: -1383785345112549634
+    second: Needle_17
+  - first:
+      213: 6428932546251477720
+    second: Needle_18
+  - first:
+      213: -6852026361658891153
+    second: Needle_19
+  - first:
+      213: -5052700260235093626
+    second: Needle_20
+  - first:
+      213: 8397458748687108854
+    second: Needle_21
+  - first:
+      213: -6507079123976304789
+    second: Needle_22
+  - first:
+      213: 7611977742089206208
+    second: Needle_23
+  - first:
+      213: -1131087025266382625
+    second: Needle_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Needle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3176
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8e78ccc08732f0800000000000000
+      internalID: -993183575786483884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3176
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20ebee4f14835950800000000000000
+      internalID: 6436633562445504556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3176
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2a7640f560d000800000000000000
+      internalID: 58658877804784617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3176
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c977a8de32ac20800000000000000
+      internalID: 3216202184139589300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_4
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3176
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a3259992b0275d0800000000000000
+      internalID: -3066376122992018819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_5
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3176
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa9ac225ce54960800000000000000
+      internalID: 7585728985056259919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_6
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3176
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51385ac14516bc9d0800000000000000
+      internalID: -2752999733321170155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b505eb894672bb40800000000000000
+      internalID: 5454552156950824373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2256
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b6879a0dfbbe070800000000000000
+      internalID: 8136808054692277046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2256
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05089db3b96f9a660800000000000000
+      internalID: 7397715009517224016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_10
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2256
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c75e1d9c830470800000000000000
+      internalID: 8359679939776594293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_11
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2256
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760030700c596a7b0800000000000000
+      internalID: -5213314866650873753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_12
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2256
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c8e1459e3c4fd0800000000000000
+      internalID: -2356439694244788880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_13
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2256
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0495e341bfe32f90800000000000000
+      internalID: -6979471452866767861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1336
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6639455430b3c70800000000000000
+      internalID: 8951752280635565772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1336
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad43acb1edde0e10800000000000000
+      internalID: 2165912432413986221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1336
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88dd3e96cf6951c0800000000000000
+      internalID: -4514454252613150580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1336
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6dc2b6f8ecbcce0800000000000000
+      internalID: -1383785345112549634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1336
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d25440c618283950800000000000000
+      internalID: 6428932546251477720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_19
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1336
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a5b1e356b8e0a0800000000000000
+      internalID: -6852026361658891153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_20
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1336
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689d92832e331e9b0800000000000000
+      internalID: -5052700260235093626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6facd738d34c98470800000000000000
+      internalID: 8397458748687108854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 416
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b674802430632b5a0800000000000000
+      internalID: -6507079123976304789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 416
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9386b2d6d23a960800000000000000
+      internalID: 7611977742089206208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_24
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 416
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a1f0e7529d40f0800000000000000
+      internalID: -1131087025266382625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

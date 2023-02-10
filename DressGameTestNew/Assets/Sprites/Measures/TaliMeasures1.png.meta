@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 5b41735f51cbd6a4c8ae85128179e84d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1607958300281107270
+    second: TaliMeasures1_0
+  - first:
+      213: 6114845859507684105
+    second: TaliMeasures1_1
+  - first:
+      213: -956998590961136958
+    second: TaliMeasures1_2
+  - first:
+      213: 4851780847151632770
+    second: TaliMeasures1_3
+  - first:
+      213: 2277347933964058659
+    second: TaliMeasures1_4
+  - first:
+      213: -4336821615423454974
+    second: TaliMeasures1_5
+  - first:
+      213: -1859642134730258548
+    second: TaliMeasures1_6
+  - first:
+      213: 6313982405176812891
+    second: TaliMeasures1_7
+  - first:
+      213: -4793319329130086494
+    second: TaliMeasures1_8
+  - first:
+      213: 7965519896922515958
+    second: TaliMeasures1_9
+  - first:
+      213: 3444429137949294940
+    second: TaliMeasures1_10
+  - first:
+      213: 7917505270135352393
+    second: TaliMeasures1_11
+  - first:
+      213: -266001522006794921
+    second: TaliMeasures1_12
+  - first:
+      213: -1448428762414843043
+    second: TaliMeasures1_13
+  - first:
+      213: 406508511151091660
+    second: TaliMeasures1_14
+  - first:
+      213: 1465805051431984439
+    second: TaliMeasures1_15
+  - first:
+      213: 4511215953963602868
+    second: TaliMeasures1_16
+  - first:
+      213: -4086096379765725747
+    second: TaliMeasures1_17
+  - first:
+      213: 3421160520235232647
+    second: TaliMeasures1_18
+  - first:
+      213: 822182650955163357
+    second: TaliMeasures1_19
+  - first:
+      213: -8373304637024281723
+    second: TaliMeasures1_20
+  - first:
+      213: 4310676887343319803
+    second: TaliMeasures1_21
+  - first:
+      213: 4834313373569022641
+    second: TaliMeasures1_22
+  - first:
+      213: 6390198953488646411
+    second: TaliMeasures1_23
+  - first:
+      213: -8689332610296132704
+    second: TaliMeasures1_24
+  - first:
+      213: -3523111904324897699
+    second: TaliMeasures1_25
+  - first:
+      213: 7279928924509989195
+    second: TaliMeasures1_26
+  - first:
+      213: -8713275549829723135
+    second: TaliMeasures1_27
+  - first:
+      213: 1786751604460716626
+    second: TaliMeasures1_28
+  - first:
+      213: 2415392392865763267
+    second: TaliMeasures1_29
+  - first:
+      213: 419926263210879865
+    second: TaliMeasures1_30
+  - first:
+      213: 3543872363320865201
+    second: TaliMeasures1_31
+  - first:
+      213: -2090159866086314661
+    second: TaliMeasures1_32
+  - first:
+      213: -7650749736342826842
+    second: TaliMeasures1_33
+  - first:
+      213: -7490360199126745856
+    second: TaliMeasures1_34
+  - first:
+      213: -1770564350068075180
+    second: TaliMeasures1_35
+  - first:
+      213: -2460419381500262935
+    second: TaliMeasures1_36
+  - first:
+      213: 92819203880710107
+    second: TaliMeasures1_37
+  - first:
+      213: -8443047252758095968
+    second: TaliMeasures1_38
+  - first:
+      213: 7376528954574015981
+    second: TaliMeasures1_39
+  - first:
+      213: 8669106898692422205
+    second: TaliMeasures1_40
+  - first:
+      213: 8427280738118564365
+    second: TaliMeasures1_41
+  - first:
+      213: 8482281199460392808
+    second: TaliMeasures1_42
+  - first:
+      213: -1062577406136041525
+    second: TaliMeasures1_43
+  - first:
+      213: -5654227359262113770
+    second: TaliMeasures1_44
+  - first:
+      213: -5682171489603363840
+    second: TaliMeasures1_45
+  - first:
+      213: 7100481006916518578
+    second: TaliMeasures1_46
+  - first:
+      213: 367166623353107376
+    second: TaliMeasures1_47
+  - first:
+      213: 7617817985306733829
+    second: TaliMeasures1_48
+  - first:
+      213: -3241235463697496385
+    second: TaliMeasures1_49
+  - first:
+      213: 9217770131951079060
+    second: TaliMeasures1_50
+  - first:
+      213: -5907801967628242580
+    second: TaliMeasures1_51
+  - first:
+      213: 4108513196892451968
+    second: TaliMeasures1_52
+  - first:
+      213: 6746225996301980013
+    second: TaliMeasures1_53
+  - first:
+      213: -4428794914074481517
+    second: TaliMeasures1_54
+  - first:
+      213: -8683764639248548634
+    second: TaliMeasures1_55
+  - first:
+      213: 1138811206043820580
+    second: TaliMeasures1_56
+  - first:
+      213: -5154691750346362627
+    second: TaliMeasures1_57
+  - first:
+      213: 4120263894452283861
+    second: TaliMeasures1_58
+  - first:
+      213: -2035076824046590405
+    second: TaliMeasures1_59
+  - first:
+      213: -90852625943576544
+    second: TaliMeasures1_60
+  - first:
+      213: 2555220837697364360
+    second: TaliMeasures1_61
+  - first:
+      213: 4397265523978684946
+    second: TaliMeasures1_62
+  - first:
+      213: 3575898084946549298
+    second: TaliMeasures1_63
+  - first:
+      213: -7891578281301551501
+    second: TaliMeasures1_64
+  - first:
+      213: -5045145757846279929
+    second: TaliMeasures1_65
+  - first:
+      213: -8092463773965988181
+    second: TaliMeasures1_66
+  - first:
+      213: 4085433057189018943
+    second: TaliMeasures1_67
+  - first:
+      213: 5915339757065486598
+    second: TaliMeasures1_68
+  - first:
+      213: -7333881280886176875
+    second: TaliMeasures1_69
+  - first:
+      213: -1177788451069135309
+    second: TaliMeasures1_70
+  - first:
+      213: -9111482021987070118
+    second: TaliMeasures1_71
+  - first:
+      213: -7632749224015764390
+    second: TaliMeasures1_72
+  - first:
+      213: 8811750879705926693
+    second: TaliMeasures1_73
+  - first:
+      213: -6767087500517065434
+    second: TaliMeasures1_74
+  - first:
+      213: -1463672355582726916
+    second: TaliMeasures1_75
+  - first:
+      213: 5293665754146584263
+    second: TaliMeasures1_76
+  - first:
+      213: 3923336091067386034
+    second: TaliMeasures1_77
+  - first:
+      213: 487189530608616151
+    second: TaliMeasures1_78
+  - first:
+      213: -7257323686346433487
+    second: TaliMeasures1_79
+  - first:
+      213: -8604672117380692112
+    second: TaliMeasures1_80
+  - first:
+      213: 4897251122978396493
+    second: TaliMeasures1_81
+  - first:
+      213: -7189701178420737398
+    second: TaliMeasures1_82
+  - first:
+      213: -5953422741149813756
+    second: TaliMeasures1_83
+  - first:
+      213: 4793320852867348664
+    second: TaliMeasures1_84
+  - first:
+      213: -4691928599569622209
+    second: TaliMeasures1_85
+  - first:
+      213: 2080731594914474063
+    second: TaliMeasures1_86
+  - first:
+      213: -941446988263465444
+    second: TaliMeasures1_87
+  - first:
+      213: 7309189666643272910
+    second: TaliMeasures1_88
+  - first:
+      213: 47519532535294570
+    second: TaliMeasures1_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TaliMeasures1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8a1af1726fa9e0800000000000000
+      internalID: -1607958300281107270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903493059eb4cd450800000000000000
+      internalID: 6114845859507684105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca46371ade08b2f0800000000000000
+      internalID: -956998590961136958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281548289fcf45340800000000000000
+      internalID: 4851780847151632770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c5e941e3ca9f10800000000000000
+      internalID: 2277347933964058659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_5
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201037ed7b380d3c0800000000000000
+      internalID: -4336821615423454974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cd0ec4593136e0800000000000000
+      internalID: -1859642134730258548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5561aa6b85cf9750800000000000000
+      internalID: 6313982405176812891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afff2c5775ba7db0800000000000000
+      internalID: -4793319329130086494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_9
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3646
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f96f53a4263b8e60800000000000000
+      internalID: 7965519896922515958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5109753d021dcf20800000000000000
+      internalID: 3444429137949294940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c63bd2811a0ed60800000000000000
+      internalID: 7917505270135352393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d521b6609fe4cf0800000000000000
+      internalID: -266001522006794921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bfdc5f6b526ebe0800000000000000
+      internalID: -1448428762414843043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf655d465534a500800000000000000
+      internalID: 406508511151091660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d93989de5975410800000000000000
+      internalID: 1465805051431984439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_16
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b35319320f0b9e30800000000000000
+      internalID: 4511215953963602868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_17
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ed0eddf44b47c0800000000000000
+      internalID: -4086096379765725747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d2638fd576a7f20800000000000000
+      internalID: 3421160520235232647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_19
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3196
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6eba2d3caf86b00800000000000000
+      internalID: 822182650955163357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b590adbcb0ccb80800000000000000
+      internalID: -8373304637024281723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfac5934ac992db30800000000000000
+      internalID: 4310676887343319803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba7084666ee61340800000000000000
+      internalID: 4834313373569022641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0183ca671c8ea850800000000000000
+      internalID: 6390198953488646411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc41c670a496780800000000000000
+      internalID: -8689332610296132704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_25
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b3c6a3646b1fc0800000000000000
+      internalID: -3523111904324897699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49628f39c0870560800000000000000
+      internalID: 7279928924509989195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_27
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8d466d0a341780800000000000000
+      internalID: -8713275549829723135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2528dbd1e11dbc810800000000000000
+      internalID: 1786751604460716626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_29
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2746
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc1f18592358120800000000000000
+      internalID: 2415392392865763267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97baa8626b0e3d500800000000000000
+      internalID: 419926263210879865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b17011632d5e2130800000000000000
+      internalID: 3543872363320865201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5da52a0da24ef2e0800000000000000
+      internalID: -2090159866086314661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a05fd376a313d590800000000000000
+      internalID: -7650749736342826842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7353a515ec0890800000000000000
+      internalID: -7490360199126745856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_35
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d83eba11bd67e0800000000000000
+      internalID: -1770564350068075180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_36
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5c03fbb95daddd0800000000000000
+      internalID: -2460419381500262935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_37
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe4abf292c94100800000000000000
+      internalID: 92819203880710107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7148db14544da80800000000000000
+      internalID: -8443047252758095968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_39
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2296
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded84cc6002be5660800000000000000
+      internalID: 7376528954574015981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a33702bcade4870800000000000000
+      internalID: 8669106898692422205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7c028e27b3f470800000000000000
+      internalID: 8427280738118564365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f9fc25fcd17b570800000000000000
+      internalID: 8482281199460392808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb7e89a77f041f0800000000000000
+      internalID: -1062577406136041525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61003e39c262881b0800000000000000
+      internalID: -5654227359262113770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_45
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd659b22fd421b0800000000000000
+      internalID: -5682171489603363840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_46
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2caa71bd9f98260800000000000000
+      internalID: 7100481006916518578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_47
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3775e3910781500800000000000000
+      internalID: 367166623353107376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2ac1c81de7b960800000000000000
+      internalID: 7617817985306733829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_49
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1846
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb689e0c481d403d0800000000000000
+      internalID: -3241235463697496385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e4620e8191cef70800000000000000
+      internalID: 9217770131951079060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c613a2c4965430ea0800000000000000
+      internalID: -5907801967628242580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_52
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08477c71cfe540930800000000000000
+      internalID: 4108513196892451968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_53
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d514fcc86f9d50800000000000000
+      internalID: 6746225996301980013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_54
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ca88b8d72c982c0800000000000000
+      internalID: -4428794914074481517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_55
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfd74b1121d7780800000000000000
+      internalID: -8683764639248548634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_56
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422e97a12ceddcf00800000000000000
+      internalID: 1138811206043820580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_57
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f7fde92bd678b0800000000000000
+      internalID: -5154691750346362627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_58
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d922b19e2e1e2930800000000000000
+      internalID: 4120263894452283861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_59
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1396
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a21c2964f1c3e0800000000000000
+      internalID: -2035076824046590405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c8bf940a3dbef0800000000000000
+      internalID: -90852625943576544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_61
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881a0a150d7f57320800000000000000
+      internalID: 2555220837697364360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_62
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a42d342b9360d30800000000000000
+      internalID: 4397265523978684946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_63
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a1d32cc5420a130800000000000000
+      internalID: 3575898084946549298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_64
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37655d15d5b7b7290800000000000000
+      internalID: -7891578281301551501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_65
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709e08fd9aa0cf9b0800000000000000
+      internalID: -5045145757846279929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_66
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae4a03c21bc1bf80800000000000000
+      internalID: -8092463773965988181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_67
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db36f48bf52b830800000000000000
+      internalID: 4085433057189018943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_68
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60142a11b22871250800000000000000
+      internalID: 5915339757065486598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_69
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 946
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59384e3e4d1d83a90800000000000000
+      internalID: -7333881280886176875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367779d4a7a7afe0800000000000000
+      internalID: -1177788451069135309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_71
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4a1e20638d8180800000000000000
+      internalID: -9111482021987070118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e6e25507031690800000000000000
+      internalID: -7632749224015764390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_73
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c8b1a0db0a94a70800000000000000
+      internalID: 8811750879705926693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_74
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db1b795c97612a0800000000000000
+      internalID: -6767087500517065434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_75
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcaee95fbdffabe0800000000000000
+      internalID: -1463672355582726916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_76
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6be83d4f0e67940800000000000000
+      internalID: 5293665754146584263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_77
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b88a8a536d727630800000000000000
+      internalID: 3923336091067386034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_78
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2473efb48d2c600800000000000000
+      internalID: 487189530608616151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_79
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 496
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cda47ee8ec84b90800000000000000
+      internalID: -7257323686346433487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077c0da7c40169880800000000000000
+      internalID: -8604672117380692112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_81
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49920913f786f340800000000000000
+      internalID: 4897251122978396493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_82
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4603fedc093c90800000000000000
+      internalID: -7189701178420737398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_83
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404780c3f81316da0800000000000000
+      internalID: -5953422741149813756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_84
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b871a96beb458240800000000000000
+      internalID: 4793320852867348664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_85
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b182f2ccbe2eeb0800000000000000
+      internalID: -4691928599569622209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_86
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f482fc38c5e30ec10800000000000000
+      internalID: 2080731594914474063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_87
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed1b1c3fe4fe2f0800000000000000
+      internalID: -941446988263465444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_88
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46a3ca6457f6560800000000000000
+      internalID: 7309189666643272910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliMeasures1_89
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 46
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa8a853c2d8a000800000000000000
+      internalID: 47519532535294570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

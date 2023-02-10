@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: 9a919ed3b9f3a0448b5df906dc6966df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9101889714106056684
+    second: MimiRuka2_0
+  - first:
+      213: 4668817774320703552
+    second: MimiRuka2_1
+  - first:
+      213: -4367090194287465081
+    second: MimiRuka2_2
+  - first:
+      213: -8665505212418064175
+    second: MimiRuka2_3
+  - first:
+      213: -5953579070269033459
+    second: MimiRuka2_4
+  - first:
+      213: -8686257201774481198
+    second: MimiRuka2_5
+  - first:
+      213: 506416674263897984
+    second: MimiRuka2_6
+  - first:
+      213: 7209615241938890443
+    second: MimiRuka2_7
+  - first:
+      213: 5858493261202037634
+    second: MimiRuka2_8
+  - first:
+      213: 2260078278105336091
+    second: MimiRuka2_9
+  - first:
+      213: -4479939801753286107
+    second: MimiRuka2_10
+  - first:
+      213: -8606905939348700835
+    second: MimiRuka2_11
+  - first:
+      213: 3002176547456760899
+    second: MimiRuka2_12
+  - first:
+      213: -5675070210739941558
+    second: MimiRuka2_13
+  - first:
+      213: 4474005454141389180
+    second: MimiRuka2_14
+  - first:
+      213: 1450630430668751386
+    second: MimiRuka2_15
+  - first:
+      213: -8321076705904568774
+    second: MimiRuka2_16
+  - first:
+      213: -4334286894304765835
+    second: MimiRuka2_17
+  - first:
+      213: -5804470706596650244
+    second: MimiRuka2_18
+  - first:
+      213: 2379486809379145012
+    second: MimiRuka2_19
+  - first:
+      213: 2307567802781801778
+    second: MimiRuka2_20
+  - first:
+      213: 3602251389687949554
+    second: MimiRuka2_21
+  - first:
+      213: 2423998665143198962
+    second: MimiRuka2_22
+  - first:
+      213: 1877244757251336394
+    second: MimiRuka2_23
+  - first:
+      213: -4499379361053456095
+    second: MimiRuka2_24
+  - first:
+      213: -1713384757915167813
+    second: MimiRuka2_25
+  - first:
+      213: -7047233936395444187
+    second: MimiRuka2_26
+  - first:
+      213: -818091482590239135
+    second: MimiRuka2_27
+  - first:
+      213: -285829222709089865
+    second: MimiRuka2_28
+  - first:
+      213: -6511843929590516340
+    second: MimiRuka2_29
+  - first:
+      213: -8932999342266570476
+    second: MimiRuka2_30
+  - first:
+      213: 6365983952721173550
+    second: MimiRuka2_31
+  - first:
+      213: 983805672770762792
+    second: MimiRuka2_32
+  - first:
+      213: 5523660448032151016
+    second: MimiRuka2_33
+  - first:
+      213: -5098364377570908761
+    second: MimiRuka2_34
+  - first:
+      213: -5631605140931175944
+    second: MimiRuka2_35
+  - first:
+      213: -7680554384825656710
+    second: MimiRuka2_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MimiRuka2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb21a9878605e70800000000000000
+      internalID: 9101889714106056684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485a6f7709fac040800000000000000
+      internalID: 4668817774320703552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d676b2b9af463c0800000000000000
+      internalID: -4367090194287465081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0868ecbe0fdb780800000000000000
+      internalID: -8665505212418064175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04f9660163a06da0800000000000000
+      internalID: -5953579070269033459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0bd84c817347780800000000000000
+      internalID: -8686257201774481198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08795d93847270700800000000000000
+      internalID: 506416674263897984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce62074dd2bd0460800000000000000
+      internalID: 7209615241938890443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b97f8d49c8d4150800000000000000
+      internalID: 5858493261202037634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b198b0338396d5f10800000000000000
+      internalID: 2260078278105336091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_10
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a8c5d6c7e04d1c0800000000000000
+      internalID: -4479939801753286107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_11
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51cbe546a02e8880800000000000000
+      internalID: -8606905939348700835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_12
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 767
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3b28e9afd9a920800000000000000
+      internalID: 3002176547456760899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc17d06b91e31b0800000000000000
+      internalID: -5675070210739941558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f149914cd61e30800000000000000
+      internalID: 4474005454141389180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a120260e0bca12410800000000000000
+      internalID: 1450630430668751386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d7cba2d8958c80800000000000000
+      internalID: -8321076705904568774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_17
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578555e980589d3c0800000000000000
+      internalID: -4334286894304765835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_18
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2652055a0627fa0800000000000000
+      internalID: -5804470706596650244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_19
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43585c465a2a50120800000000000000
+      internalID: 2379486809379145012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_20
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d10fbc0b0260020800000000000000
+      internalID: 2307567802781801778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_21
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8e10aad84cdf130800000000000000
+      internalID: 3602251389687949554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_22
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4a1eb61f5c3a120800000000000000
+      internalID: 2423998665143198962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_23
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82e6029205d0a10800000000000000
+      internalID: 1877244757251336394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_24
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1294fa25f4efe81c0800000000000000
+      internalID: -4499379361053456095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_25
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 510
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3d5ecf3a5d838e0800000000000000
+      internalID: -1713384757915167813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520621c9212333e90800000000000000
+      internalID: -7047233936395444187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166af6a812e85a4f0800000000000000
+      internalID: -818091482590239135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9aff916d7880cf0800000000000000
+      internalID: -285829222709089865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8539ff727841a5a0800000000000000
+      internalID: -6511843929590516340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41927616d6c970480800000000000000
+      internalID: -8932999342266570476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_31
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c58c33da4885850800000000000000
+      internalID: 6365983952721173550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_32
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f3850c0e27ad00800000000000000
+      internalID: 983805672770762792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_33
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d4d079ebf7ac40800000000000000
+      internalID: 5523660448032151016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_34
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a561636c98fe39b0800000000000000
+      internalID: -5098364377570908761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_35
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9988b36f488d1b0800000000000000
+      internalID: -5631605140931175944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiRuka2_36
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 253
+        width: 155
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad566fa70396590800000000000000
+      internalID: -7680554384825656710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

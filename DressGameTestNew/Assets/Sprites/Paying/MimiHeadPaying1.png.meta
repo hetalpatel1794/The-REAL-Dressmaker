@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: c03cc177ca835ed47a7a7166acfbdbb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2053594839529721946
+    second: MimiHeadPaying1_0
+  - first:
+      213: 9102328766224857961
+    second: MimiHeadPaying1_1
+  - first:
+      213: -830789636178085538
+    second: MimiHeadPaying1_2
+  - first:
+      213: 2648736034067407661
+    second: MimiHeadPaying1_3
+  - first:
+      213: -548700863947226664
+    second: MimiHeadPaying1_4
+  - first:
+      213: -8791807303575536081
+    second: MimiHeadPaying1_5
+  - first:
+      213: 5709698207590591666
+    second: MimiHeadPaying1_6
+  - first:
+      213: -5017699987402704453
+    second: MimiHeadPaying1_7
+  - first:
+      213: 8179095085108695601
+    second: MimiHeadPaying1_8
+  - first:
+      213: 6440942665683746036
+    second: MimiHeadPaying1_9
+  - first:
+      213: -7998374472577433286
+    second: MimiHeadPaying1_10
+  - first:
+      213: -3086119108504264836
+    second: MimiHeadPaying1_11
+  - first:
+      213: 4475474403840895008
+    second: MimiHeadPaying1_12
+  - first:
+      213: -8360653678601833523
+    second: MimiHeadPaying1_13
+  - first:
+      213: 3936014828289148236
+    second: MimiHeadPaying1_14
+  - first:
+      213: 772244362529139876
+    second: MimiHeadPaying1_15
+  - first:
+      213: -1556073089595928735
+    second: MimiHeadPaying1_16
+  - first:
+      213: 276445039405963410
+    second: MimiHeadPaying1_17
+  - first:
+      213: -3758965959087520763
+    second: MimiHeadPaying1_18
+  - first:
+      213: 8036965596894734353
+    second: MimiHeadPaying1_19
+  - first:
+      213: -4098668148955024971
+    second: MimiHeadPaying1_20
+  - first:
+      213: 691694646470140375
+    second: MimiHeadPaying1_21
+  - first:
+      213: 285708560307436855
+    second: MimiHeadPaying1_22
+  - first:
+      213: -5375305773131284556
+    second: MimiHeadPaying1_23
+  - first:
+      213: 4162546950736335925
+    second: MimiHeadPaying1_24
+  - first:
+      213: 6339730153443933822
+    second: MimiHeadPaying1_25
+  - first:
+      213: -4051292532472918597
+    second: MimiHeadPaying1_26
+  - first:
+      213: -5511146362392350001
+    second: MimiHeadPaying1_27
+  - first:
+      213: 2420892902909239687
+    second: MimiHeadPaying1_28
+  - first:
+      213: -2516231165458391985
+    second: MimiHeadPaying1_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MimiHeadPaying1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af6145bf5a2083e0800000000000000
+      internalID: -2053594839529721946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bf6a369c7f15e70800000000000000
+      internalID: 9102328766224857961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5977844a317874f0800000000000000
+      internalID: -830789636178085538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236d5ea36332c420800000000000000
+      internalID: 2648736034067407661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_4
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c97ca87f9268f0800000000000000
+      internalID: -548700863947226664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_5
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef1b0a6d93df580800000000000000
+      internalID: -8791807303575536081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_6
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc2f1eb44cec3f40800000000000000
+      internalID: 5709698207590591666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_7
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 1606
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93165427c8d5ab0800000000000000
+      internalID: -5017699987402704453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1321c0c25abf18170800000000000000
+      internalID: 8179095085108695601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcbcb69a33d26950800000000000000
+      internalID: 6440942665683746036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_10
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31487d5bc0100190800000000000000
+      internalID: -7998374472577433286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_11
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fde039507eb25d0800000000000000
+      internalID: -3086119108504264836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_12
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282a4a12441c1e30800000000000000
+      internalID: 4475474403840895008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_13
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ffd4a6cdf8fb80800000000000000
+      internalID: -8360653678601833523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_14
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4548d6e1a88f9630800000000000000
+      internalID: 3936014828289148236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_15
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 1164
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace85cf72097ba00800000000000000
+      internalID: 772244362529139876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f071af4c7b76ae0800000000000000
+      internalID: -1556073089595928735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29816b57c4126d300800000000000000
+      internalID: 276445039405963410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_18
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5048dc5406875dbc0800000000000000
+      internalID: -3758965959087520763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_19
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11822f2f0a9098f60800000000000000
+      internalID: 8036965596894734353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_20
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f351c80b9e17c0800000000000000
+      internalID: -4098668148955024971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_21
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d164efbd94699900800000000000000
+      internalID: 691694646470140375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_22
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73db96efb6a07f300800000000000000
+      internalID: 285708560307436855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_23
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 722
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf376101e31765b0800000000000000
+      internalID: -5375305773131284556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345687c56654c930800000000000000
+      internalID: 4162546950736335925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 280
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ebbd73cfe3bf750800000000000000
+      internalID: 6339730153443933822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_26
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 280
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd42c808eae6c7c0800000000000000
+      internalID: -4051292532472918597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_27
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 280
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2fa6c25997483b0800000000000000
+      internalID: -5511146362392350001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_28
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 280
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7816b2dc44db89120800000000000000
+      internalID: 2420892902909239687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MimiHeadPaying1_29
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 280
+        width: 461
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd51a261d841dd0800000000000000
+      internalID: -2516231165458391985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

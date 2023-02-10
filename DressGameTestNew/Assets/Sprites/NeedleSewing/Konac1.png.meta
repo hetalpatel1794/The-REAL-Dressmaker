@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: fb79baa1f5b6b8b40a6bd5558383543a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4025797468234827740
+    second: Konac1_0
+  - first:
+      213: -857079976349853541
+    second: Konac1_1
+  - first:
+      213: 468012786100895858
+    second: Konac1_2
+  - first:
+      213: -1046765552773934712
+    second: Konac1_3
+  - first:
+      213: 5810939701238999577
+    second: Konac1_4
+  - first:
+      213: 1720989936815805418
+    second: Konac1_5
+  - first:
+      213: -2297468929327403028
+    second: Konac1_6
+  - first:
+      213: -4766357377275792742
+    second: Konac1_7
+  - first:
+      213: 2339209916573933459
+    second: Konac1_8
+  - first:
+      213: -6203707226670935695
+    second: Konac1_9
+  - first:
+      213: -5006708541249414201
+    second: Konac1_10
+  - first:
+      213: 2903903747181662827
+    second: Konac1_11
+  - first:
+      213: 1885542290332294677
+    second: Konac1_12
+  - first:
+      213: -6797465304691296002
+    second: Konac1_13
+  - first:
+      213: -3537095744137005674
+    second: Konac1_14
+  - first:
+      213: -7359275563171719027
+    second: Konac1_15
+  - first:
+      213: -8776420045035138628
+    second: Konac1_16
+  - first:
+      213: -3236178748155573768
+    second: Konac1_17
+  - first:
+      213: -3110884410658888304
+    second: Konac1_18
+  - first:
+      213: -4995516880325565985
+    second: Konac1_19
+  - first:
+      213: -4712990928440673028
+    second: Konac1_20
+  - first:
+      213: 6601123273641719172
+    second: Konac1_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Konac1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7cdcfb7718ed730800000000000000
+      internalID: 4025797468234827740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2760
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9811917d4a0b14f0800000000000000
+      internalID: -857079976349853541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2760
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27082e93627be7600800000000000000
+      internalID: 468012786100895858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2760
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815bc796442971f0800000000000000
+      internalID: -1046765552773934712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_4
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2760
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aa09fdeda94a050800000000000000
+      internalID: 5810939701238999577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_5
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2760
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae39de5ba3f22e710800000000000000
+      internalID: 1720989936815805418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef61f86e20cd10e0800000000000000
+      internalID: -2297468929327403028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1840
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92f9e6f73f7addb0800000000000000
+      internalID: -4766357377275792742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1840
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fd574860b867020800000000000000
+      internalID: 2339209916573933459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1840
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17151cf552108e9a0800000000000000
+      internalID: -6203707226670935695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1840
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb1ae0cb19948ab0800000000000000
+      internalID: -5006708541249414201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_11
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1840
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6250b0921dbc4820800000000000000
+      internalID: 2903903747181662827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e9b3819baca2a10800000000000000
+      internalID: 1885542290332294677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 920
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef835d4e15d8aa1a0800000000000000
+      internalID: -6797465304691296002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 920
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695fa2a3926b9eec0800000000000000
+      internalID: -3537095744137005674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_15
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 920
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88dfeccdd99ed990800000000000000
+      internalID: -7359275563171719027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 920
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb11010f774e33680800000000000000
+      internalID: -8776420045035138628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_17
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 920
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c4861398c613d0800000000000000
+      internalID: -3236178748155573768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09560655c1be3d4d0800000000000000
+      internalID: -3110884410658888304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd12abe5ddb5caab0800000000000000
+      internalID: -4995516880325565985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_20
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcb7a898b7189eb0800000000000000
+      internalID: -4712990928440673028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Konac1_21
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 540
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857af3a4a6eb9b50800000000000000
+      internalID: 6601123273641719172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

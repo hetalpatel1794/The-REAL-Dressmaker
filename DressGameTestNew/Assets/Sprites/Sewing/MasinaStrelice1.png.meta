@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: 9cce169daddeb854aade1b810abc2f94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3154105842143834476
+    second: MasinaStrelice1_0
+  - first:
+      213: -5070377924383531358
+    second: MasinaStrelice1_1
+  - first:
+      213: 747727166624484659
+    second: MasinaStrelice1_2
+  - first:
+      213: -4105531479631710542
+    second: MasinaStrelice1_3
+  - first:
+      213: -2688024475818595115
+    second: MasinaStrelice1_4
+  - first:
+      213: 9121620168431051665
+    second: MasinaStrelice1_5
+  - first:
+      213: -5041652021214332671
+    second: MasinaStrelice1_6
+  - first:
+      213: 537479889452917526
+    second: MasinaStrelice1_7
+  - first:
+      213: -4389664480569466662
+    second: MasinaStrelice1_8
+  - first:
+      213: 7200047276543983262
+    second: MasinaStrelice1_9
+  - first:
+      213: 1080265336737732617
+    second: MasinaStrelice1_10
+  - first:
+      213: 3426713207164237287
+    second: MasinaStrelice1_11
+  - first:
+      213: 8445172030816267735
+    second: MasinaStrelice1_12
+  - first:
+      213: -3347537609236858269
+    second: MasinaStrelice1_13
+  - first:
+      213: -1919249984985352316
+    second: MasinaStrelice1_14
+  - first:
+      213: -539934050493408127
+    second: MasinaStrelice1_15
+  - first:
+      213: -6629925068666513398
+    second: MasinaStrelice1_16
+  - first:
+      213: -1416157944382764170
+    second: MasinaStrelice1_17
+  - first:
+      213: -2916479060102704727
+    second: MasinaStrelice1_18
+  - first:
+      213: 2637019613800274143
+    second: MasinaStrelice1_19
+  - first:
+      213: -6417687173819663220
+    second: MasinaStrelice1_20
+  - first:
+      213: 4477420361806617432
+    second: MasinaStrelice1_21
+  - first:
+      213: 1758004217809707391
+    second: MasinaStrelice1_22
+  - first:
+      213: -7959731216412744612
+    second: MasinaStrelice1_23
+  - first:
+      213: -9137328019115395947
+    second: MasinaStrelice1_24
+  - first:
+      213: -8059532189771237812
+    second: MasinaStrelice1_25
+  - first:
+      213: -8437088384024215061
+    second: MasinaStrelice1_26
+  - first:
+      213: 8564129055106328184
+    second: MasinaStrelice1_27
+  - first:
+      213: -6950121186075638005
+    second: MasinaStrelice1_28
+  - first:
+      213: -2168114572153191029
+    second: MasinaStrelice1_29
+  - first:
+      213: 1059518241350496728
+    second: MasinaStrelice1_30
+  - first:
+      213: -6110205449370801671
+    second: MasinaStrelice1_31
+  - first:
+      213: -7369137398372502549
+    second: MasinaStrelice1_32
+  - first:
+      213: -5157696154539593217
+    second: MasinaStrelice1_33
+  - first:
+      213: -8547218261284818301
+    second: MasinaStrelice1_34
+  - first:
+      213: -268147371421189134
+    second: MasinaStrelice1_35
+  - first:
+      213: 5118620820388088539
+    second: MasinaStrelice1_36
+  - first:
+      213: -5478167222072657440
+    second: MasinaStrelice1_37
+  - first:
+      213: 2396454793893668694
+    second: MasinaStrelice1_38
+  - first:
+      213: -1995432333071334621
+    second: MasinaStrelice1_39
+  - first:
+      213: 5659923906776172500
+    second: MasinaStrelice1_40
+  - first:
+      213: 5701956704031028306
+    second: MasinaStrelice1_41
+  - first:
+      213: 951580893185548529
+    second: MasinaStrelice1_42
+  - first:
+      213: -2783768810518898746
+    second: MasinaStrelice1_43
+  - first:
+      213: 4392694659997119688
+    second: MasinaStrelice1_44
+  - first:
+      213: -8951512082495664685
+    second: MasinaStrelice1_45
+  - first:
+      213: -8731434428978976815
+    second: MasinaStrelice1_46
+  - first:
+      213: 4973880747998604763
+    second: MasinaStrelice1_47
+  - first:
+      213: -2004220851704201025
+    second: MasinaStrelice1_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MasinaStrelice1_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e480f927d5a34d0800000000000000
+      internalID: -3154105842143834476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_1
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae132c442662a9b0800000000000000
+      internalID: -5070377924383531358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_2
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dcf8b75e5706a00800000000000000
+      internalID: 747727166624484659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_3
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63e5e0fd83607c0800000000000000
+      internalID: -4105531479631710542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_4
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce6432bf732bad0800000000000000
+      internalID: -2688024475818595115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_5
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1932f5bf631869e70800000000000000
+      internalID: 9121620168431051665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_6
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b362d234780ab0800000000000000
+      internalID: -5041652021214332671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_7
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 3587
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613e1cc9c13857700800000000000000
+      internalID: 537479889452917526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e1809967c413c0800000000000000
+      internalID: -4389664480569466662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e3c6cb9d4bbe360800000000000000
+      internalID: 7200047276543983262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_10
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9089b6ba99fddfe00800000000000000
+      internalID: 1080265336737732617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_11
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f924a1812e8f20800000000000000
+      internalID: 3426713207164237287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_12
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2ed3b737433570800000000000000
+      internalID: 8445172030816267735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_13
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a3d29c7482b81d0800000000000000
+      internalID: -3347537609236858269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_14
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48736c9ae447d55e0800000000000000
+      internalID: -1919249984985352316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_15
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd33e77d4c188f0800000000000000
+      internalID: -539934050493408127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_16
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 3078
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08dca2e646cdf3a0800000000000000
+      internalID: -6629925068666513398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc73b4adbc85ce0800000000000000
+      internalID: -1416157944382764170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_18
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a196bb3fb59687d0800000000000000
+      internalID: -2916479060102704727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_19
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89d420e53989420800000000000000
+      internalID: 2637019613800274143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_20
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf5ec848bcfe6a0800000000000000
+      internalID: -6417687173819663220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_21
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b959fb81ef22e30800000000000000
+      internalID: 4477420361806617432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_22
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71af24958fa56810800000000000000
+      internalID: 1758004217809707391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_23
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54612291aa598190800000000000000
+      internalID: -7959731216412744612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_24
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59437680490b13180800000000000000
+      internalID: -9137328019115395947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_25
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2569
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46fbd4bc2ac62090800000000000000
+      internalID: -8059532189771237812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be189abf0d079ea80800000000000000
+      internalID: -8437088384024215061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876e63c3006e9d670800000000000000
+      internalID: 8564129055106328184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_28
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b078b06ca953c8f90800000000000000
+      internalID: -6950121186075638005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_29
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850676a84f49e1e0800000000000000
+      internalID: -2168114572153191029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_30
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d13eb81a3a24be00800000000000000
+      internalID: 1059518241350496728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_31
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e89d5480343ba0800000000000000
+      internalID: -6110205449370801671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_32
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f5fc54909bb990800000000000000
+      internalID: -7369137398372502549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_33
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f4419cae2c68b0800000000000000
+      internalID: -5157696154539593217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_34
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2060
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f266c64e226980800000000000000
+      internalID: -8547218261284818301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb3cfae269574cf0800000000000000
+      internalID: -268147371421189134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_36
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda862b348ef80740800000000000000
+      internalID: 5118620820388088539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_37
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9bb24afe3a9f3b0800000000000000
+      internalID: -5478167222072657440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_38
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657605620fae14120800000000000000
+      internalID: 2396454793893668694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_39
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32344f58ddcce44e0800000000000000
+      internalID: -1995432333071334621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_40
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7822f3ec61c8e40800000000000000
+      internalID: 5659923906776172500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_41
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543d6c796b612f40800000000000000
+      internalID: 5701956704031028306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_42
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0af59d7c1b43d00800000000000000
+      internalID: 951580893185548529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_43
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1551
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7953014011e59d0800000000000000
+      internalID: -2783768810518898746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1042
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c432ef058cf5fc30800000000000000
+      internalID: 4392694659997119688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_45
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1042
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8a382037d5c380800000000000000
+      internalID: -8951512082495664685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_46
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1042
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7a711e5a6b3d680800000000000000
+      internalID: -8731434428978976815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_47
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1042
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd6c930036c60540800000000000000
+      internalID: 4973880747998604763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MasinaStrelice1_48
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1042
+        width: 422
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb08db211c39f24e0800000000000000
+      internalID: -2004220851704201025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

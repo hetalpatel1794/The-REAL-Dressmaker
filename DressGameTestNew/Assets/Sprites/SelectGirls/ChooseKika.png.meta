@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: b15d9dab685a11041967a5af1d966886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -985274931444427899
+    second: ChooseKika_0
+  - first:
+      213: -97685324906495262
+    second: ChooseKika_1
+  - first:
+      213: 4572666480613459172
+    second: ChooseKika_2
+  - first:
+      213: -1730494176149752534
+    second: ChooseKika_3
+  - first:
+      213: -385929768744900851
+    second: ChooseKika_4
+  - first:
+      213: -2370454619368691957
+    second: ChooseKika_5
+  - first:
+      213: 9086632562895881164
+    second: ChooseKika_6
+  - first:
+      213: -7955594707617327140
+    second: ChooseKika_7
+  - first:
+      213: -4968713855018256010
+    second: ChooseKika_8
+  - first:
+      213: -3896889278051440468
+    second: ChooseKika_9
+  - first:
+      213: 6026493723056319525
+    second: ChooseKika_10
+  - first:
+      213: -4252186797696805633
+    second: ChooseKika_11
+  - first:
+      213: 6749874504829952823
+    second: ChooseKika_12
+  - first:
+      213: -1211452789522951751
+    second: ChooseKika_13
+  - first:
+      213: -8818764636851325662
+    second: ChooseKika_14
+  - first:
+      213: 1760777115638975717
+    second: ChooseKika_15
+  - first:
+      213: 4558319402570090553
+    second: ChooseKika_16
+  - first:
+      213: -3352778456070514635
+    second: ChooseKika_17
+  - first:
+      213: -4278973715222697022
+    second: ChooseKika_18
+  - first:
+      213: -9155148351605666502
+    second: ChooseKika_19
+  - first:
+      213: -9209145696106747833
+    second: ChooseKika_20
+  - first:
+      213: -7999997931998713307
+    second: ChooseKika_21
+  - first:
+      213: 5313839394669707909
+    second: ChooseKika_22
+  - first:
+      213: -9148231694793925475
+    second: ChooseKika_23
+  - first:
+      213: 2400253316941463808
+    second: ChooseKika_24
+  - first:
+      213: 1937838628401753552
+    second: ChooseKika_25
+  - first:
+      213: 1292425368588668348
+    second: ChooseKika_26
+  - first:
+      213: 3596377112300859665
+    second: ChooseKika_27
+  - first:
+      213: 5890720592827966822
+    second: ChooseKika_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChooseKika_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58358298ba99352f0800000000000000
+      internalID: -985274931444427899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20e2de6b3f4aef0800000000000000
+      internalID: -97685324906495262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40d45efef557f30800000000000000
+      internalID: 4572666480613459172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2536b027bc0cf7e0800000000000000
+      internalID: -1730494176149752534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0726b98be6e4aaf0800000000000000
+      internalID: -385929768744900851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07685835147a1fd0800000000000000
+      internalID: -2370454619368691957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc308e34c243a1e70800000000000000
+      internalID: 9086632562895881164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7dd7393cc089190800000000000000
+      internalID: -7955594707617327140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_8
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679331103159b0bb0800000000000000
+      internalID: -4968713855018256010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_9
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca827b429d77be9c0800000000000000
+      internalID: -3896889278051440468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_10
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 1448
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ca4e38c1862a350800000000000000
+      internalID: 6026493723056319525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41da4f2a23df4c0800000000000000
+      internalID: -4252186797696805633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733eada891f5cad50800000000000000
+      internalID: 6749874504829952823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b114524b1e003fe0800000000000000
+      internalID: -1211452789522951751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22533be59447d9580800000000000000
+      internalID: -8818764636851325662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_15
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4c4a25798f6810800000000000000
+      internalID: 1760777115638975717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_16
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93806fa7857624f30800000000000000
+      internalID: 4558319402570090553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_17
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538955b02c98871d0800000000000000
+      internalID: -3352778456070514635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_18
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbeae4b3180e94c0800000000000000
+      internalID: -4278973715222697022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_19
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8a8c841162f080800000000000000
+      internalID: -9155148351605666502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_20
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486db218ca823080800000000000000
+      internalID: -9209145696106747833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_21
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 848
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6b53444c4af090800000000000000
+      internalID: -7999997931998713307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582c3c886cc8eb940800000000000000
+      internalID: 5313839394669707909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 248
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c96d43eb3fa0180800000000000000
+      internalID: -9148231694793925475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 248
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001cf37bca96f4120800000000000000
+      internalID: 2400253316941463808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_25
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 248
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddaae527f594ea10800000000000000
+      internalID: 1937838628401753552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_26
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 248
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4e61760e9fe110800000000000000
+      internalID: 1292425368588668348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_27
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 248
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b901ede5e8e130800000000000000
+      internalID: 3596377112300859665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChooseKika_28
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 248
+        width: 358
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e6963b2b00c150800000000000000
+      internalID: 5890720592827966822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

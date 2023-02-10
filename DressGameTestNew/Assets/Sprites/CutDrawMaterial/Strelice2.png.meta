@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: fa985b8b90c550746833af5393590f2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3701232287776442495
+    second: Strelice2_0
+  - first:
+      213: -7441833891805218978
+    second: Strelice2_1
+  - first:
+      213: 5817323261178557338
+    second: Strelice2_2
+  - first:
+      213: -6399045735722559608
+    second: Strelice2_3
+  - first:
+      213: 7881749630910917606
+    second: Strelice2_4
+  - first:
+      213: 2227774643034177936
+    second: Strelice2_5
+  - first:
+      213: 4351669546804507928
+    second: Strelice2_6
+  - first:
+      213: 4041677917386962089
+    second: Strelice2_7
+  - first:
+      213: -9216125670697983423
+    second: Strelice2_8
+  - first:
+      213: -8367749861693305533
+    second: Strelice2_9
+  - first:
+      213: 3680943283429231994
+    second: Strelice2_10
+  - first:
+      213: 4515048029905149263
+    second: Strelice2_11
+  - first:
+      213: -8678635831460035641
+    second: Strelice2_12
+  - first:
+      213: 6238178019082765960
+    second: Strelice2_13
+  - first:
+      213: -3975675514222266331
+    second: Strelice2_14
+  - first:
+      213: -598994545510145905
+    second: Strelice2_15
+  - first:
+      213: -4696876832676274527
+    second: Strelice2_16
+  - first:
+      213: -8879128803395741571
+    second: Strelice2_17
+  - first:
+      213: -3690396493263587286
+    second: Strelice2_18
+  - first:
+      213: 2620844988125150506
+    second: Strelice2_19
+  - first:
+      213: -8529398276458315613
+    second: Strelice2_20
+  - first:
+      213: 7675709678059811071
+    second: Strelice2_21
+  - first:
+      213: 8094423159207072506
+    second: Strelice2_22
+  - first:
+      213: 2467733394822983724
+    second: Strelice2_23
+  - first:
+      213: 1434140977624795931
+    second: Strelice2_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Strelice2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3569
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780f10e72b6d5330800000000000000
+      internalID: 3701232287776442495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3569
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57bc71018b49b890800000000000000
+      internalID: -7441833891805218978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3569
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933a2e3fa84bb050800000000000000
+      internalID: 5817323261178557338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3569
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88757c49ec50237a0800000000000000
+      internalID: -6399045735722559608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3042
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe20fa789916d60800000000000000
+      internalID: 7881749630910917606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3042
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ccad0c35aaee10800000000000000
+      internalID: 2227774643034177936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3042
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815fa2d856c346c30800000000000000
+      internalID: 4351669546804507928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_7
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3042
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f362f6ace61830800000000000000
+      internalID: 4041677917386962089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2515
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14220b8188eb91080800000000000000
+      internalID: -9216125670697983423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2515
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d4274c5d7cfdb80800000000000000
+      internalID: -8367749861693305533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2515
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc82fe966551330800000000000000
+      internalID: 3680943283429231994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2515
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dd25ee24ca8ae30800000000000000
+      internalID: 4515048029905149263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1988
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c309d251ba4f8780800000000000000
+      internalID: -8678635831460035641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1988
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88604196bd5729650800000000000000
+      internalID: 6238178019082765960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1988
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52830901f2093d8c0800000000000000
+      internalID: -3975675514222266331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_15
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1988
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80a87c62a1ffa7f0800000000000000
+      internalID: -598994545510145905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1461
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9192e76751deb0800000000000000
+      internalID: -4696876832676274527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1461
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7858ae956ff6c480800000000000000
+      internalID: -8879128803395741571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1461
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283da221f319ccc0800000000000000
+      internalID: -3690396493263587286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1461
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dff8081ac1f5420800000000000000
+      internalID: 2620844988125150506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08fdf457d71a980800000000000000
+      internalID: -8529398276458315613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 934
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff078c7d849958a60800000000000000
+      internalID: 7675709678059811071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_22
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 934
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af29b3a2afa255070800000000000000
+      internalID: 8094423159207072506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_23
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 934
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20facea2762f3220800000000000000
+      internalID: 2467733394822983724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strelice2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 510
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4829ee9717e310800000000000000
+      internalID: 1434140977624795931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

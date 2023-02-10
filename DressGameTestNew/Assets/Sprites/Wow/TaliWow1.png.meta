@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 54e756ac0f1402c47941e61b77716e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2294773984558116117
+    second: TaliWow1_0
+  - first:
+      213: -6737781417123566808
+    second: TaliWow1_1
+  - first:
+      213: 990347958136181347
+    second: TaliWow1_2
+  - first:
+      213: 2950140826633651883
+    second: TaliWow1_3
+  - first:
+      213: 5708594542675015213
+    second: TaliWow1_4
+  - first:
+      213: 2960583319234515845
+    second: TaliWow1_5
+  - first:
+      213: -3252422676508505075
+    second: TaliWow1_6
+  - first:
+      213: -6318668499105286026
+    second: TaliWow1_7
+  - first:
+      213: -8945466038029467704
+    second: TaliWow1_8
+  - first:
+      213: 4887226283037637285
+    second: TaliWow1_9
+  - first:
+      213: 6190254863520247817
+    second: TaliWow1_10
+  - first:
+      213: -8309382575793403574
+    second: TaliWow1_11
+  - first:
+      213: -7480556630044022984
+    second: TaliWow1_12
+  - first:
+      213: -5281315427669333991
+    second: TaliWow1_13
+  - first:
+      213: 8169848360195910829
+    second: TaliWow1_14
+  - first:
+      213: 4985779216564665550
+    second: TaliWow1_15
+  - first:
+      213: 6325402589176012748
+    second: TaliWow1_16
+  - first:
+      213: -7544929473149610019
+    second: TaliWow1_17
+  - first:
+      213: 1248457083411243064
+    second: TaliWow1_18
+  - first:
+      213: 509287109521735580
+    second: TaliWow1_19
+  - first:
+      213: 4532801025947108991
+    second: TaliWow1_20
+  - first:
+      213: 7258295593212851946
+    second: TaliWow1_21
+  - first:
+      213: 2873694108819109215
+    second: TaliWow1_22
+  - first:
+      213: -4616123337726410432
+    second: TaliWow1_23
+  - first:
+      213: -3804933828394506048
+    second: TaliWow1_24
+  - first:
+      213: 8939834604655497570
+    second: TaliWow1_25
+  - first:
+      213: -1085961338336260596
+    second: TaliWow1_26
+  - first:
+      213: 2018972893654890926
+    second: TaliWow1_27
+  - first:
+      213: 3910504985456907691
+    second: TaliWow1_28
+  - first:
+      213: -1085523020431126138
+    second: TaliWow1_29
+  - first:
+      213: 9218608918296495337
+    second: TaliWow1_30
+  - first:
+      213: -6889996294723013778
+    second: TaliWow1_31
+  - first:
+      213: 6675085879464228632
+    second: TaliWow1_32
+  - first:
+      213: -6478278091979725782
+    second: TaliWow1_33
+  - first:
+      213: -5523556648994316155
+    second: TaliWow1_34
+  - first:
+      213: 7344984163682351876
+    second: TaliWow1_35
+  - first:
+      213: 7456637411650252672
+    second: TaliWow1_36
+  - first:
+      213: -2229396840714733684
+    second: TaliWow1_37
+  - first:
+      213: 1108105434537351623
+    second: TaliWow1_38
+  - first:
+      213: -4696309585931001334
+    second: TaliWow1_39
+  - first:
+      213: -8561500118970645636
+    second: TaliWow1_40
+  - first:
+      213: -3971215329197161133
+    second: TaliWow1_41
+  - first:
+      213: -1078534720321319032
+    second: TaliWow1_42
+  - first:
+      213: -5850830304090253736
+    second: TaliWow1_43
+  - first:
+      213: 7446147653237760258
+    second: TaliWow1_44
+  - first:
+      213: 417479789972566121
+    second: TaliWow1_45
+  - first:
+      213: 5930910604664939402
+    second: TaliWow1_46
+  - first:
+      213: -4109330592960759942
+    second: TaliWow1_47
+  - first:
+      213: 3931072569468000318
+    second: TaliWow1_48
+  - first:
+      213: -3830573579777075559
+    second: TaliWow1_49
+  - first:
+      213: 8033313364757129109
+    second: TaliWow1_50
+  - first:
+      213: -2744244299236427514
+    second: TaliWow1_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TaliWow1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21b9228335720e0800000000000000
+      internalID: -2294773984558116117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b2f1adf779e72a0800000000000000
+      internalID: -6737781417123566808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629db8883c6ebd00800000000000000
+      internalID: 990347958136181347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_3
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba640e8837101f820800000000000000
+      internalID: 2950140826633651883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_4
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b0eabd70093f40800000000000000
+      internalID: 5708594542675015213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_5
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5839beec7da161920800000000000000
+      internalID: 2960583319234515845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_6
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c094bcec21dd2d0800000000000000
+      internalID: -3252422676508505075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_7
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f0615a749f48a0800000000000000
+      internalID: -6318668499105286026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_8
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 3446
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfbee498025bd380800000000000000
+      internalID: -8945466038029467704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa3969296ae2d340800000000000000
+      internalID: 4887226283037637285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9003241400438e550800000000000000
+      internalID: 6190254863520247817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_11
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49830382942fac80800000000000000
+      internalID: -8309382575793403574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_12
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376800f069bf2890800000000000000
+      internalID: -7480556630044022984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_13
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918aaf2a99ff4b6b0800000000000000
+      internalID: -5281315427669333991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_14
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace8424cc1216170800000000000000
+      internalID: 8169848360195910829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_15
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbcdb18cb013540800000000000000
+      internalID: 4985779216564665550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_16
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf1c25342858c750800000000000000
+      internalID: 6325402589176012748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_17
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 2796
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7da817e960b4790800000000000000
+      internalID: -7544929473149610019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8302c0e4a19635110800000000000000
+      internalID: 1248457083411243064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7ab38de9511700800000000000000
+      internalID: 509287109521735580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_20
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f768a1d648eb7ee30800000000000000
+      internalID: 4532801025947108991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_21
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae63c3cc265aab460800000000000000
+      internalID: 7258295593212851946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_22
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55bb45019961e720800000000000000
+      internalID: 2873694108819109215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_23
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414d67184c30ffb0800000000000000
+      internalID: -4616123337726410432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_24
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8adaca7d8223bc0800000000000000
+      internalID: -3804933828394506048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_25
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2615c39253ca01c70800000000000000
+      internalID: 8939834604655497570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_26
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 2146
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec8ac9ae3ede0f0800000000000000
+      internalID: -1085961338336260596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea931795625d40c10800000000000000
+      internalID: 2018972893654890926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59d86c097e44630800000000000000
+      internalID: 3910504985456907691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_29
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68191b370927fe0f0800000000000000
+      internalID: -1085523020431126138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_30
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48f4a08f31fef70800000000000000
+      internalID: 9218608918296495337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_31
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f64defd0d160a0800000000000000
+      internalID: -6889996294723013778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_32
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f0b2cd3ba2ac50800000000000000
+      internalID: 6675085879464228632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_33
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a246a5316688816a0800000000000000
+      internalID: -6478278091979725782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_34
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58062f72e726853b0800000000000000
+      internalID: -5523556648994316155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_35
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1496
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bf7257e20aee560800000000000000
+      internalID: 7344984163682351876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2d4c083c4b7760800000000000000
+      internalID: 7456637411650252672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f1dd92679f01e0800000000000000
+      internalID: -2229396840714733684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_38
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9574f8508c06f00800000000000000
+      internalID: 1108105434537351623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_39
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02225f405b53deb0800000000000000
+      internalID: -4696309585931001334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_40
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734a48a0017f2980800000000000000
+      internalID: -8561500118970645636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_41
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550e90d2b863e8c0800000000000000
+      internalID: -3971215329197161133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_42
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f825dd2664801f0800000000000000
+      internalID: -1078534720321319032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_43
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8561c9366dcadcea0800000000000000
+      internalID: -5850830304090253736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_44
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 846
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016858d6d7065760800000000000000
+      internalID: 7446147653237760258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960383638af2bc500800000000000000
+      internalID: 417479789972566121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_46
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 196
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83a6a985c3de4250800000000000000
+      internalID: 5930910604664939402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_47
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 196
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77bded0999b8f6c0800000000000000
+      internalID: -4109330592960759942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_48
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 196
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381c699ca9fd8630800000000000000
+      internalID: 3931072569468000318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_49
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 196
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996146bdf9117dac0800000000000000
+      internalID: -3830573579777075559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_50
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 196
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5972fb361ff0c7f60800000000000000
+      internalID: 8033313364757129109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaliWow1_51
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 196
+        width: 446
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093f17795c7ae9d0800000000000000
+      internalID: -2744244299236427514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

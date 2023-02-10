@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: e79c4715ccc222143ba7d9fe3d712135
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7169811351714352210
+    second: IroningBoard_0
+  - first:
+      213: 8147313221564701792
+    second: IroningBoard_1
+  - first:
+      213: 2153662439195364884
+    second: IroningBoard_2
+  - first:
+      213: 7104032905836640290
+    second: IroningBoard_3
+  - first:
+      213: 3600674723336781941
+    second: IroningBoard_4
+  - first:
+      213: 7237954593890010903
+    second: IroningBoard_5
+  - first:
+      213: 6807061407708816210
+    second: IroningBoard_6
+  - first:
+      213: -5478041802329954459
+    second: IroningBoard_7
+  - first:
+      213: -1698724941040038623
+    second: IroningBoard_8
+  - first:
+      213: -6161753408314131416
+    second: IroningBoard_9
+  - first:
+      213: 7481741026592132188
+    second: IroningBoard_10
+  - first:
+      213: -37687253107858179
+    second: IroningBoard_11
+  - first:
+      213: -3999574662212831948
+    second: IroningBoard_12
+  - first:
+      213: 352651824054660458
+    second: IroningBoard_13
+  - first:
+      213: -8358411245548397533
+    second: IroningBoard_14
+  - first:
+      213: -7021619146729489185
+    second: IroningBoard_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IroningBoard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1457
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4f75ef69408360800000000000000
+      internalID: 7169811351714352210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1457
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c153d6532111170800000000000000
+      internalID: 8147313221564701792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_2
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1457
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e475ee39853ed10800000000000000
+      internalID: 2153662439195364884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_3
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1457
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22834110a48969260800000000000000
+      internalID: 7104032905836640290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_4
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1457
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570873c659a28f130800000000000000
+      internalID: 3600674723336781941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_5
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 1457
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7178835da51627460800000000000000
+      internalID: 7237954593890010903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25321c2f84a877e50800000000000000
+      internalID: 6807061407708816210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 866
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e16331061af3b0800000000000000
+      internalID: -5478041802329954459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_8
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 866
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d46369aaaec68e0800000000000000
+      internalID: -1698724941040038623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_9
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 866
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c32e7ebed0d7aa0800000000000000
+      internalID: -6161753408314131416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_10
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 866
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8d7fd2db74d760800000000000000
+      internalID: 7481741026592132188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_11
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 866
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df422f994ab1a7ff0800000000000000
+      internalID: -37687253107858179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b62e0908ae78c0800000000000000
+      internalID: -3999574662212831948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 275
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6deb2e27fed4e400800000000000000
+      internalID: 352651824054660458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_14
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 275
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c1576c145f00c80800000000000000
+      internalID: -8358411245548397533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IroningBoard_15
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 275
+        width: 591
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc7b1396923e8e90800000000000000
+      internalID: -7021619146729489185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

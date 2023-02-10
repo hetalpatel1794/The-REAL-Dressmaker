@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 6bcf7564f396ff44283a4d4416e8226c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1400810859062490907
+    second: RenePayingHead2_0
+  - first:
+      213: -5591057773760306520
+    second: RenePayingHead2_1
+  - first:
+      213: 1695666591858194939
+    second: RenePayingHead2_2
+  - first:
+      213: 2099902833197405440
+    second: RenePayingHead2_3
+  - first:
+      213: -6963745006608705027
+    second: RenePayingHead2_4
+  - first:
+      213: -390702158417494975
+    second: RenePayingHead2_5
+  - first:
+      213: 1989180749704775967
+    second: RenePayingHead2_6
+  - first:
+      213: -9152798656869651612
+    second: RenePayingHead2_7
+  - first:
+      213: -3683164555879679364
+    second: RenePayingHead2_8
+  - first:
+      213: -4679019687840966469
+    second: RenePayingHead2_9
+  - first:
+      213: -7912996006021056196
+    second: RenePayingHead2_10
+  - first:
+      213: 615955303211981598
+    second: RenePayingHead2_11
+  - first:
+      213: 6045890940353488358
+    second: RenePayingHead2_12
+  - first:
+      213: 7393618752829707151
+    second: RenePayingHead2_13
+  - first:
+      213: -3949464365354887730
+    second: RenePayingHead2_14
+  - first:
+      213: -7290266101370188975
+    second: RenePayingHead2_15
+  - first:
+      213: -3697177617419155499
+    second: RenePayingHead2_16
+  - first:
+      213: -3381220511880839693
+    second: RenePayingHead2_17
+  - first:
+      213: 7939577232044879530
+    second: RenePayingHead2_18
+  - first:
+      213: -718614279817777681
+    second: RenePayingHead2_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RenePayingHead2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1615
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17fde3fd0ea07310800000000000000
+      internalID: 1400810859062490907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1615
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a454d3929862b0800000000000000
+      internalID: -5591057773760306520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_2
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1615
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9743108c7388710800000000000000
+      internalID: 1695666591858194939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_3
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1615
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055193408a542d10800000000000000
+      internalID: 2099902833197405440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_4
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1615
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df910bedfcecb5f90800000000000000
+      internalID: -6963745006608705027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_5
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1615
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cfb8af472f39af0800000000000000
+      internalID: -390702158417494975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_6
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1615
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19c23c4a5dfa9b10800000000000000
+      internalID: 1989180749704775967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bac9c7d1abaf080800000000000000
+      internalID: -9152798656869651612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1182
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a7b75c955c2ecc0800000000000000
+      internalID: -3683164555879679364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_9
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1182
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb81e296268c01fb0800000000000000
+      internalID: -4679019687840966469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_10
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1182
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b700be046f2290800000000000000
+      internalID: -7912996006021056196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_11
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1182
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd775b5105c8800800000000000000
+      internalID: 615955303211981598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_12
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1182
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a58a17c157e350800000000000000
+      internalID: 6045890940353488358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_13
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1182
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83d41725196b9660800000000000000
+      internalID: 7393618752829707151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec555f9b51fa039c0800000000000000
+      internalID: -3949464365354887730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 749
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b02c53b95c3da90800000000000000
+      internalID: -7290266101370188975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_16
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 749
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c432ab8cf0bcc0800000000000000
+      internalID: -3697177617419155499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_17
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 749
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf312ebdd7311d0800000000000000
+      internalID: -3381220511880839693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_18
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 749
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae60d64d6b0f2e60800000000000000
+      internalID: 7939577232044879530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RenePayingHead2_19
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 749
+        width: 539
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed20f0be18f606f0800000000000000
+      internalID: -718614279817777681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

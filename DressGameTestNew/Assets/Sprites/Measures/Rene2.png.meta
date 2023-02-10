@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: c439782090ac04741a22c8777cafef05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4984297782901572848
+    second: Rene2_0
+  - first:
+      213: -6926216283364019949
+    second: Rene2_1
+  - first:
+      213: 730720791587891330
+    second: Rene2_2
+  - first:
+      213: -7239034650450456368
+    second: Rene2_3
+  - first:
+      213: -8199145670487356189
+    second: Rene2_4
+  - first:
+      213: 1351815901449056590
+    second: Rene2_5
+  - first:
+      213: 2385801458656687981
+    second: Rene2_6
+  - first:
+      213: -949572335742395040
+    second: Rene2_7
+  - first:
+      213: -7403857579412016359
+    second: Rene2_8
+  - first:
+      213: 8565039272478038729
+    second: Rene2_9
+  - first:
+      213: -7412917947794559276
+    second: Rene2_10
+  - first:
+      213: -2945893667744457043
+    second: Rene2_11
+  - first:
+      213: -6340388776675170647
+    second: Rene2_12
+  - first:
+      213: -2081176583134498561
+    second: Rene2_13
+  - first:
+      213: 7573885938592344077
+    second: Rene2_14
+  - first:
+      213: 7057997587580280168
+    second: Rene2_15
+  - first:
+      213: 603458328005308074
+    second: Rene2_16
+  - first:
+      213: -417696556511133813
+    second: Rene2_17
+  - first:
+      213: 1919202597360528269
+    second: Rene2_18
+  - first:
+      213: 6560721632675503054
+    second: Rene2_19
+  - first:
+      213: -5854430862414728229
+    second: Rene2_20
+  - first:
+      213: -7266218616892246980
+    second: Rene2_21
+  - first:
+      213: 4888698277478501438
+    second: Rene2_22
+  - first:
+      213: -4930607079873913328
+    second: Rene2_23
+  - first:
+      213: -5856329494157279528
+    second: Rene2_24
+  - first:
+      213: -8103399351688743546
+    second: Rene2_25
+  - first:
+      213: -4449373520600243673
+    second: Rene2_26
+  - first:
+      213: -962536401863294770
+    second: Rene2_27
+  - first:
+      213: 1789674768419442829
+    second: Rene2_28
+  - first:
+      213: -772625520426494119
+    second: Rene2_29
+  - first:
+      213: -1186650857543395424
+    second: Rene2_30
+  - first:
+      213: -2478396424056674125
+    second: Rene2_31
+  - first:
+      213: 70617413460634549
+    second: Rene2_32
+  - first:
+      213: -7826095167156859523
+    second: Rene2_33
+  - first:
+      213: 5625830028698851118
+    second: Rene2_34
+  - first:
+      213: 8887648780323833646
+    second: Rene2_35
+  - first:
+      213: 8779497744713109683
+    second: Rene2_36
+  - first:
+      213: 4113299493185747669
+    second: Rene2_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rene2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b726b039734dab0800000000000000
+      internalID: -4984297782901572848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311bf88acf221ef90800000000000000
+      internalID: -6926216283364019949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a69c30ba042a00800000000000000
+      internalID: 730720791587891330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01827e658c98b90800000000000000
+      internalID: -7239034650450456368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4be02478c63e80800000000000000
+      internalID: -8199145670487356189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_5
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41789f666d92c210800000000000000
+      internalID: 1351815901449056590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6737df39c11c1120800000000000000
+      internalID: 2385801458656687981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d598fddf072d2f0800000000000000
+      internalID: -949572335742395040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913309342c6304990800000000000000
+      internalID: -7403857579412016359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_9
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1598
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad25bb6d12dd670800000000000000
+      internalID: 8565039272478038729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de669cd666002990800000000000000
+      internalID: -7412917947794559276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daed40431551e17d0800000000000000
+      internalID: -2945893667744457043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6276c100a6208a0800000000000000
+      internalID: -6340388776675170647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff038679cec2e13e0800000000000000
+      internalID: -2081176583134498561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086f1b0229db1960800000000000000
+      internalID: 7573885938592344077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5949396b03f160800000000000000
+      internalID: 7057997587580280168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_16
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee18de62aef5800800000000000000
+      internalID: 603458328005308074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_17
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fff35e13b043af0800000000000000
+      internalID: -417696556511133813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b6eab089062aa10800000000000000
+      internalID: 1919202597360528269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_19
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1148
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb18d1909d5c0b50800000000000000
+      internalID: 6560721632675503054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bfa31622e0cea0800000000000000
+      internalID: -5854430862414728229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34becf7aa4392b90800000000000000
+      internalID: -7266218616892246980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c8b239e2528d340800000000000000
+      internalID: 4888698277478501438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ed61dfbf6f29bb0800000000000000
+      internalID: -4930607079873913328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8debc1d6a532abea0800000000000000
+      internalID: -5856329494157279528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_25
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68536792931fa8f80800000000000000
+      internalID: -8103399351688743546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e7975b56a042c0800000000000000
+      internalID: -4449373520600243673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_27
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04e830e3264a2f0800000000000000
+      internalID: -962536401863294770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 698
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80de1348b336d810800000000000000
+      internalID: 1789674768419442829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957d396ce251745f0800000000000000
+      internalID: -772625520426494119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a796bb055b288fe0800000000000000
+      internalID: -1186650857543395424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e08b5597fa9dd0800000000000000
+      internalID: -2478396424056674125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_32
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2744d922eaf000800000000000000
+      internalID: 70617413460634549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc63fe8ef146390800000000000000
+      internalID: -7826095167156859523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_34
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27125baa96f21e40800000000000000
+      internalID: 5625830028698851118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_35
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27c2a71a75475b70800000000000000
+      internalID: 8887648780323833646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_36
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0d7fbdeaa07d970800000000000000
+      internalID: 8779497744713109683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rene2_37
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 248
+        width: 375
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da712a8810651930800000000000000
+      internalID: 4113299493185747669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
