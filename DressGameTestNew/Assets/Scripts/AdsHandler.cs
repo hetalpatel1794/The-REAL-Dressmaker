@@ -36,7 +36,6 @@ public class AdsHandler : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log("HETAL TEST");
         InitializeAds();
         RequestBanner();
         RequestRewardVideoAdd();
